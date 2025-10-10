@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+google-generativeai
+python-dotenv
+pydantic
+transformers
+torch      # optional if you use local HF fallback and you have GPU/CPU
+pandas
+pytest
+regex
+google-genai

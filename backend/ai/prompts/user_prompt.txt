@@ -1,0 +1,7 @@
+Topic: {topic}
+Subject: {subject}
+Grade: {level}
+Mode: {mode}   # 'urban' or 'rural'
+Language: {language}
+
+Please create the lesson plan following the system instructions above.
