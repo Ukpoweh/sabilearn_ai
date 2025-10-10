@@ -9,3 +9,5 @@ pandas
 pytest
 regex
 google-genai
+sqlalchemy
+psycopg2-binary

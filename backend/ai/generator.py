@@ -76,14 +76,18 @@ except Exception as e:
     ASYNC_CLIENT = None
 
 # Curriculum data (optional)
-# NOTE: The path assumes a standard directory structure: lesson_generator.py is in 'src' and curriculum_sample.csv is in 'data'
-CURRICULUM_PATH = os.path.join(os.path.dirname(__file__), "..", "data", "curriculum_sample.csv")
+# --- FIX: Ensure correct relative path and improve error logging ---
+# Path should be relative to this file: ai_core.py (backend/ai/) -> one up (backend/) -> data/ -> curriculum_sample.csv
+CURRICULUM_PATH = os.path.join(r"c:\Users\Ukpoweh Gift\Documents\edubridge_ai\backend\data", "curriculum_sample.csv")
 try:
     _curr_df = pd.read_csv(CURRICULUM_PATH)
     print("✅ Curriculum data loaded.")
-except Exception:
+except FileNotFoundError:
     _curr_df = None
-    print("⚠️ Curriculum data not loaded. Check path and file existence.")
+    print(f"⚠️ Curriculum data NOT loaded. File not found at path: {CURRICULUM_PATH}")
+except Exception as e:
+    _curr_df = None
+    print(f"❌ Curriculum data loading error: {type(e).__name__}: {e}")
 
 
 # --- Helper Functions ---
