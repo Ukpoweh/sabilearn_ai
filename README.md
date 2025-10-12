@@ -25,7 +25,7 @@ This backend leverages:
 ├── backend/
 │   ├── ai/
 │   │   ├── generator.py            # Gemini-based lesson plan generator
-│   │   ├── feedback_analyzer.py    # Gemini-based feedback analysis module
+│   │   ├── sentiment.py    # Gemini-based feedback analysis module
 │   │   ├── prompts/
 │   │   │   ├── system_prompt.txt
 │   │   │   └── user_prompt.txt
@@ -50,7 +50,7 @@ This backend leverages:
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/<your-username>/sabilearn_ai.git
-cd edubridge-ai/backend
+cd sabilearn_ai/backend
 ```
 
 ### 2. Create and activate a virtual environment
