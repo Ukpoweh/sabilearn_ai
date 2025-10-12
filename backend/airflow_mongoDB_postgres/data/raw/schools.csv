@@ -1,0 +1,1001 @@
+school_id,school_name,state,lga,ownership,school_type,total_teachers,total_students,student_teacher_ratio,facilities_score,digital_learning_access,performance_band
+SCH001,Abuja Model School 1,Kaduna,LGA-17,Private,Junior Secondary,19,1831,24.22,88.66,High,Average
+SCH002,Delta Model School 2,Enugu,LGA-4,Public,Primary,75,731,55.33,54.54,High,High
+SCH003,Oyo Model School 3,Kaduna,LGA-12,Public,Primary,55,1332,31.9,80.91,Low,Low
+SCH004,Abuja Model School 4,Abuja,LGA-1,Private,Senior Secondary,38,1884,30.8,45.86,Moderate,High
+SCH005,Lagos Model School 5,Kaduna,LGA-3,Public,Senior Secondary,41,1769,46.45,87.84,High,Average
+SCH006,Abuja Model School 6,Lagos,LGA-2,Private,Primary,44,1288,50.74,87.49,High,Low
+SCH007,Abuja Model School 7,Delta,LGA-6,Private,Technical college,65,2467,45.51,44.87,Low,High
+SCH008,Kogi Model School 8,Abuja,LGA-16,Public,Technical college,56,2479,54.36,67.18,High,Low
+SCH009,Kaduna Model School 9,Ogun,LGA-19,Public,Technical college,24,1916,22.94,43.32,Moderate,High
+SCH010,Abuja Model School 10,Lagos,LGA-2,Private,Technical college,14,1744,27.55,88.56,Moderate,Average
+SCH011,Lagos Model School 11,Abuja,LGA-12,Private,Technical college,46,2438,22.8,48.49,Moderate,Low
+SCH012,Borno Model School 12,Kano,LGA-6,Public,Primary,59,1984,45.78,89.2,Moderate,Low
+SCH013,Abuja Model School 13,Kano,LGA-19,Public,Technical college,41,446,56.35,70.34,High,Low
+SCH014,Abia Model School 14,Kaduna,LGA-19,Public,Senior Secondary,29,1422,39.64,66.35,High,Average
+SCH015,Lagos Model School 15,Delta,LGA-18,Public,Junior Secondary,12,1574,53.81,61.73,Moderate,Average
+SCH016,Ekiti Model School 16,Ekiti,LGA-2,Private,Senior Secondary,38,678,29.4,60.22,Low,High
+SCH017,Oyo Model School 17,Ogun,LGA-8,Private,Junior Secondary,36,1683,41.61,51.79,Low,High
+SCH018,Kogi Model School 18,Abia,LGA-13,Private,Technical college,60,1492,24.4,75.93,High,Average
+SCH019,Enugu Model School 19,Borno,LGA-10,Public,Junior Secondary,46,962,33.55,30.66,High,Low
+SCH020,Borno Model School 20,Kano,LGA-2,Public,Senior Secondary,40,1336,23.29,94.53,Low,Low
+SCH021,Ekiti Model School 21,Abuja,LGA-20,Public,Senior Secondary,52,2217,16.54,36.03,High,Low
+SCH022,Rivers Model School 22,Kano,LGA-7,Public,Technical college,54,1360,58.51,37.54,High,Low
+SCH023,Lagos Model School 23,Ekiti,LGA-13,Public,Junior Secondary,46,810,31.31,98.94,Moderate,Low
+SCH024,Rivers Model School 24,Enugu,LGA-10,Private,Junior Secondary,64,778,29.09,76.51,Moderate,High
+SCH025,Abuja Model School 25,Abia,LGA-5,Private,Senior Secondary,57,520,46.44,50.85,Low,Average
+SCH026,Ekiti Model School 26,Oyo,LGA-8,Private,Junior Secondary,35,1585,43.38,80.25,High,High
+SCH027,Kogi Model School 27,Rivers,LGA-16,Private,Primary,45,836,42.38,89.67,Low,High
+SCH028,Abia Model School 28,Delta,LGA-2,Public,Technical college,27,645,17.41,74.06,Moderate,Average
+SCH029,Abuja Model School 29,Kaduna,LGA-14,Public,Primary,30,1046,48.68,60.39,Moderate,Average
+SCH030,Rivers Model School 30,Lagos,LGA-4,Private,Technical college,72,2057,38.45,90.13,High,Low
+SCH031,Kaduna Model School 31,Kano,LGA-10,Private,Junior Secondary,67,217,54.1,59.15,Low,High
+SCH032,Ekiti Model School 32,Abuja,LGA-10,Public,Technical college,38,1787,48.73,62.14,Low,High
+SCH033,Ekiti Model School 33,Delta,LGA-10,Private,Primary,13,2057,18.19,95.53,High,High
+SCH034,Lagos Model School 34,Rivers,LGA-2,Private,Technical college,19,1605,45.11,76.05,Low,High
+SCH035,Ogun Model School 35,Kano,LGA-8,Public,Junior Secondary,46,456,43.61,84.4,Low,Low
+SCH036,Ogun Model School 36,Delta,LGA-10,Private,Senior Secondary,59,1094,36.26,52.06,Moderate,Average
+SCH037,Ekiti Model School 37,Oyo,LGA-1,Public,Technical college,63,576,43.68,30.92,Low,Average
+SCH038,Rivers Model School 38,Enugu,LGA-9,Private,Senior Secondary,40,203,40.52,98.93,High,Average
+SCH039,Kogi Model School 39,Lagos,LGA-20,Public,Technical college,62,333,31.51,38.39,Moderate,High
+SCH040,Abia Model School 40,Kaduna,LGA-2,Private,Primary,37,1150,53.17,57.78,High,Low
+SCH041,Enugu Model School 41,Ogun,LGA-4,Public,Junior Secondary,38,535,35.31,71.64,Moderate,High
+SCH042,Kaduna Model School 42,Ogun,LGA-13,Public,Junior Secondary,16,1446,31.13,65.74,Low,Low
+SCH043,Delta Model School 43,Ogun,LGA-8,Private,Primary,42,890,32.61,95.5,High,High
+SCH044,Rivers Model School 44,Kaduna,LGA-16,Private,Primary,70,283,56.8,96.13,Low,Average
+SCH045,Ekiti Model School 45,Borno,LGA-17,Private,Technical college,33,932,57.07,31.3,Moderate,Low
+SCH046,Lagos Model School 46,Abuja,LGA-19,Public,Technical college,54,1663,42.38,88.51,High,High
+SCH047,Abuja Model School 47,Kano,LGA-12,Private,Technical college,65,1802,20.5,46.88,Low,Low
+SCH048,Borno Model School 48,Enugu,LGA-6,Private,Primary,66,248,30.06,55.52,Low,Average
+SCH049,Abia Model School 49,Rivers,LGA-6,Public,Primary,28,1026,28.68,39.84,High,High
+SCH050,Abia Model School 50,Kogi,LGA-9,Public,Technical college,20,1247,21.37,52.28,High,Average
+SCH051,Delta Model School 51,Kaduna,LGA-5,Private,Technical college,58,222,46.15,81.09,Low,Low
+SCH052,Lagos Model School 52,Kaduna,LGA-5,Public,Senior Secondary,22,275,56.96,93.16,Low,Average
+SCH053,Ekiti Model School 53,Delta,LGA-13,Public,Primary,40,1900,29.76,61.17,Low,Average
+SCH054,Ogun Model School 54,Borno,LGA-18,Public,Junior Secondary,66,205,43.74,30.75,Moderate,Average
+SCH055,Kogi Model School 55,Kogi,LGA-7,Public,Primary,69,1921,23.65,37.85,High,Low
+SCH056,Delta Model School 56,Lagos,LGA-16,Public,Junior Secondary,77,588,58.49,53.29,High,Average
+SCH057,Lagos Model School 57,Ogun,LGA-11,Public,Senior Secondary,29,1066,38.93,78.68,High,Average
+SCH058,Oyo Model School 58,Borno,LGA-19,Private,Primary,30,2016,23.34,96.29,High,Low
+SCH059,Kano Model School 59,Abia,LGA-5,Public,Senior Secondary,44,910,32.83,50.11,High,Average
+SCH060,Enugu Model School 60,Delta,LGA-5,Private,Technical college,36,312,55.74,54.98,High,High
+SCH061,Ekiti Model School 61,Abia,LGA-1,Public,Primary,36,1417,43.72,91.88,Low,Low
+SCH062,Kogi Model School 62,Borno,LGA-3,Private,Technical college,35,2355,58.21,34.29,High,Average
+SCH063,Kogi Model School 63,Oyo,LGA-16,Public,Senior Secondary,76,2398,15.06,79.02,Moderate,Low
+SCH064,Lagos Model School 64,Abia,LGA-11,Public,Junior Secondary,52,788,37.41,47.03,Low,High
+SCH065,Abia Model School 65,Enugu,LGA-5,Public,Primary,34,588,35.95,90.13,Low,Average
+SCH066,Delta Model School 66,Kogi,LGA-15,Private,Senior Secondary,60,2173,25.26,31.47,Moderate,Low
+SCH067,Ekiti Model School 67,Enugu,LGA-19,Public,Technical college,30,419,51.64,40.42,High,Average
+SCH068,Abuja Model School 68,Ekiti,LGA-14,Public,Technical college,63,1542,56.14,36.18,Moderate,High
+SCH069,Ogun Model School 69,Delta,LGA-20,Private,Primary,45,1012,24.26,98.81,Moderate,High
+SCH070,Ogun Model School 70,Enugu,LGA-3,Public,Primary,10,2251,43.64,76.1,Low,Low
+SCH071,Kano Model School 71,Delta,LGA-3,Public,Senior Secondary,56,1074,19.33,85.66,Low,Average
+SCH072,Abia Model School 72,Oyo,LGA-7,Public,Technical college,35,1950,30.36,75.41,Moderate,Low
+SCH073,Borno Model School 73,Lagos,LGA-6,Private,Senior Secondary,77,915,35.53,98.12,High,Low
+SCH074,Delta Model School 74,Lagos,LGA-19,Private,Junior Secondary,23,2392,48.0,56.77,Moderate,High
+SCH075,Ekiti Model School 75,Abuja,LGA-8,Public,Technical college,51,2052,55.3,38.33,Low,High
+SCH076,Kano Model School 76,Kano,LGA-19,Private,Primary,60,1555,27.12,84.96,Low,Low
+SCH077,Lagos Model School 77,Oyo,LGA-17,Private,Junior Secondary,29,454,46.55,96.29,Low,High
+SCH078,Ogun Model School 78,Ogun,LGA-20,Private,Junior Secondary,72,477,51.43,81.82,Low,High
+SCH079,Kaduna Model School 79,Borno,LGA-11,Public,Technical college,45,221,35.84,85.11,Low,Average
+SCH080,Ekiti Model School 80,Abia,LGA-18,Public,Senior Secondary,45,525,24.98,33.74,Moderate,Low
+SCH081,Lagos Model School 81,Borno,LGA-1,Private,Technical college,29,619,17.72,70.07,High,High
+SCH082,Kaduna Model School 82,Rivers,LGA-17,Public,Technical college,11,2407,23.53,84.01,Moderate,Average
+SCH083,Ekiti Model School 83,Ekiti,LGA-3,Private,Technical college,67,273,33.35,86.28,Moderate,High
+SCH084,Kano Model School 84,Ekiti,LGA-15,Public,Technical college,62,1806,52.2,32.55,Moderate,Low
+SCH085,Ekiti Model School 85,Kano,LGA-19,Private,Primary,23,1408,44.48,62.77,Low,Low
+SCH086,Ogun Model School 86,Abuja,LGA-14,Public,Junior Secondary,79,2190,29.34,53.87,Moderate,Average
+SCH087,Rivers Model School 87,Abuja,LGA-8,Public,Junior Secondary,29,580,41.18,87.82,Moderate,Low
+SCH088,Kaduna Model School 88,Abuja,LGA-4,Public,Senior Secondary,33,1140,29.24,73.86,Moderate,High
+SCH089,Ogun Model School 89,Lagos,LGA-9,Private,Junior Secondary,32,2415,47.43,39.7,Moderate,High
+SCH090,Kano Model School 90,Kogi,LGA-20,Public,Senior Secondary,37,942,22.35,33.27,Low,Average
+SCH091,Abuja Model School 91,Kaduna,LGA-8,Public,Primary,57,546,25.56,43.81,Low,Average
+SCH092,Borno Model School 92,Abuja,LGA-18,Private,Technical college,48,1046,56.83,91.81,Moderate,Low
+SCH093,Oyo Model School 93,Kaduna,LGA-13,Public,Junior Secondary,47,1655,45.67,99.09,Moderate,Average
+SCH094,Ekiti Model School 94,Borno,LGA-1,Public,Senior Secondary,79,1083,30.93,64.0,High,Low
+SCH095,Kaduna Model School 95,Ogun,LGA-6,Public,Junior Secondary,60,1688,21.18,63.41,Moderate,Average
+SCH096,Kogi Model School 96,Kogi,LGA-15,Private,Junior Secondary,68,2066,24.29,66.14,High,Average
+SCH097,Ekiti Model School 97,Ogun,LGA-9,Private,Junior Secondary,21,2450,58.88,83.02,Moderate,Low
+SCH098,Lagos Model School 98,Delta,LGA-15,Private,Junior Secondary,73,1764,29.24,82.39,Moderate,Average
+SCH099,Kaduna Model School 99,Abuja,LGA-1,Private,Senior Secondary,14,541,36.06,49.21,Moderate,High
+SCH100,Ekiti Model School 100,Kano,LGA-7,Public,Senior Secondary,62,937,42.42,43.92,High,Average
+SCH101,Oyo Model School 101,Oyo,LGA-1,Private,Primary,68,2492,53.39,71.77,High,High
+SCH102,Lagos Model School 102,Kano,LGA-20,Private,Technical college,44,1554,45.78,60.31,High,High
+SCH103,Delta Model School 103,Delta,LGA-4,Private,Primary,76,1184,26.36,88.84,Low,Average
+SCH104,Lagos Model School 104,Ekiti,LGA-9,Public,Technical college,70,1472,51.65,92.77,Low,Average
+SCH105,Enugu Model School 105,Oyo,LGA-20,Public,Junior Secondary,48,1983,42.95,86.02,Low,High
+SCH106,Ogun Model School 106,Ogun,LGA-15,Private,Senior Secondary,28,522,49.21,43.14,Low,Low
+SCH107,Abuja Model School 107,Abuja,LGA-7,Public,Junior Secondary,48,590,52.72,53.51,Moderate,High
+SCH108,Abia Model School 108,Enugu,LGA-8,Public,Technical college,15,1615,34.12,73.54,Moderate,High
+SCH109,Borno Model School 109,Ekiti,LGA-13,Private,Technical college,26,927,41.3,38.24,Moderate,High
+SCH110,Borno Model School 110,Borno,LGA-16,Public,Primary,68,339,48.73,98.54,High,Average
+SCH111,Borno Model School 111,Abuja,LGA-1,Public,Primary,70,835,35.32,66.2,Moderate,Average
+SCH112,Borno Model School 112,Rivers,LGA-1,Public,Senior Secondary,36,1530,53.4,87.5,Moderate,High
+SCH113,Lagos Model School 113,Kaduna,LGA-11,Private,Junior Secondary,26,1724,21.8,60.29,High,Low
+SCH114,Lagos Model School 114,Kogi,LGA-17,Private,Senior Secondary,38,1597,16.71,95.92,High,Average
+SCH115,Lagos Model School 115,Enugu,LGA-15,Private,Junior Secondary,42,709,20.96,67.0,Moderate,Low
+SCH116,Abuja Model School 116,Borno,LGA-17,Private,Junior Secondary,44,1202,32.53,38.39,High,Average
+SCH117,Ekiti Model School 117,Abuja,LGA-10,Public,Technical college,45,1179,55.64,59.17,Moderate,Low
+SCH118,Kogi Model School 118,Enugu,LGA-12,Public,Junior Secondary,77,2349,36.58,96.01,High,High
+SCH119,Borno Model School 119,Kaduna,LGA-1,Public,Technical college,13,383,39.51,59.47,Low,High
+SCH120,Abuja Model School 120,Oyo,LGA-8,Public,Primary,53,2139,57.13,86.34,High,Average
+SCH121,Lagos Model School 121,Kogi,LGA-5,Public,Primary,47,1329,56.5,97.85,Moderate,High
+SCH122,Abia Model School 122,Rivers,LGA-13,Private,Primary,77,1316,52.92,53.7,Low,Low
+SCH123,Enugu Model School 123,Ogun,LGA-7,Private,Senior Secondary,11,423,34.24,61.06,High,Average
+SCH124,Abuja Model School 124,Oyo,LGA-20,Private,Senior Secondary,80,1093,16.35,91.36,High,Average
+SCH125,Abuja Model School 125,Enugu,LGA-2,Public,Senior Secondary,72,618,23.58,83.88,Moderate,Average
+SCH126,Kogi Model School 126,Delta,LGA-9,Public,Senior Secondary,70,2007,43.89,75.69,High,Low
+SCH127,Delta Model School 127,Kogi,LGA-13,Private,Primary,75,2435,23.87,76.99,High,Low
+SCH128,Rivers Model School 128,Abuja,LGA-10,Private,Junior Secondary,43,1866,51.78,34.54,High,High
+SCH129,Rivers Model School 129,Rivers,LGA-17,Private,Technical college,29,424,19.45,94.82,Low,Low
+SCH130,Borno Model School 130,Oyo,LGA-11,Private,Primary,17,1887,41.41,35.23,Low,Average
+SCH131,Ekiti Model School 131,Borno,LGA-18,Private,Primary,53,307,34.61,48.19,High,High
+SCH132,Ekiti Model School 132,Ekiti,LGA-20,Public,Senior Secondary,41,2201,33.71,68.72,Moderate,Average
+SCH133,Kaduna Model School 133,Lagos,LGA-9,Public,Senior Secondary,61,654,24.45,94.29,High,High
+SCH134,Borno Model School 134,Abia,LGA-17,Public,Primary,39,2455,45.92,95.51,Moderate,Low
+SCH135,Lagos Model School 135,Borno,LGA-8,Private,Junior Secondary,18,2498,29.8,86.43,Low,Low
+SCH136,Kogi Model School 136,Kogi,LGA-14,Public,Junior Secondary,13,1996,37.45,55.32,High,Low
+SCH137,Lagos Model School 137,Delta,LGA-11,Private,Primary,77,1135,36.15,46.24,Moderate,High
+SCH138,Ekiti Model School 138,Abia,LGA-6,Public,Junior Secondary,27,636,40.26,31.26,Low,High
+SCH139,Lagos Model School 139,Kaduna,LGA-3,Public,Primary,59,1762,17.49,61.85,Low,Average
+SCH140,Kano Model School 140,Ogun,LGA-4,Private,Technical college,60,1481,56.27,58.84,Moderate,Average
+SCH141,Kano Model School 141,Enugu,LGA-10,Private,Junior Secondary,38,974,44.22,32.27,Low,Low
+SCH142,Abuja Model School 142,Ogun,LGA-11,Public,Technical college,10,310,21.93,90.62,Moderate,Average
+SCH143,Borno Model School 143,Enugu,LGA-18,Public,Senior Secondary,27,379,25.92,75.14,High,Average
+SCH144,Lagos Model School 144,Ogun,LGA-4,Public,Primary,27,2104,40.51,53.54,Low,Low
+SCH145,Kogi Model School 145,Borno,LGA-11,Public,Senior Secondary,27,1648,55.31,44.38,Moderate,Average
+SCH146,Oyo Model School 146,Kaduna,LGA-2,Private,Senior Secondary,74,834,41.62,82.28,Moderate,Low
+SCH147,Ogun Model School 147,Ekiti,LGA-11,Private,Primary,17,435,31.72,40.99,Low,Low
+SCH148,Ogun Model School 148,Ekiti,LGA-10,Public,Technical college,10,2344,37.71,93.99,High,Low
+SCH149,Kano Model School 149,Enugu,LGA-18,Private,Technical college,38,1445,56.09,91.11,High,High
+SCH150,Kano Model School 150,Kano,LGA-10,Public,Technical college,59,578,30.2,93.68,High,Low
+SCH151,Oyo Model School 151,Lagos,LGA-20,Public,Senior Secondary,49,1470,48.33,55.53,High,High
+SCH152,Lagos Model School 152,Abia,LGA-8,Public,Primary,78,1662,22.04,39.29,Low,Average
+SCH153,Kaduna Model School 153,Kano,LGA-9,Public,Junior Secondary,30,2118,24.22,89.69,Low,High
+SCH154,Kogi Model School 154,Delta,LGA-15,Private,Junior Secondary,36,554,22.49,42.32,Low,Average
+SCH155,Ekiti Model School 155,Borno,LGA-16,Private,Primary,31,1719,54.68,35.52,Moderate,Average
+SCH156,Lagos Model School 156,Borno,LGA-7,Public,Technical college,42,663,17.49,93.0,High,High
+SCH157,Ogun Model School 157,Kano,LGA-17,Public,Junior Secondary,36,1022,51.01,99.43,Moderate,Average
+SCH158,Rivers Model School 158,Abuja,LGA-15,Public,Junior Secondary,66,307,46.46,56.62,Moderate,High
+SCH159,Abuja Model School 159,Kano,LGA-3,Private,Technical college,77,580,43.08,50.89,Moderate,High
+SCH160,Rivers Model School 160,Rivers,LGA-6,Public,Junior Secondary,27,1559,16.75,87.59,High,Average
+SCH161,Abuja Model School 161,Lagos,LGA-19,Public,Technical college,46,787,19.01,35.7,High,High
+SCH162,Borno Model School 162,Rivers,LGA-7,Private,Technical college,33,1061,32.53,68.23,Low,High
+SCH163,Ogun Model School 163,Lagos,LGA-11,Public,Junior Secondary,19,1230,30.62,75.96,Low,Low
+SCH164,Kogi Model School 164,Kaduna,LGA-7,Public,Primary,18,543,16.96,42.51,Low,High
+SCH165,Lagos Model School 165,Delta,LGA-18,Private,Primary,12,1249,44.91,85.59,Low,High
+SCH166,Borno Model School 166,Rivers,LGA-11,Public,Senior Secondary,73,872,54.37,93.05,Moderate,Low
+SCH167,Lagos Model School 167,Kaduna,LGA-12,Private,Senior Secondary,80,342,48.59,43.84,Moderate,Average
+SCH168,Ogun Model School 168,Abuja,LGA-9,Public,Technical college,32,1837,44.61,65.85,Moderate,High
+SCH169,Rivers Model School 169,Oyo,LGA-9,Public,Technical college,20,2021,29.18,56.19,Moderate,High
+SCH170,Kano Model School 170,Abuja,LGA-16,Private,Senior Secondary,60,920,47.39,90.99,High,Low
+SCH171,Oyo Model School 171,Kano,LGA-20,Public,Junior Secondary,43,318,59.78,86.21,Low,Low
+SCH172,Ogun Model School 172,Ogun,LGA-11,Public,Senior Secondary,77,1092,58.81,73.36,Low,Low
+SCH173,Ekiti Model School 173,Borno,LGA-13,Private,Technical college,31,1679,45.72,48.09,Low,Average
+SCH174,Ekiti Model School 174,Borno,LGA-11,Public,Technical college,68,1789,25.54,71.54,Low,High
+SCH175,Enugu Model School 175,Borno,LGA-15,Public,Junior Secondary,34,1477,31.93,59.36,High,Low
+SCH176,Enugu Model School 176,Delta,LGA-17,Private,Technical college,32,2323,20.84,43.89,Low,Average
+SCH177,Rivers Model School 177,Rivers,LGA-18,Public,Junior Secondary,78,1059,22.67,92.03,Moderate,Low
+SCH178,Abia Model School 178,Abuja,LGA-7,Public,Technical college,14,1810,58.64,48.48,High,Low
+SCH179,Abia Model School 179,Borno,LGA-18,Public,Junior Secondary,35,1734,54.8,32.77,High,Average
+SCH180,Kano Model School 180,Lagos,LGA-12,Public,Junior Secondary,57,2070,32.22,49.94,Moderate,Low
+SCH181,Kogi Model School 181,Borno,LGA-18,Public,Senior Secondary,35,983,50.92,95.93,Moderate,Average
+SCH182,Borno Model School 182,Ekiti,LGA-9,Private,Technical college,60,1669,22.77,59.79,Moderate,Average
+SCH183,Ekiti Model School 183,Rivers,LGA-14,Private,Junior Secondary,54,2056,45.3,94.24,Low,Low
+SCH184,Kano Model School 184,Enugu,LGA-12,Public,Primary,16,219,51.41,63.43,High,Average
+SCH185,Borno Model School 185,Abia,LGA-10,Public,Junior Secondary,70,1270,36.93,48.79,Low,Low
+SCH186,Kano Model School 186,Kogi,LGA-19,Public,Primary,11,1883,16.95,87.42,Moderate,High
+SCH187,Enugu Model School 187,Kogi,LGA-18,Public,Primary,44,2307,56.85,70.2,Low,Average
+SCH188,Rivers Model School 188,Borno,LGA-1,Private,Technical college,68,2397,35.43,35.56,Moderate,Low
+SCH189,Ekiti Model School 189,Abia,LGA-20,Public,Primary,17,550,47.48,81.33,Low,Low
+SCH190,Ekiti Model School 190,Abia,LGA-11,Private,Technical college,72,1147,46.15,98.2,Low,High
+SCH191,Oyo Model School 191,Enugu,LGA-10,Private,Senior Secondary,35,1563,52.46,99.07,Moderate,Low
+SCH192,Delta Model School 192,Abia,LGA-11,Private,Junior Secondary,61,2281,22.54,96.79,Moderate,Average
+SCH193,Rivers Model School 193,Kogi,LGA-1,Public,Technical college,73,861,55.19,47.99,Moderate,Low
+SCH194,Abia Model School 194,Borno,LGA-12,Public,Primary,72,2387,21.17,78.77,Low,Low
+SCH195,Ekiti Model School 195,Rivers,LGA-2,Public,Junior Secondary,52,2197,35.35,62.05,Low,High
+SCH196,Ekiti Model School 196,Enugu,LGA-9,Private,Primary,66,1732,15.39,98.03,Moderate,Low
+SCH197,Delta Model School 197,Enugu,LGA-19,Public,Technical college,66,1955,19.56,44.79,High,Average
+SCH198,Lagos Model School 198,Rivers,LGA-5,Private,Primary,74,1849,57.79,96.74,Moderate,Average
+SCH199,Rivers Model School 199,Lagos,LGA-12,Public,Junior Secondary,37,617,45.74,65.59,Moderate,Average
+SCH200,Oyo Model School 200,Rivers,LGA-17,Public,Technical college,40,1614,43.8,99.94,Moderate,High
+SCH201,Rivers Model School 201,Abia,LGA-13,Private,Senior Secondary,26,1132,38.68,53.42,High,High
+SCH202,Lagos Model School 202,Kano,LGA-17,Public,Senior Secondary,54,1946,52.38,50.44,High,Average
+SCH203,Lagos Model School 203,Kogi,LGA-15,Private,Senior Secondary,49,1959,53.97,42.49,High,Average
+SCH204,Borno Model School 204,Kaduna,LGA-6,Public,Senior Secondary,67,1969,41.06,71.06,Moderate,Average
+SCH205,Lagos Model School 205,Kano,LGA-10,Public,Primary,54,2495,45.01,44.71,Moderate,Low
+SCH206,Abuja Model School 206,Kano,LGA-3,Private,Senior Secondary,57,397,31.18,78.89,Moderate,High
+SCH207,Enugu Model School 207,Delta,LGA-20,Private,Technical college,29,659,59.57,90.07,Low,Average
+SCH208,Rivers Model School 208,Delta,LGA-10,Public,Primary,40,1139,49.21,44.59,Moderate,Low
+SCH209,Ekiti Model School 209,Delta,LGA-20,Public,Junior Secondary,47,845,59.86,91.79,Low,Low
+SCH210,Lagos Model School 210,Kaduna,LGA-6,Public,Junior Secondary,37,647,24.49,42.36,Moderate,High
+SCH211,Oyo Model School 211,Kogi,LGA-2,Public,Primary,13,391,36.23,50.62,Moderate,Low
+SCH212,Enugu Model School 212,Abuja,LGA-16,Public,Technical college,10,1263,29.21,95.32,High,Low
+SCH213,Ekiti Model School 213,Borno,LGA-10,Private,Senior Secondary,24,1544,55.21,99.21,High,Average
+SCH214,Enugu Model School 214,Delta,LGA-13,Public,Junior Secondary,52,1427,37.72,50.42,Moderate,High
+SCH215,Lagos Model School 215,Kogi,LGA-15,Private,Junior Secondary,53,2326,31.04,61.03,Moderate,Low
+SCH216,Ogun Model School 216,Abia,LGA-10,Private,Primary,71,1024,43.0,35.77,Moderate,High
+SCH217,Abia Model School 217,Abia,LGA-20,Private,Senior Secondary,48,257,40.68,95.43,Moderate,Low
+SCH218,Lagos Model School 218,Enugu,LGA-4,Private,Senior Secondary,39,879,53.07,83.8,Low,High
+SCH219,Delta Model School 219,Borno,LGA-19,Public,Technical college,47,1596,42.11,72.32,High,High
+SCH220,Abuja Model School 220,Borno,LGA-1,Private,Technical college,40,356,49.61,99.34,High,Low
+SCH221,Kaduna Model School 221,Ogun,LGA-9,Private,Primary,45,933,48.68,41.28,Low,Average
+SCH222,Ogun Model School 222,Lagos,LGA-11,Private,Primary,77,1473,49.55,72.25,Low,Average
+SCH223,Abuja Model School 223,Kano,LGA-11,Public,Technical college,61,1109,42.46,37.31,Moderate,Average
+SCH224,Lagos Model School 224,Lagos,LGA-11,Private,Primary,75,618,22.14,89.36,High,Low
+SCH225,Enugu Model School 225,Abia,LGA-12,Public,Technical college,74,1858,28.56,75.28,High,Low
+SCH226,Kaduna Model School 226,Abia,LGA-16,Private,Senior Secondary,41,1190,51.84,62.6,Moderate,Average
+SCH227,Ogun Model School 227,Kogi,LGA-9,Public,Senior Secondary,15,1437,59.43,82.89,Moderate,Low
+SCH228,Borno Model School 228,Ogun,LGA-6,Private,Technical college,59,2232,24.91,63.24,High,Low
+SCH229,Delta Model School 229,Kaduna,LGA-2,Private,Primary,59,1037,49.48,45.04,Moderate,High
+SCH230,Borno Model School 230,Enugu,LGA-5,Public,Primary,34,1737,22.27,73.22,High,Low
+SCH231,Kaduna Model School 231,Kano,LGA-15,Public,Technical college,33,1342,24.52,91.64,Moderate,High
+SCH232,Ekiti Model School 232,Delta,LGA-8,Private,Junior Secondary,57,851,29.25,72.44,High,Average
+SCH233,Kano Model School 233,Abuja,LGA-5,Public,Technical college,24,1211,42.58,47.49,High,Low
+SCH234,Abuja Model School 234,Borno,LGA-6,Private,Junior Secondary,79,472,20.32,99.88,Moderate,High
+SCH235,Kogi Model School 235,Delta,LGA-7,Private,Primary,35,1431,40.22,57.78,Moderate,Average
+SCH236,Enugu Model School 236,Kogi,LGA-19,Private,Primary,44,1694,57.56,69.48,High,Average
+SCH237,Kaduna Model School 237,Borno,LGA-4,Public,Primary,79,1449,37.9,93.4,Moderate,High
+SCH238,Abia Model School 238,Enugu,LGA-8,Private,Technical college,39,561,28.08,92.66,Low,High
+SCH239,Ekiti Model School 239,Lagos,LGA-2,Public,Senior Secondary,17,781,44.74,32.85,High,Average
+SCH240,Kaduna Model School 240,Kaduna,LGA-17,Private,Senior Secondary,63,1248,25.96,78.16,High,High
+SCH241,Lagos Model School 241,Oyo,LGA-16,Public,Senior Secondary,26,602,50.51,42.27,High,Low
+SCH242,Rivers Model School 242,Ekiti,LGA-1,Private,Junior Secondary,29,275,55.22,86.99,High,Average
+SCH243,Delta Model School 243,Kano,LGA-5,Public,Primary,12,843,16.07,57.68,High,Low
+SCH244,Kano Model School 244,Ekiti,LGA-3,Public,Primary,67,291,19.32,88.43,Low,High
+SCH245,Ogun Model School 245,Lagos,LGA-12,Private,Junior Secondary,33,2149,32.47,73.81,High,Low
+SCH246,Ekiti Model School 246,Rivers,LGA-18,Public,Technical college,37,204,35.88,35.07,High,High
+SCH247,Enugu Model School 247,Borno,LGA-4,Private,Junior Secondary,21,615,56.23,94.03,Low,Low
+SCH248,Ekiti Model School 248,Borno,LGA-20,Public,Technical college,74,2428,35.39,74.31,Moderate,Average
+SCH249,Oyo Model School 249,Abia,LGA-5,Private,Primary,51,1980,49.0,58.76,Moderate,Average
+SCH250,Kogi Model School 250,Abia,LGA-16,Private,Junior Secondary,58,970,28.33,72.59,High,High
+SCH251,Borno Model School 251,Kaduna,LGA-7,Private,Primary,28,2104,55.88,44.96,High,Average
+SCH252,Kogi Model School 252,Lagos,LGA-18,Private,Senior Secondary,12,1985,44.23,58.97,Moderate,Low
+SCH253,Kogi Model School 253,Abia,LGA-10,Public,Junior Secondary,43,1669,43.65,83.51,High,Average
+SCH254,Kaduna Model School 254,Borno,LGA-4,Private,Junior Secondary,29,2226,53.12,78.37,Moderate,Average
+SCH255,Lagos Model School 255,Kano,LGA-13,Private,Junior Secondary,35,521,25.09,74.71,Low,High
+SCH256,Ogun Model School 256,Abia,LGA-10,Public,Senior Secondary,55,380,53.57,96.0,Moderate,High
+SCH257,Oyo Model School 257,Oyo,LGA-11,Public,Senior Secondary,66,1065,37.64,83.11,Low,Low
+SCH258,Oyo Model School 258,Delta,LGA-11,Private,Junior Secondary,31,2083,42.1,80.89,Moderate,Low
+SCH259,Kogi Model School 259,Delta,LGA-7,Public,Primary,61,411,27.81,41.52,High,Average
+SCH260,Borno Model School 260,Kaduna,LGA-4,Private,Primary,37,589,20.09,88.37,High,High
+SCH261,Kogi Model School 261,Kaduna,LGA-16,Private,Technical college,23,1395,16.5,32.31,Low,Low
+SCH262,Borno Model School 262,Enugu,LGA-11,Private,Technical college,54,278,57.19,71.68,High,High
+SCH263,Oyo Model School 263,Rivers,LGA-13,Public,Junior Secondary,18,1722,17.58,93.21,Moderate,Low
+SCH264,Enugu Model School 264,Rivers,LGA-17,Private,Primary,57,1150,31.3,90.52,Low,Low
+SCH265,Borno Model School 265,Kano,LGA-9,Public,Technical college,48,2237,27.21,99.58,Moderate,Low
+SCH266,Kogi Model School 266,Abuja,LGA-14,Private,Senior Secondary,79,989,18.61,89.26,Low,Low
+SCH267,Ogun Model School 267,Abuja,LGA-11,Public,Primary,62,570,15.82,47.81,High,Low
+SCH268,Ekiti Model School 268,Kogi,LGA-19,Private,Technical college,60,1743,32.34,94.91,Low,High
+SCH269,Enugu Model School 269,Ogun,LGA-14,Private,Senior Secondary,40,210,42.38,57.49,High,Low
+SCH270,Kano Model School 270,Kogi,LGA-9,Public,Technical college,66,1162,38.15,52.25,Low,Average
+SCH271,Kogi Model School 271,Abia,LGA-5,Private,Senior Secondary,13,2284,41.34,39.86,Moderate,Average
+SCH272,Ekiti Model School 272,Rivers,LGA-3,Public,Primary,55,1520,48.04,30.58,Moderate,High
+SCH273,Rivers Model School 273,Abuja,LGA-12,Public,Primary,47,1787,17.08,81.71,Moderate,Average
+SCH274,Abuja Model School 274,Ekiti,LGA-6,Private,Primary,51,1477,34.98,84.2,Low,Average
+SCH275,Kogi Model School 275,Ogun,LGA-18,Public,Junior Secondary,27,1060,21.05,99.18,Low,Average
+SCH276,Enugu Model School 276,Abuja,LGA-6,Private,Primary,10,2393,24.91,84.96,Moderate,Average
+SCH277,Ogun Model School 277,Lagos,LGA-4,Public,Primary,42,231,34.07,81.73,High,Low
+SCH278,Enugu Model School 278,Enugu,LGA-1,Private,Primary,11,1657,55.07,73.07,Moderate,Average
+SCH279,Kaduna Model School 279,Ekiti,LGA-10,Public,Senior Secondary,42,2043,33.67,54.52,High,Low
+SCH280,Delta Model School 280,Kogi,LGA-18,Public,Senior Secondary,45,1778,54.91,58.08,High,High
+SCH281,Enugu Model School 281,Abia,LGA-14,Private,Senior Secondary,36,2191,46.27,40.17,Low,Average
+SCH282,Rivers Model School 282,Kogi,LGA-8,Public,Technical college,36,1957,56.4,31.94,Moderate,Average
+SCH283,Lagos Model School 283,Ogun,LGA-8,Public,Junior Secondary,18,2026,54.96,60.39,Low,Average
+SCH284,Ekiti Model School 284,Ekiti,LGA-11,Public,Technical college,32,330,17.1,39.68,High,Low
+SCH285,Kaduna Model School 285,Lagos,LGA-10,Public,Junior Secondary,12,1217,48.31,53.9,Low,High
+SCH286,Ogun Model School 286,Lagos,LGA-9,Private,Junior Secondary,47,305,18.1,44.14,High,Average
+SCH287,Abuja Model School 287,Enugu,LGA-13,Public,Technical college,18,2328,29.22,77.22,High,Average
+SCH288,Rivers Model School 288,Ekiti,LGA-14,Private,Junior Secondary,64,1201,38.99,32.81,Moderate,High
+SCH289,Kano Model School 289,Borno,LGA-17,Public,Junior Secondary,44,1439,58.69,88.33,Moderate,Low
+SCH290,Borno Model School 290,Rivers,LGA-3,Public,Junior Secondary,45,585,16.78,91.13,Moderate,Average
+SCH291,Oyo Model School 291,Abuja,LGA-3,Private,Primary,69,1173,50.61,66.04,Moderate,Low
+SCH292,Kogi Model School 292,Borno,LGA-4,Public,Technical college,26,2098,16.6,50.78,Moderate,Average
+SCH293,Rivers Model School 293,Delta,LGA-13,Public,Senior Secondary,66,1102,29.96,72.73,Low,Average
+SCH294,Ekiti Model School 294,Delta,LGA-11,Public,Senior Secondary,20,2155,47.43,35.3,Low,Low
+SCH295,Rivers Model School 295,Abia,LGA-7,Private,Senior Secondary,17,1197,53.08,65.08,Moderate,Average
+SCH296,Kogi Model School 296,Enugu,LGA-3,Private,Primary,62,1645,23.18,70.82,Moderate,Low
+SCH297,Delta Model School 297,Rivers,LGA-16,Public,Senior Secondary,45,1921,43.36,58.63,High,Low
+SCH298,Delta Model School 298,Kogi,LGA-19,Public,Junior Secondary,61,1358,44.47,97.89,Moderate,Low
+SCH299,Borno Model School 299,Abuja,LGA-20,Public,Technical college,35,2264,58.59,57.98,High,Average
+SCH300,Kogi Model School 300,Kano,LGA-20,Private,Junior Secondary,20,642,32.53,56.2,Moderate,Low
+SCH301,Abia Model School 301,Enugu,LGA-6,Private,Junior Secondary,63,1898,48.62,63.31,High,Low
+SCH302,Abuja Model School 302,Oyo,LGA-12,Public,Primary,18,514,32.68,91.26,Moderate,Low
+SCH303,Kaduna Model School 303,Borno,LGA-2,Public,Technical college,50,2298,37.8,63.39,High,High
+SCH304,Delta Model School 304,Delta,LGA-19,Public,Senior Secondary,21,479,40.85,96.51,Moderate,Average
+SCH305,Abia Model School 305,Delta,LGA-1,Public,Primary,25,1347,42.95,61.14,High,High
+SCH306,Lagos Model School 306,Enugu,LGA-2,Public,Senior Secondary,57,646,39.23,32.94,Low,High
+SCH307,Kaduna Model School 307,Ogun,LGA-13,Private,Senior Secondary,69,1696,54.34,45.32,Moderate,Low
+SCH308,Rivers Model School 308,Kano,LGA-8,Public,Technical college,27,1280,15.2,57.95,High,Low
+SCH309,Rivers Model School 309,Abuja,LGA-11,Public,Junior Secondary,64,1391,42.88,84.43,Low,Average
+SCH310,Rivers Model School 310,Rivers,LGA-16,Public,Technical college,80,1494,49.13,30.07,High,Average
+SCH311,Kogi Model School 311,Delta,LGA-5,Private,Junior Secondary,59,575,47.32,72.49,High,High
+SCH312,Abuja Model School 312,Oyo,LGA-4,Private,Senior Secondary,52,1195,29.61,46.21,High,High
+SCH313,Enugu Model School 313,Delta,LGA-17,Public,Senior Secondary,42,1996,31.28,77.57,Low,High
+SCH314,Ogun Model School 314,Delta,LGA-3,Private,Primary,14,448,45.49,90.72,High,Low
+SCH315,Ogun Model School 315,Enugu,LGA-7,Public,Senior Secondary,36,2172,31.69,81.18,High,High
+SCH316,Delta Model School 316,Abuja,LGA-9,Private,Technical college,60,2379,47.77,53.67,Low,Low
+SCH317,Kaduna Model School 317,Kano,LGA-18,Private,Technical college,23,1629,53.75,76.03,High,High
+SCH318,Kogi Model School 318,Kaduna,LGA-9,Public,Primary,63,645,38.64,36.45,High,Low
+SCH319,Lagos Model School 319,Rivers,LGA-18,Private,Technical college,13,1614,20.13,39.84,Moderate,High
+SCH320,Enugu Model School 320,Oyo,LGA-12,Private,Technical college,50,1202,18.57,53.28,Low,High
+SCH321,Borno Model School 321,Abuja,LGA-19,Private,Technical college,54,1950,51.69,38.97,Low,Low
+SCH322,Ogun Model School 322,Kano,LGA-18,Private,Primary,61,816,24.77,97.48,High,Low
+SCH323,Kogi Model School 323,Oyo,LGA-10,Public,Primary,18,831,22.83,80.62,Moderate,High
+SCH324,Kogi Model School 324,Abuja,LGA-8,Public,Junior Secondary,27,2305,30.33,62.12,Moderate,Low
+SCH325,Kano Model School 325,Ogun,LGA-19,Private,Technical college,57,1079,16.48,44.21,Low,Average
+SCH326,Kaduna Model School 326,Ekiti,LGA-18,Private,Primary,37,1445,18.31,42.36,Low,Average
+SCH327,Rivers Model School 327,Enugu,LGA-18,Private,Technical college,52,555,17.99,59.86,High,High
+SCH328,Lagos Model School 328,Delta,LGA-7,Public,Junior Secondary,75,2042,28.8,69.38,High,High
+SCH329,Ekiti Model School 329,Borno,LGA-11,Private,Primary,77,1380,49.6,91.98,Low,High
+SCH330,Rivers Model School 330,Kano,LGA-8,Private,Primary,54,208,25.82,50.52,Moderate,Average
+SCH331,Delta Model School 331,Borno,LGA-5,Public,Junior Secondary,27,1003,19.13,73.13,Moderate,Average
+SCH332,Ekiti Model School 332,Delta,LGA-14,Private,Senior Secondary,53,2082,29.05,45.61,Moderate,High
+SCH333,Ogun Model School 333,Kaduna,LGA-2,Private,Primary,29,397,51.57,41.57,Moderate,Low
+SCH334,Kano Model School 334,Kaduna,LGA-10,Public,Primary,61,2101,22.54,79.92,Low,High
+SCH335,Abuja Model School 335,Borno,LGA-11,Private,Primary,59,1205,45.98,68.6,Moderate,Low
+SCH336,Lagos Model School 336,Lagos,LGA-18,Public,Junior Secondary,75,1136,19.1,87.62,Moderate,Average
+SCH337,Lagos Model School 337,Abia,LGA-19,Public,Junior Secondary,50,1998,30.34,97.98,High,High
+SCH338,Enugu Model School 338,Enugu,LGA-12,Private,Junior Secondary,29,1695,18.88,67.37,High,High
+SCH339,Delta Model School 339,Kano,LGA-11,Private,Senior Secondary,48,2131,16.59,41.04,High,High
+SCH340,Rivers Model School 340,Abia,LGA-2,Private,Technical college,34,663,52.59,57.48,Moderate,Low
+SCH341,Oyo Model School 341,Rivers,LGA-12,Public,Senior Secondary,21,966,49.52,60.38,High,High
+SCH342,Kaduna Model School 342,Borno,LGA-20,Public,Primary,37,2261,51.55,66.51,High,Average
+SCH343,Oyo Model School 343,Ekiti,LGA-2,Public,Junior Secondary,59,2424,48.45,95.84,Low,Low
+SCH344,Delta Model School 344,Abuja,LGA-19,Private,Senior Secondary,35,1290,56.36,82.23,Low,Low
+SCH345,Ekiti Model School 345,Rivers,LGA-12,Public,Primary,32,923,47.25,99.58,Moderate,High
+SCH346,Oyo Model School 346,Oyo,LGA-14,Private,Senior Secondary,17,1086,53.87,71.26,Low,Low
+SCH347,Abia Model School 347,Ekiti,LGA-7,Public,Technical college,59,873,34.27,93.63,Low,Average
+SCH348,Lagos Model School 348,Abia,LGA-17,Public,Technical college,55,785,44.99,86.62,High,Average
+SCH349,Borno Model School 349,Abia,LGA-7,Private,Senior Secondary,57,563,54.29,65.06,High,Low
+SCH350,Abuja Model School 350,Ogun,LGA-2,Public,Primary,47,1522,47.62,99.85,Moderate,Average
+SCH351,Enugu Model School 351,Delta,LGA-20,Public,Technical college,19,621,44.89,69.42,Low,Average
+SCH352,Abia Model School 352,Borno,LGA-2,Private,Primary,42,495,36.46,99.94,Moderate,High
+SCH353,Oyo Model School 353,Kaduna,LGA-19,Private,Primary,55,657,47.79,47.05,Low,High
+SCH354,Kogi Model School 354,Kano,LGA-1,Private,Junior Secondary,59,229,56.22,73.84,Low,Low
+SCH355,Borno Model School 355,Kogi,LGA-5,Public,Primary,50,711,40.76,46.87,Moderate,Average
+SCH356,Lagos Model School 356,Lagos,LGA-18,Private,Senior Secondary,54,2165,49.68,84.67,High,Average
+SCH357,Abuja Model School 357,Rivers,LGA-9,Public,Technical college,61,1443,53.95,53.22,Moderate,Low
+SCH358,Lagos Model School 358,Ekiti,LGA-11,Public,Senior Secondary,63,2370,35.95,40.49,High,High
+SCH359,Kano Model School 359,Abia,LGA-7,Public,Senior Secondary,54,1886,15.48,99.49,High,Average
+SCH360,Lagos Model School 360,Abia,LGA-2,Private,Junior Secondary,18,2454,48.61,45.28,High,Average
+SCH361,Enugu Model School 361,Abuja,LGA-16,Public,Technical college,12,1106,26.29,69.47,Moderate,Average
+SCH362,Oyo Model School 362,Rivers,LGA-13,Private,Technical college,55,1947,42.45,47.74,Moderate,Average
+SCH363,Borno Model School 363,Oyo,LGA-1,Private,Technical college,10,242,50.43,95.93,Low,High
+SCH364,Ogun Model School 364,Delta,LGA-17,Public,Primary,71,1455,52.54,76.67,Moderate,High
+SCH365,Ogun Model School 365,Kogi,LGA-11,Public,Primary,77,265,50.31,45.2,Moderate,Low
+SCH366,Abia Model School 366,Rivers,LGA-8,Public,Technical college,68,2342,47.1,63.35,Low,Average
+SCH367,Kano Model School 367,Rivers,LGA-9,Private,Junior Secondary,22,1048,36.94,77.31,Low,High
+SCH368,Kogi Model School 368,Ekiti,LGA-17,Private,Technical college,34,258,28.87,67.86,Moderate,Average
+SCH369,Oyo Model School 369,Abuja,LGA-18,Private,Junior Secondary,78,2453,47.08,70.1,Moderate,High
+SCH370,Borno Model School 370,Oyo,LGA-8,Public,Primary,61,1297,23.42,65.33,High,High
+SCH371,Rivers Model School 371,Ekiti,LGA-10,Private,Senior Secondary,75,2324,46.71,52.06,Low,High
+SCH372,Enugu Model School 372,Kano,LGA-7,Private,Technical college,44,2477,19.92,38.55,Moderate,Low
+SCH373,Ekiti Model School 373,Enugu,LGA-9,Public,Senior Secondary,47,396,44.39,82.45,High,Low
+SCH374,Kaduna Model School 374,Delta,LGA-8,Public,Junior Secondary,68,2143,48.36,58.92,Low,Average
+SCH375,Rivers Model School 375,Oyo,LGA-16,Public,Primary,16,1762,44.91,60.0,Moderate,Average
+SCH376,Abia Model School 376,Abia,LGA-2,Public,Junior Secondary,47,2311,16.41,91.23,Moderate,High
+SCH377,Abia Model School 377,Ogun,LGA-15,Public,Technical college,48,691,36.74,30.18,Moderate,High
+SCH378,Kogi Model School 378,Kogi,LGA-2,Public,Technical college,39,1023,34.99,61.39,Moderate,Low
+SCH379,Ogun Model School 379,Ekiti,LGA-20,Private,Primary,37,1406,50.18,34.65,Moderate,Average
+SCH380,Lagos Model School 380,Borno,LGA-9,Private,Technical college,47,1830,41.03,40.42,Low,Average
+SCH381,Delta Model School 381,Oyo,LGA-7,Private,Senior Secondary,40,1041,47.43,80.54,Low,Average
+SCH382,Rivers Model School 382,Kaduna,LGA-16,Public,Junior Secondary,37,642,55.44,83.33,High,Low
+SCH383,Kano Model School 383,Abia,LGA-13,Public,Junior Secondary,75,2326,15.48,97.59,Low,Average
+SCH384,Kogi Model School 384,Kaduna,LGA-12,Private,Technical college,57,1783,26.83,86.1,Low,Average
+SCH385,Kaduna Model School 385,Enugu,LGA-1,Public,Junior Secondary,45,1965,29.25,42.57,Moderate,High
+SCH386,Kaduna Model School 386,Kano,LGA-14,Private,Technical college,17,1351,57.45,85.18,High,Low
+SCH387,Rivers Model School 387,Kano,LGA-3,Private,Junior Secondary,50,2089,42.6,72.7,Moderate,Average
+SCH388,Borno Model School 388,Borno,LGA-13,Private,Senior Secondary,44,1572,29.42,87.39,High,Average
+SCH389,Abia Model School 389,Oyo,LGA-3,Private,Senior Secondary,66,1196,21.59,55.02,Low,Average
+SCH390,Abia Model School 390,Abuja,LGA-2,Public,Senior Secondary,10,1448,34.99,57.74,Moderate,Average
+SCH391,Abia Model School 391,Ogun,LGA-16,Public,Primary,15,1104,32.76,37.65,High,Low
+SCH392,Ogun Model School 392,Borno,LGA-17,Public,Technical college,29,1750,16.12,65.64,Low,High
+SCH393,Enugu Model School 393,Kaduna,LGA-6,Public,Junior Secondary,39,2467,50.6,53.77,High,High
+SCH394,Ekiti Model School 394,Ekiti,LGA-5,Public,Technical college,36,461,43.61,38.15,Moderate,High
+SCH395,Abia Model School 395,Delta,LGA-9,Private,Junior Secondary,70,2359,44.92,74.83,Moderate,Low
+SCH396,Ekiti Model School 396,Abia,LGA-18,Private,Primary,48,1456,24.05,69.05,Moderate,High
+SCH397,Ogun Model School 397,Enugu,LGA-3,Public,Junior Secondary,23,384,18.34,32.93,High,Average
+SCH398,Enugu Model School 398,Abuja,LGA-7,Public,Junior Secondary,25,1560,58.64,84.76,Low,Low
+SCH399,Oyo Model School 399,Abuja,LGA-10,Private,Primary,72,2049,23.68,78.75,High,Average
+SCH400,Borno Model School 400,Borno,LGA-10,Public,Junior Secondary,64,2139,31.72,78.85,Low,High
+SCH401,Abia Model School 401,Oyo,LGA-20,Public,Senior Secondary,49,1980,32.23,76.6,High,Average
+SCH402,Kaduna Model School 402,Rivers,LGA-7,Private,Primary,12,2295,22.03,77.38,Low,Average
+SCH403,Kano Model School 403,Enugu,LGA-10,Public,Junior Secondary,61,1053,20.17,64.62,High,Low
+SCH404,Kaduna Model School 404,Enugu,LGA-10,Private,Junior Secondary,17,1156,44.32,79.79,High,High
+SCH405,Abia Model School 405,Kano,LGA-15,Public,Junior Secondary,66,2291,44.9,39.43,High,High
+SCH406,Ogun Model School 406,Rivers,LGA-6,Private,Primary,50,1426,33.66,51.89,High,Low
+SCH407,Ogun Model School 407,Abuja,LGA-19,Private,Senior Secondary,47,1778,26.67,82.16,Moderate,High
+SCH408,Enugu Model School 408,Ekiti,LGA-6,Private,Senior Secondary,35,1637,34.72,83.95,Low,High
+SCH409,Kogi Model School 409,Kogi,LGA-13,Public,Junior Secondary,36,938,23.78,70.76,Low,Average
+SCH410,Enugu Model School 410,Enugu,LGA-20,Private,Senior Secondary,37,1774,40.43,95.72,High,Average
+SCH411,Rivers Model School 411,Kaduna,LGA-9,Private,Senior Secondary,80,485,53.8,89.12,Low,Average
+SCH412,Kogi Model School 412,Borno,LGA-9,Private,Junior Secondary,24,1582,29.72,67.29,Low,High
+SCH413,Lagos Model School 413,Kaduna,LGA-9,Private,Senior Secondary,71,1555,42.43,89.97,Moderate,High
+SCH414,Abuja Model School 414,Ekiti,LGA-12,Private,Technical college,10,751,51.78,91.37,Low,Low
+SCH415,Ekiti Model School 415,Abuja,LGA-19,Public,Junior Secondary,38,788,32.4,80.58,Low,High
+SCH416,Ogun Model School 416,Abuja,LGA-9,Private,Junior Secondary,29,490,43.71,40.6,High,Low
+SCH417,Abuja Model School 417,Oyo,LGA-5,Private,Junior Secondary,33,2039,27.76,36.92,Low,Average
+SCH418,Kogi Model School 418,Abuja,LGA-1,Public,Primary,70,524,45.85,49.63,High,Average
+SCH419,Rivers Model School 419,Delta,LGA-15,Private,Technical college,47,1097,17.85,78.37,Moderate,High
+SCH420,Ogun Model School 420,Oyo,LGA-1,Private,Technical college,42,1151,42.6,56.42,Moderate,High
+SCH421,Kano Model School 421,Ogun,LGA-11,Public,Primary,58,602,25.17,80.25,Low,Low
+SCH422,Oyo Model School 422,Lagos,LGA-13,Public,Primary,70,485,58.03,42.12,High,Average
+SCH423,Kaduna Model School 423,Lagos,LGA-10,Private,Senior Secondary,61,2103,43.61,81.13,Low,Average
+SCH424,Kaduna Model School 424,Kaduna,LGA-4,Private,Junior Secondary,48,1015,43.34,45.17,Low,Low
+SCH425,Abuja Model School 425,Delta,LGA-3,Public,Technical college,26,1134,50.59,35.67,High,High
+SCH426,Kano Model School 426,Kano,LGA-18,Private,Senior Secondary,26,754,19.54,35.37,Low,High
+SCH427,Oyo Model School 427,Abuja,LGA-14,Private,Technical college,75,1993,16.35,97.45,High,High
+SCH428,Kogi Model School 428,Ogun,LGA-6,Private,Senior Secondary,51,2277,19.88,72.49,High,Average
+SCH429,Ogun Model School 429,Abuja,LGA-11,Public,Junior Secondary,31,1826,51.14,43.05,Low,Low
+SCH430,Kaduna Model School 430,Enugu,LGA-17,Private,Primary,19,2161,21.66,55.53,Low,Average
+SCH431,Ekiti Model School 431,Rivers,LGA-11,Private,Senior Secondary,64,1765,41.82,76.45,Low,Low
+SCH432,Rivers Model School 432,Abia,LGA-9,Public,Senior Secondary,30,1004,34.5,32.01,Low,High
+SCH433,Abia Model School 433,Delta,LGA-9,Public,Junior Secondary,68,2451,57.82,62.32,High,Average
+SCH434,Ogun Model School 434,Abuja,LGA-1,Public,Primary,64,652,25.42,75.71,High,Low
+SCH435,Ekiti Model School 435,Ogun,LGA-16,Public,Junior Secondary,75,775,37.36,36.22,Moderate,Low
+SCH436,Kano Model School 436,Kano,LGA-10,Private,Junior Secondary,11,1068,38.09,75.28,Moderate,High
+SCH437,Abia Model School 437,Abuja,LGA-4,Public,Technical college,74,1274,33.35,67.41,Low,High
+SCH438,Ogun Model School 438,Lagos,LGA-12,Private,Technical college,20,690,58.49,62.77,Low,Average
+SCH439,Rivers Model School 439,Rivers,LGA-11,Private,Technical college,18,295,25.33,39.23,High,Low
+SCH440,Kano Model School 440,Delta,LGA-2,Public,Senior Secondary,68,1638,50.24,93.11,Low,High
+SCH441,Ekiti Model School 441,Kogi,LGA-16,Private,Junior Secondary,14,2210,35.49,78.87,Low,Average
+SCH442,Delta Model School 442,Oyo,LGA-11,Public,Senior Secondary,64,1797,47.24,67.43,Moderate,High
+SCH443,Kogi Model School 443,Abuja,LGA-12,Private,Primary,40,347,36.46,36.46,High,Average
+SCH444,Kaduna Model School 444,Enugu,LGA-7,Private,Senior Secondary,34,805,21.29,51.14,Low,Average
+SCH445,Kaduna Model School 445,Delta,LGA-2,Private,Technical college,56,1252,30.33,52.63,High,Low
+SCH446,Borno Model School 446,Kogi,LGA-14,Private,Technical college,24,1077,21.03,80.91,High,Average
+SCH447,Abia Model School 447,Enugu,LGA-19,Private,Senior Secondary,12,2479,30.2,43.66,Moderate,Low
+SCH448,Kano Model School 448,Kaduna,LGA-19,Private,Senior Secondary,16,951,51.27,59.87,Moderate,Low
+SCH449,Rivers Model School 449,Ogun,LGA-6,Public,Junior Secondary,23,617,16.4,67.67,High,High
+SCH450,Ogun Model School 450,Delta,LGA-2,Private,Technical college,74,1667,36.6,40.95,Moderate,High
+SCH451,Kano Model School 451,Delta,LGA-17,Private,Technical college,53,2472,39.07,35.94,Moderate,Average
+SCH452,Enugu Model School 452,Lagos,LGA-20,Public,Primary,61,2016,15.28,53.05,Low,Average
+SCH453,Borno Model School 453,Delta,LGA-13,Private,Primary,54,243,51.39,33.7,Low,High
+SCH454,Borno Model School 454,Abia,LGA-17,Private,Junior Secondary,54,393,36.12,71.01,Moderate,Low
+SCH455,Borno Model School 455,Abuja,LGA-1,Private,Primary,77,632,31.0,83.38,Moderate,High
+SCH456,Delta Model School 456,Kogi,LGA-13,Public,Technical college,52,464,46.71,89.52,High,Low
+SCH457,Borno Model School 457,Abia,LGA-6,Public,Senior Secondary,29,564,27.64,86.68,Low,Low
+SCH458,Borno Model School 458,Ogun,LGA-20,Public,Primary,15,838,46.15,59.43,Moderate,Low
+SCH459,Oyo Model School 459,Lagos,LGA-14,Private,Primary,49,1350,51.6,45.81,Low,High
+SCH460,Lagos Model School 460,Kano,LGA-15,Private,Junior Secondary,80,2113,32.99,75.72,Moderate,Low
+SCH461,Abia Model School 461,Delta,LGA-12,Public,Primary,73,866,21.65,45.01,High,Average
+SCH462,Borno Model School 462,Ogun,LGA-17,Public,Senior Secondary,79,677,31.9,88.71,Low,High
+SCH463,Delta Model School 463,Rivers,LGA-1,Public,Primary,16,901,44.08,91.01,Moderate,High
+SCH464,Ogun Model School 464,Ekiti,LGA-15,Public,Technical college,33,1813,32.05,78.95,Moderate,Low
+SCH465,Kaduna Model School 465,Lagos,LGA-10,Private,Junior Secondary,34,1722,56.01,52.5,Moderate,Average
+SCH466,Kano Model School 466,Kano,LGA-9,Private,Technical college,54,2240,42.62,79.24,High,Low
+SCH467,Kaduna Model School 467,Ogun,LGA-8,Public,Technical college,40,1221,38.83,42.74,Low,Low
+SCH468,Oyo Model School 468,Ekiti,LGA-17,Public,Primary,21,2125,58.48,90.52,Moderate,Average
+SCH469,Lagos Model School 469,Kaduna,LGA-6,Public,Senior Secondary,14,1275,26.27,35.86,High,Average
+SCH470,Ogun Model School 470,Kogi,LGA-14,Public,Senior Secondary,43,1434,45.87,67.53,Moderate,Low
+SCH471,Ogun Model School 471,Enugu,LGA-10,Public,Primary,65,1291,57.54,84.53,Low,Average
+SCH472,Ogun Model School 472,Lagos,LGA-17,Public,Senior Secondary,64,1167,53.59,91.28,High,Low
+SCH473,Abia Model School 473,Lagos,LGA-4,Public,Primary,70,2021,56.56,44.72,Low,Average
+SCH474,Kaduna Model School 474,Rivers,LGA-11,Private,Technical college,75,2386,21.44,32.54,Low,Low
+SCH475,Ekiti Model School 475,Enugu,LGA-19,Private,Technical college,59,490,57.03,79.22,Low,High
+SCH476,Ogun Model School 476,Oyo,LGA-2,Private,Primary,15,1987,22.61,84.52,Moderate,Average
+SCH477,Abuja Model School 477,Kogi,LGA-10,Public,Junior Secondary,19,1509,48.28,86.48,Low,High
+SCH478,Delta Model School 478,Kogi,LGA-7,Private,Primary,67,1914,23.74,67.13,Low,High
+SCH479,Kano Model School 479,Borno,LGA-17,Private,Primary,44,2248,32.92,41.32,High,Low
+SCH480,Enugu Model School 480,Abuja,LGA-1,Public,Technical college,11,1286,50.03,41.95,High,Low
+SCH481,Lagos Model School 481,Kano,LGA-1,Private,Senior Secondary,31,1573,38.83,62.7,High,Average
+SCH482,Abia Model School 482,Lagos,LGA-15,Public,Technical college,46,2402,16.64,32.22,Low,Average
+SCH483,Ekiti Model School 483,Enugu,LGA-6,Public,Technical college,49,1172,25.57,42.1,High,Low
+SCH484,Enugu Model School 484,Kaduna,LGA-5,Private,Technical college,62,1124,26.35,62.85,Moderate,Low
+SCH485,Kogi Model School 485,Kano,LGA-13,Public,Primary,69,2305,58.68,83.57,Low,Average
+SCH486,Ekiti Model School 486,Borno,LGA-17,Private,Junior Secondary,54,1991,27.58,30.71,High,High
+SCH487,Delta Model School 487,Oyo,LGA-5,Public,Junior Secondary,30,303,26.76,84.89,High,Average
+SCH488,Enugu Model School 488,Abia,LGA-4,Public,Junior Secondary,15,2322,38.63,73.62,Low,Low
+SCH489,Abia Model School 489,Kano,LGA-20,Private,Technical college,52,484,34.04,98.06,Low,High
+SCH490,Borno Model School 490,Ogun,LGA-14,Private,Technical college,53,1004,40.67,87.82,High,Average
+SCH491,Lagos Model School 491,Abuja,LGA-11,Private,Primary,30,778,44.06,33.46,Moderate,Low
+SCH492,Ekiti Model School 492,Kaduna,LGA-7,Private,Senior Secondary,25,1316,31.97,67.91,High,Low
+SCH493,Kano Model School 493,Enugu,LGA-10,Private,Senior Secondary,17,1674,55.45,51.12,Moderate,Low
+SCH494,Ekiti Model School 494,Enugu,LGA-9,Public,Technical college,63,964,40.52,58.26,Low,Low
+SCH495,Abuja Model School 495,Lagos,LGA-3,Private,Senior Secondary,45,918,41.5,77.58,Low,Average
+SCH496,Abuja Model School 496,Rivers,LGA-4,Private,Technical college,24,2044,53.75,35.3,High,Average
+SCH497,Kogi Model School 497,Rivers,LGA-9,Private,Primary,16,450,30.64,62.06,High,Average
+SCH498,Rivers Model School 498,Kano,LGA-12,Private,Senior Secondary,30,1622,30.84,68.68,High,Average
+SCH499,Oyo Model School 499,Lagos,LGA-13,Public,Primary,45,766,57.27,86.15,Moderate,Average
+SCH500,Abia Model School 500,Oyo,LGA-16,Private,Primary,67,2079,53.57,92.91,Low,Low
+SCH501,Abia Model School 501,Ogun,LGA-19,Public,Senior Secondary,22,1360,27.81,63.3,Moderate,Low
+SCH502,Delta Model School 502,Abuja,LGA-14,Private,Senior Secondary,12,1118,50.6,58.3,Moderate,Low
+SCH503,Rivers Model School 503,Ekiti,LGA-5,Public,Technical college,78,961,40.7,95.28,Low,Average
+SCH504,Rivers Model School 504,Ekiti,LGA-12,Public,Senior Secondary,13,981,42.06,95.91,Low,Low
+SCH505,Rivers Model School 505,Kogi,LGA-4,Public,Senior Secondary,25,2060,15.07,84.69,Moderate,Average
+SCH506,Ogun Model School 506,Enugu,LGA-16,Private,Junior Secondary,23,1832,23.6,83.06,Low,Average
+SCH507,Abuja Model School 507,Kogi,LGA-8,Private,Senior Secondary,13,1150,30.93,32.26,Moderate,High
+SCH508,Rivers Model School 508,Kano,LGA-12,Private,Technical college,10,283,29.86,93.52,Moderate,Average
+SCH509,Ogun Model School 509,Ogun,LGA-3,Public,Technical college,77,1645,48.85,87.04,Low,Low
+SCH510,Kaduna Model School 510,Kano,LGA-15,Public,Primary,16,2465,38.32,95.04,Moderate,High
+SCH511,Kano Model School 511,Delta,LGA-8,Public,Technical college,79,209,26.32,31.55,Moderate,High
+SCH512,Rivers Model School 512,Ekiti,LGA-18,Private,Senior Secondary,62,936,50.0,36.58,Moderate,High
+SCH513,Kaduna Model School 513,Abuja,LGA-19,Private,Technical college,72,509,52.36,31.07,High,High
+SCH514,Abia Model School 514,Kano,LGA-16,Private,Primary,37,1867,33.59,70.06,High,Average
+SCH515,Ogun Model School 515,Oyo,LGA-9,Public,Senior Secondary,36,1010,43.57,90.12,High,High
+SCH516,Oyo Model School 516,Abia,LGA-19,Private,Senior Secondary,33,2214,37.71,33.88,High,Average
+SCH517,Ogun Model School 517,Ekiti,LGA-15,Private,Junior Secondary,34,1299,59.42,58.31,Moderate,Average
+SCH518,Kogi Model School 518,Oyo,LGA-12,Public,Senior Secondary,44,2322,55.84,43.64,Moderate,High
+SCH519,Kano Model School 519,Abuja,LGA-5,Private,Junior Secondary,72,2167,47.99,70.35,High,Average
+SCH520,Abuja Model School 520,Delta,LGA-17,Private,Senior Secondary,76,1923,18.17,65.79,High,Low
+SCH521,Lagos Model School 521,Ekiti,LGA-17,Public,Technical college,74,910,16.55,46.68,High,Average
+SCH522,Kogi Model School 522,Abia,LGA-20,Private,Primary,33,953,56.76,46.24,Moderate,Low
+SCH523,Ogun Model School 523,Rivers,LGA-3,Private,Senior Secondary,71,1560,16.13,80.48,Moderate,Low
+SCH524,Ekiti Model School 524,Abuja,LGA-3,Public,Junior Secondary,56,1576,34.94,66.47,Low,High
+SCH525,Oyo Model School 525,Kano,LGA-6,Private,Junior Secondary,75,697,48.22,48.09,Low,Low
+SCH526,Ogun Model School 526,Kaduna,LGA-17,Public,Senior Secondary,50,301,56.33,70.24,Low,Low
+SCH527,Oyo Model School 527,Lagos,LGA-11,Private,Primary,66,653,49.28,45.57,Low,Low
+SCH528,Kaduna Model School 528,Abia,LGA-1,Private,Primary,63,1082,15.28,91.81,Low,Average
+SCH529,Rivers Model School 529,Ekiti,LGA-7,Private,Technical college,52,1372,33.28,96.79,High,Average
+SCH530,Oyo Model School 530,Ogun,LGA-6,Public,Primary,30,221,25.6,82.07,Moderate,Average
+SCH531,Oyo Model School 531,Oyo,LGA-6,Private,Junior Secondary,29,1426,34.75,79.71,Moderate,High
+SCH532,Rivers Model School 532,Ekiti,LGA-18,Private,Junior Secondary,14,751,46.42,39.09,Moderate,Low
+SCH533,Abuja Model School 533,Kogi,LGA-19,Public,Senior Secondary,61,2197,15.03,98.62,Low,Low
+SCH534,Kaduna Model School 534,Ekiti,LGA-12,Public,Senior Secondary,63,1184,17.11,42.35,High,Low
+SCH535,Ekiti Model School 535,Abia,LGA-4,Private,Technical college,28,969,25.0,57.56,High,High
+SCH536,Lagos Model School 536,Lagos,LGA-19,Private,Senior Secondary,13,2074,22.53,37.3,Low,Average
+SCH537,Ogun Model School 537,Kaduna,LGA-20,Public,Technical college,44,2027,25.39,65.94,Low,High
+SCH538,Lagos Model School 538,Ogun,LGA-11,Public,Junior Secondary,65,1037,53.35,69.81,High,High
+SCH539,Abia Model School 539,Delta,LGA-16,Public,Junior Secondary,76,602,37.04,71.6,Moderate,High
+SCH540,Kogi Model School 540,Oyo,LGA-13,Private,Primary,16,212,36.23,34.63,Moderate,Low
+SCH541,Lagos Model School 541,Rivers,LGA-4,Private,Primary,53,2023,27.87,47.64,High,Average
+SCH542,Enugu Model School 542,Lagos,LGA-8,Private,Junior Secondary,76,535,15.61,83.05,Moderate,Low
+SCH543,Ekiti Model School 543,Rivers,LGA-10,Private,Senior Secondary,22,1273,45.9,56.27,Low,Average
+SCH544,Kogi Model School 544,Oyo,LGA-11,Private,Primary,36,2325,27.57,40.88,Moderate,Low
+SCH545,Kogi Model School 545,Delta,LGA-14,Private,Senior Secondary,17,969,30.81,74.97,Low,High
+SCH546,Ekiti Model School 546,Ekiti,LGA-4,Public,Senior Secondary,62,2071,25.44,35.38,Low,Low
+SCH547,Abia Model School 547,Kaduna,LGA-20,Private,Junior Secondary,52,574,55.31,31.03,Low,Low
+SCH548,Borno Model School 548,Abia,LGA-7,Private,Senior Secondary,63,2393,15.6,77.26,Low,Average
+SCH549,Rivers Model School 549,Abia,LGA-20,Public,Primary,27,441,50.32,77.96,High,High
+SCH550,Lagos Model School 550,Abia,LGA-19,Public,Junior Secondary,74,1360,36.19,61.01,Low,Low
+SCH551,Delta Model School 551,Kogi,LGA-11,Public,Technical college,75,924,24.0,61.54,Low,Low
+SCH552,Ogun Model School 552,Kano,LGA-14,Public,Senior Secondary,68,1506,41.44,45.72,Low,Average
+SCH553,Abia Model School 553,Oyo,LGA-17,Private,Junior Secondary,38,1899,55.45,42.86,Moderate,High
+SCH554,Abia Model School 554,Borno,LGA-16,Private,Primary,62,633,29.29,54.69,High,Average
+SCH555,Ogun Model School 555,Delta,LGA-2,Public,Senior Secondary,49,1485,16.73,32.97,Low,Low
+SCH556,Delta Model School 556,Ogun,LGA-9,Public,Technical college,55,1004,28.54,44.96,Low,Average
+SCH557,Kano Model School 557,Kogi,LGA-15,Private,Technical college,44,2299,48.38,33.53,High,Low
+SCH558,Borno Model School 558,Enugu,LGA-15,Public,Senior Secondary,61,1553,58.77,85.59,High,Average
+SCH559,Abia Model School 559,Ekiti,LGA-8,Private,Senior Secondary,21,235,43.77,95.32,Moderate,Average
+SCH560,Ogun Model School 560,Oyo,LGA-8,Private,Primary,17,257,49.58,78.5,Low,High
+SCH561,Ogun Model School 561,Enugu,LGA-20,Private,Primary,54,2324,16.96,54.37,Low,Average
+SCH562,Borno Model School 562,Lagos,LGA-10,Private,Primary,38,1560,53.77,62.21,Moderate,Average
+SCH563,Enugu Model School 563,Oyo,LGA-10,Public,Technical college,63,2128,28.28,64.18,Moderate,Average
+SCH564,Lagos Model School 564,Lagos,LGA-6,Private,Primary,59,280,32.21,71.97,Low,High
+SCH565,Kaduna Model School 565,Ekiti,LGA-10,Public,Senior Secondary,45,2469,22.22,49.3,High,Low
+SCH566,Kano Model School 566,Ogun,LGA-9,Public,Junior Secondary,53,338,35.84,76.57,Low,Average
+SCH567,Abuja Model School 567,Borno,LGA-15,Private,Primary,58,275,37.6,98.7,Low,Low
+SCH568,Borno Model School 568,Abia,LGA-11,Public,Technical college,53,1620,16.98,69.04,Moderate,Low
+SCH569,Borno Model School 569,Ogun,LGA-18,Private,Senior Secondary,23,1906,57.33,62.85,High,Low
+SCH570,Rivers Model School 570,Kogi,LGA-16,Private,Technical college,43,2391,48.33,52.63,Low,Average
+SCH571,Ogun Model School 571,Delta,LGA-18,Public,Senior Secondary,28,855,26.53,38.84,High,High
+SCH572,Lagos Model School 572,Rivers,LGA-1,Public,Primary,54,1795,28.98,98.96,Moderate,High
+SCH573,Ekiti Model School 573,Delta,LGA-7,Private,Junior Secondary,46,1565,44.08,55.65,Moderate,High
+SCH574,Ekiti Model School 574,Abia,LGA-5,Public,Junior Secondary,20,1161,24.33,85.34,Moderate,Low
+SCH575,Borno Model School 575,Kaduna,LGA-16,Public,Junior Secondary,65,2182,42.29,71.96,High,High
+SCH576,Kaduna Model School 576,Abuja,LGA-17,Public,Primary,33,1826,54.91,46.19,Low,High
+SCH577,Ogun Model School 577,Lagos,LGA-18,Private,Primary,19,1680,46.15,36.61,High,Average
+SCH578,Abuja Model School 578,Lagos,LGA-5,Private,Junior Secondary,79,1570,56.36,39.72,Low,High
+SCH579,Enugu Model School 579,Ekiti,LGA-17,Private,Senior Secondary,62,2174,38.24,84.8,Low,Low
+SCH580,Abuja Model School 580,Abia,LGA-16,Public,Senior Secondary,80,207,33.69,90.19,High,Average
+SCH581,Kaduna Model School 581,Oyo,LGA-8,Private,Senior Secondary,55,691,21.27,55.5,Low,Low
+SCH582,Enugu Model School 582,Kaduna,LGA-17,Public,Technical college,51,1035,56.36,46.78,Low,Low
+SCH583,Kogi Model School 583,Enugu,LGA-17,Private,Senior Secondary,41,1572,58.98,87.1,Low,Average
+SCH584,Kano Model School 584,Kano,LGA-10,Private,Primary,35,2281,27.98,42.74,Low,High
+SCH585,Ogun Model School 585,Kaduna,LGA-19,Private,Junior Secondary,38,1763,41.44,71.85,Moderate,High
+SCH586,Abuja Model School 586,Lagos,LGA-3,Public,Junior Secondary,61,2473,37.65,84.14,High,Average
+SCH587,Kogi Model School 587,Borno,LGA-9,Public,Junior Secondary,14,1010,43.48,87.52,High,Average
+SCH588,Abuja Model School 588,Abuja,LGA-4,Public,Technical college,31,656,37.09,94.81,Moderate,High
+SCH589,Kogi Model School 589,Kogi,LGA-16,Private,Senior Secondary,28,1827,37.9,87.42,Moderate,Low
+SCH590,Ekiti Model School 590,Borno,LGA-18,Private,Technical college,56,521,19.39,33.0,Moderate,Average
+SCH591,Abia Model School 591,Lagos,LGA-4,Private,Primary,65,1100,34.31,98.3,Low,High
+SCH592,Kaduna Model School 592,Rivers,LGA-20,Public,Primary,69,1142,25.13,69.77,High,High
+SCH593,Rivers Model School 593,Enugu,LGA-15,Private,Technical college,26,672,36.94,41.32,Moderate,Average
+SCH594,Oyo Model School 594,Rivers,LGA-18,Public,Technical college,12,790,48.68,65.32,Low,Average
+SCH595,Abuja Model School 595,Kogi,LGA-1,Private,Junior Secondary,74,795,54.06,38.45,High,High
+SCH596,Enugu Model School 596,Delta,LGA-15,Public,Senior Secondary,18,730,35.79,91.52,High,Average
+SCH597,Ekiti Model School 597,Ogun,LGA-5,Public,Primary,46,2147,56.67,56.32,Low,Low
+SCH598,Enugu Model School 598,Kaduna,LGA-14,Private,Junior Secondary,39,909,18.62,95.22,High,Average
+SCH599,Lagos Model School 599,Borno,LGA-15,Private,Junior Secondary,56,1000,49.58,52.32,High,Average
+SCH600,Ogun Model School 600,Oyo,LGA-10,Public,Primary,46,269,22.3,84.4,Moderate,High
+SCH601,Ekiti Model School 601,Rivers,LGA-11,Private,Technical college,46,482,56.24,34.04,Moderate,Average
+SCH602,Kaduna Model School 602,Kaduna,LGA-18,Private,Primary,37,1807,46.85,90.28,Low,Average
+SCH603,Ogun Model School 603,Kogi,LGA-12,Private,Junior Secondary,80,560,51.79,52.83,High,High
+SCH604,Borno Model School 604,Borno,LGA-19,Public,Junior Secondary,13,803,15.7,46.51,Moderate,High
+SCH605,Ekiti Model School 605,Enugu,LGA-11,Private,Senior Secondary,80,2000,18.2,78.34,Low,Average
+SCH606,Kaduna Model School 606,Lagos,LGA-19,Private,Technical college,13,1078,32.41,34.4,Moderate,Average
+SCH607,Lagos Model School 607,Kogi,LGA-7,Public,Technical college,59,2495,39.05,43.7,Low,High
+SCH608,Borno Model School 608,Kano,LGA-14,Public,Junior Secondary,21,1954,59.05,38.14,High,Low
+SCH609,Abia Model School 609,Ekiti,LGA-15,Public,Primary,75,1544,55.52,49.53,High,High
+SCH610,Kaduna Model School 610,Oyo,LGA-3,Private,Senior Secondary,17,887,48.76,55.78,Moderate,Low
+SCH611,Kano Model School 611,Enugu,LGA-14,Public,Technical college,14,1749,25.32,51.13,High,High
+SCH612,Abuja Model School 612,Enugu,LGA-5,Public,Technical college,18,908,26.9,30.4,Moderate,Low
+SCH613,Kogi Model School 613,Delta,LGA-10,Private,Junior Secondary,22,2164,22.61,53.48,Moderate,Average
+SCH614,Enugu Model School 614,Lagos,LGA-4,Public,Technical college,41,1291,36.39,93.67,Low,Average
+SCH615,Ogun Model School 615,Kogi,LGA-14,Public,Primary,66,545,25.53,57.49,Low,High
+SCH616,Enugu Model School 616,Delta,LGA-6,Public,Junior Secondary,61,1793,27.77,51.28,Moderate,High
+SCH617,Abuja Model School 617,Kaduna,LGA-16,Private,Junior Secondary,54,1130,26.38,82.16,Low,Low
+SCH618,Delta Model School 618,Kaduna,LGA-6,Public,Primary,47,2191,41.77,39.5,Moderate,Average
+SCH619,Borno Model School 619,Lagos,LGA-3,Private,Senior Secondary,26,2464,23.51,95.6,Moderate,High
+SCH620,Borno Model School 620,Kogi,LGA-5,Private,Primary,26,808,48.76,70.06,Low,Average
+SCH621,Enugu Model School 621,Ekiti,LGA-18,Private,Junior Secondary,77,2304,30.92,65.36,Moderate,Low
+SCH622,Ogun Model School 622,Enugu,LGA-7,Public,Technical college,72,531,41.44,65.66,Moderate,High
+SCH623,Enugu Model School 623,Enugu,LGA-1,Public,Technical college,80,878,34.36,92.01,Low,High
+SCH624,Kogi Model School 624,Oyo,LGA-17,Public,Technical college,17,222,50.93,58.37,Moderate,High
+SCH625,Delta Model School 625,Kaduna,LGA-2,Public,Primary,54,1787,39.37,76.97,High,Average
+SCH626,Ogun Model School 626,Delta,LGA-14,Public,Senior Secondary,15,1649,59.85,85.83,Moderate,Average
+SCH627,Kano Model School 627,Ogun,LGA-15,Public,Senior Secondary,11,1534,29.65,59.74,High,Average
+SCH628,Kaduna Model School 628,Borno,LGA-17,Public,Junior Secondary,29,2338,51.06,91.03,Low,Average
+SCH629,Rivers Model School 629,Kano,LGA-14,Public,Primary,18,1017,24.12,46.06,Moderate,Average
+SCH630,Ekiti Model School 630,Kano,LGA-18,Public,Primary,74,499,42.47,70.18,Low,Low
+SCH631,Abuja Model School 631,Ekiti,LGA-6,Private,Primary,28,1213,55.86,34.99,Moderate,Average
+SCH632,Delta Model School 632,Lagos,LGA-19,Public,Technical college,42,794,50.85,72.13,Low,Average
+SCH633,Oyo Model School 633,Borno,LGA-9,Private,Junior Secondary,54,2176,31.19,33.94,High,Low
+SCH634,Lagos Model School 634,Oyo,LGA-18,Private,Primary,79,2356,57.04,75.54,Low,High
+SCH635,Kano Model School 635,Enugu,LGA-9,Public,Primary,76,1876,36.54,57.89,Moderate,Average
+SCH636,Kogi Model School 636,Ekiti,LGA-15,Public,Senior Secondary,59,825,46.43,33.95,Moderate,Average
+SCH637,Kano Model School 637,Lagos,LGA-4,Private,Junior Secondary,60,2217,54.63,42.39,High,Low
+SCH638,Kaduna Model School 638,Kano,LGA-13,Private,Primary,12,1235,38.07,38.47,Moderate,High
+SCH639,Abuja Model School 639,Lagos,LGA-4,Private,Senior Secondary,53,582,38.35,64.92,High,Average
+SCH640,Rivers Model School 640,Lagos,LGA-13,Public,Junior Secondary,48,1706,35.04,61.57,Moderate,Low
+SCH641,Enugu Model School 641,Enugu,LGA-13,Public,Senior Secondary,26,2205,54.7,78.1,High,Average
+SCH642,Ogun Model School 642,Kaduna,LGA-7,Private,Senior Secondary,80,781,48.45,84.5,Low,Low
+SCH643,Kano Model School 643,Rivers,LGA-14,Public,Junior Secondary,48,1993,51.03,57.37,Moderate,Low
+SCH644,Enugu Model School 644,Ogun,LGA-8,Private,Senior Secondary,78,2383,58.11,78.2,High,Average
+SCH645,Ekiti Model School 645,Oyo,LGA-14,Private,Junior Secondary,16,1474,21.73,59.82,Low,Average
+SCH646,Abuja Model School 646,Borno,LGA-13,Public,Junior Secondary,13,1922,40.48,94.08,Moderate,Average
+SCH647,Kano Model School 647,Lagos,LGA-11,Public,Senior Secondary,19,299,57.01,64.68,Low,Average
+SCH648,Kano Model School 648,Enugu,LGA-16,Public,Primary,29,1035,16.24,50.94,High,Low
+SCH649,Abuja Model School 649,Abuja,LGA-15,Public,Senior Secondary,22,1376,54.58,35.36,Moderate,Average
+SCH650,Ekiti Model School 650,Kogi,LGA-7,Public,Senior Secondary,39,401,42.41,70.73,Moderate,Average
+SCH651,Enugu Model School 651,Oyo,LGA-17,Private,Technical college,31,1449,38.72,69.05,High,High
+SCH652,Delta Model School 652,Rivers,LGA-14,Private,Technical college,48,2043,16.42,43.06,High,Average
+SCH653,Kaduna Model School 653,Oyo,LGA-9,Public,Primary,57,1563,48.45,35.55,Low,Low
+SCH654,Borno Model School 654,Oyo,LGA-16,Public,Senior Secondary,23,1549,44.29,37.53,Low,Average
+SCH655,Rivers Model School 655,Abuja,LGA-6,Public,Senior Secondary,55,1505,17.81,75.07,High,Average
+SCH656,Borno Model School 656,Oyo,LGA-13,Public,Senior Secondary,43,2056,36.32,62.56,Moderate,High
+SCH657,Borno Model School 657,Lagos,LGA-12,Private,Primary,47,2304,46.58,96.02,Moderate,Average
+SCH658,Oyo Model School 658,Enugu,LGA-17,Private,Senior Secondary,56,2345,45.66,41.89,Moderate,Average
+SCH659,Rivers Model School 659,Kano,LGA-15,Private,Primary,29,1543,20.31,45.01,High,Low
+SCH660,Ogun Model School 660,Abia,LGA-20,Private,Senior Secondary,46,249,17.33,40.09,Moderate,Low
+SCH661,Ekiti Model School 661,Delta,LGA-2,Public,Technical college,38,979,44.67,98.68,Moderate,High
+SCH662,Abuja Model School 662,Rivers,LGA-1,Public,Senior Secondary,20,2075,25.11,81.45,Low,Low
+SCH663,Ogun Model School 663,Abia,LGA-14,Public,Junior Secondary,35,1801,17.53,34.39,Moderate,High
+SCH664,Borno Model School 664,Kano,LGA-7,Private,Senior Secondary,56,1935,58.83,98.11,Moderate,High
+SCH665,Kogi Model School 665,Ekiti,LGA-6,Public,Technical college,67,1192,59.85,99.98,Moderate,High
+SCH666,Ogun Model School 666,Kogi,LGA-15,Private,Junior Secondary,21,1005,28.41,76.07,Low,Low
+SCH667,Delta Model School 667,Kaduna,LGA-7,Public,Primary,12,780,18.96,95.93,Moderate,High
+SCH668,Ogun Model School 668,Lagos,LGA-14,Private,Junior Secondary,59,1538,42.65,62.04,Moderate,High
+SCH669,Lagos Model School 669,Abia,LGA-13,Public,Senior Secondary,70,1237,32.9,76.38,High,Average
+SCH670,Abia Model School 670,Ekiti,LGA-10,Public,Primary,19,1829,52.47,92.43,Moderate,Average
+SCH671,Kaduna Model School 671,Kaduna,LGA-5,Private,Senior Secondary,43,1141,19.46,88.92,Low,High
+SCH672,Borno Model School 672,Kano,LGA-17,Public,Primary,38,1768,42.8,65.73,Moderate,Low
+SCH673,Delta Model School 673,Ekiti,LGA-8,Public,Senior Secondary,11,2020,52.28,56.56,High,Average
+SCH674,Ogun Model School 674,Kano,LGA-20,Public,Junior Secondary,39,398,36.8,76.96,High,High
+SCH675,Lagos Model School 675,Ogun,LGA-12,Private,Junior Secondary,31,1570,47.12,47.45,Moderate,Average
+SCH676,Kogi Model School 676,Borno,LGA-13,Public,Senior Secondary,44,1851,37.5,90.62,Low,Low
+SCH677,Kaduna Model School 677,Ekiti,LGA-20,Private,Senior Secondary,14,692,28.82,45.64,Moderate,Average
+SCH678,Kaduna Model School 678,Abuja,LGA-12,Public,Technical college,15,1404,48.73,85.04,High,High
+SCH679,Enugu Model School 679,Enugu,LGA-8,Private,Senior Secondary,45,710,25.49,38.38,High,Low
+SCH680,Kaduna Model School 680,Delta,LGA-12,Private,Technical college,77,1643,17.0,54.68,Moderate,Average
+SCH681,Abuja Model School 681,Borno,LGA-14,Private,Technical college,10,2042,42.82,49.82,Low,Average
+SCH682,Abia Model School 682,Ekiti,LGA-17,Private,Junior Secondary,56,730,22.9,48.71,Low,Average
+SCH683,Enugu Model School 683,Abuja,LGA-19,Private,Junior Secondary,26,502,42.33,39.78,High,Average
+SCH684,Kaduna Model School 684,Kogi,LGA-18,Public,Junior Secondary,60,1515,39.72,32.55,Moderate,Low
+SCH685,Ekiti Model School 685,Rivers,LGA-18,Private,Junior Secondary,10,1433,35.97,30.29,High,High
+SCH686,Oyo Model School 686,Enugu,LGA-20,Private,Junior Secondary,49,1039,35.03,89.09,Low,High
+SCH687,Kano Model School 687,Ogun,LGA-10,Public,Technical college,41,2410,54.22,86.03,Low,High
+SCH688,Enugu Model School 688,Ogun,LGA-5,Public,Primary,48,1478,32.01,82.7,Moderate,Average
+SCH689,Ekiti Model School 689,Ekiti,LGA-20,Private,Technical college,47,2476,15.67,59.87,Low,High
+SCH690,Delta Model School 690,Ogun,LGA-3,Private,Technical college,12,212,30.24,76.99,Moderate,Low
+SCH691,Abuja Model School 691,Abia,LGA-9,Private,Senior Secondary,79,1593,23.45,73.03,High,High
+SCH692,Enugu Model School 692,Delta,LGA-12,Public,Technical college,48,2230,37.03,99.48,Low,Low
+SCH693,Borno Model School 693,Kaduna,LGA-5,Private,Senior Secondary,74,1522,44.54,39.24,Moderate,High
+SCH694,Abuja Model School 694,Ekiti,LGA-18,Private,Senior Secondary,12,1682,16.3,43.93,Moderate,Low
+SCH695,Ekiti Model School 695,Kogi,LGA-1,Public,Junior Secondary,73,2430,43.36,98.76,Moderate,Low
+SCH696,Abia Model School 696,Delta,LGA-12,Public,Senior Secondary,46,1616,49.29,49.83,High,Average
+SCH697,Borno Model School 697,Kano,LGA-4,Private,Senior Secondary,57,968,58.02,57.78,Low,High
+SCH698,Kaduna Model School 698,Rivers,LGA-20,Private,Primary,63,1314,24.0,75.83,Moderate,Low
+SCH699,Kano Model School 699,Abia,LGA-6,Public,Junior Secondary,11,819,21.73,64.84,Low,High
+SCH700,Kaduna Model School 700,Kano,LGA-14,Public,Junior Secondary,40,2222,40.17,57.03,Low,High
+SCH701,Kogi Model School 701,Oyo,LGA-6,Private,Primary,22,1955,59.34,69.54,Moderate,High
+SCH702,Delta Model School 702,Delta,LGA-19,Private,Senior Secondary,69,524,39.52,57.91,High,Average
+SCH703,Kogi Model School 703,Abuja,LGA-13,Private,Technical college,14,2302,41.11,32.15,Low,Average
+SCH704,Kano Model School 704,Delta,LGA-1,Public,Junior Secondary,71,2188,48.27,97.99,Moderate,Average
+SCH705,Rivers Model School 705,Ogun,LGA-14,Private,Junior Secondary,33,979,29.74,82.8,Low,Average
+SCH706,Ekiti Model School 706,Enugu,LGA-1,Public,Junior Secondary,44,980,36.1,57.47,Low,Low
+SCH707,Borno Model School 707,Rivers,LGA-14,Private,Junior Secondary,26,231,17.52,36.88,Moderate,Average
+SCH708,Abia Model School 708,Ogun,LGA-9,Private,Primary,73,1603,38.55,45.48,Low,Low
+SCH709,Kogi Model School 709,Abia,LGA-11,Private,Junior Secondary,38,1509,57.13,77.84,High,High
+SCH710,Abuja Model School 710,Abia,LGA-15,Private,Primary,30,2113,30.31,93.14,Low,Low
+SCH711,Oyo Model School 711,Delta,LGA-11,Public,Technical college,61,2269,51.51,36.75,Low,High
+SCH712,Oyo Model School 712,Ogun,LGA-2,Private,Technical college,19,224,21.14,97.2,Moderate,High
+SCH713,Enugu Model School 713,Lagos,LGA-3,Public,Technical college,79,639,32.43,64.74,Moderate,High
+SCH714,Kano Model School 714,Ogun,LGA-9,Public,Primary,67,766,28.21,59.04,Moderate,Average
+SCH715,Oyo Model School 715,Ekiti,LGA-11,Private,Technical college,13,671,47.79,53.73,Low,High
+SCH716,Delta Model School 716,Enugu,LGA-5,Public,Technical college,18,1112,49.8,80.04,Low,Average
+SCH717,Ogun Model School 717,Enugu,LGA-18,Public,Junior Secondary,21,901,29.05,43.52,Low,Average
+SCH718,Abia Model School 718,Delta,LGA-2,Public,Senior Secondary,66,1089,16.22,48.94,Moderate,Low
+SCH719,Oyo Model School 719,Oyo,LGA-7,Public,Technical college,73,2149,31.0,74.05,Low,Average
+SCH720,Kogi Model School 720,Delta,LGA-8,Private,Senior Secondary,45,613,48.86,72.69,Moderate,Low
+SCH721,Ekiti Model School 721,Enugu,LGA-12,Private,Technical college,37,2485,35.74,49.47,Low,Low
+SCH722,Enugu Model School 722,Oyo,LGA-4,Private,Primary,76,1711,36.43,56.74,Moderate,Average
+SCH723,Lagos Model School 723,Kano,LGA-9,Private,Technical college,56,1962,53.0,39.16,High,Average
+SCH724,Borno Model School 724,Borno,LGA-13,Public,Technical college,48,1778,47.35,56.75,Low,Low
+SCH725,Abia Model School 725,Ekiti,LGA-14,Private,Technical college,54,261,59.7,48.61,High,Average
+SCH726,Lagos Model School 726,Kogi,LGA-19,Public,Primary,71,2139,29.73,32.13,Moderate,Average
+SCH727,Kaduna Model School 727,Kano,LGA-19,Private,Technical college,13,2220,29.15,39.49,High,High
+SCH728,Kaduna Model School 728,Kano,LGA-18,Private,Junior Secondary,29,1987,23.19,97.1,High,Average
+SCH729,Kaduna Model School 729,Kano,LGA-13,Private,Junior Secondary,28,2060,44.69,87.12,Moderate,High
+SCH730,Ekiti Model School 730,Abia,LGA-15,Public,Primary,16,610,22.29,57.11,Low,High
+SCH731,Kaduna Model School 731,Abia,LGA-18,Private,Primary,64,1290,31.48,32.12,Low,High
+SCH732,Lagos Model School 732,Delta,LGA-19,Private,Senior Secondary,80,817,34.63,59.51,Moderate,Average
+SCH733,Ekiti Model School 733,Ekiti,LGA-13,Public,Technical college,69,2248,16.36,69.28,High,Low
+SCH734,Ogun Model School 734,Borno,LGA-9,Public,Primary,27,2194,20.3,39.99,Moderate,Low
+SCH735,Ogun Model School 735,Kano,LGA-10,Private,Senior Secondary,17,610,33.64,70.04,High,Low
+SCH736,Delta Model School 736,Abuja,LGA-6,Private,Senior Secondary,25,517,52.67,82.44,Low,Average
+SCH737,Abia Model School 737,Lagos,LGA-6,Public,Senior Secondary,64,2140,38.85,36.13,Low,Average
+SCH738,Borno Model School 738,Ekiti,LGA-6,Private,Senior Secondary,29,1458,45.12,41.24,High,Low
+SCH739,Oyo Model School 739,Delta,LGA-7,Private,Technical college,52,521,58.62,98.45,Low,Low
+SCH740,Oyo Model School 740,Oyo,LGA-15,Public,Technical college,70,581,30.51,38.88,Moderate,Average
+SCH741,Kaduna Model School 741,Enugu,LGA-17,Private,Primary,65,501,47.49,62.0,Moderate,Low
+SCH742,Kogi Model School 742,Abia,LGA-18,Public,Primary,63,495,29.07,57.34,Low,High
+SCH743,Kogi Model School 743,Ekiti,LGA-16,Public,Junior Secondary,24,1335,39.71,59.65,Moderate,Low
+SCH744,Oyo Model School 744,Ogun,LGA-9,Private,Technical college,40,1665,24.84,59.56,Low,High
+SCH745,Oyo Model School 745,Rivers,LGA-12,Public,Senior Secondary,77,2065,16.62,36.74,Moderate,High
+SCH746,Enugu Model School 746,Lagos,LGA-16,Public,Technical college,33,1863,35.97,71.29,Low,Average
+SCH747,Delta Model School 747,Oyo,LGA-4,Private,Primary,77,1660,32.69,72.44,High,Average
+SCH748,Rivers Model School 748,Rivers,LGA-7,Private,Primary,27,1691,55.66,92.2,High,Low
+SCH749,Lagos Model School 749,Kano,LGA-5,Public,Technical college,44,432,58.24,38.71,Moderate,Average
+SCH750,Oyo Model School 750,Abia,LGA-9,Private,Junior Secondary,32,2137,59.24,93.42,High,Low
+SCH751,Delta Model School 751,Ekiti,LGA-18,Private,Technical college,27,1336,42.96,93.81,High,Low
+SCH752,Abia Model School 752,Kogi,LGA-15,Public,Junior Secondary,12,1343,50.7,66.28,High,High
+SCH753,Ogun Model School 753,Rivers,LGA-18,Private,Senior Secondary,11,779,57.37,30.88,High,Average
+SCH754,Delta Model School 754,Rivers,LGA-5,Private,Technical college,61,2418,29.44,82.63,Moderate,Low
+SCH755,Lagos Model School 755,Enugu,LGA-16,Public,Senior Secondary,63,409,15.36,86.29,Moderate,Low
+SCH756,Abuja Model School 756,Kogi,LGA-15,Private,Technical college,14,762,32.62,71.64,Low,Low
+SCH757,Enugu Model School 757,Abuja,LGA-1,Public,Technical college,27,1662,38.6,34.96,High,Average
+SCH758,Borno Model School 758,Rivers,LGA-4,Public,Senior Secondary,22,1292,15.81,78.9,High,Average
+SCH759,Oyo Model School 759,Kaduna,LGA-10,Public,Junior Secondary,56,576,40.86,52.22,Moderate,Low
+SCH760,Lagos Model School 760,Kano,LGA-5,Private,Primary,62,292,22.86,71.03,High,Low
+SCH761,Rivers Model School 761,Kano,LGA-6,Private,Senior Secondary,67,708,15.68,56.3,Moderate,Low
+SCH762,Abuja Model School 762,Rivers,LGA-12,Private,Primary,18,1355,21.06,51.92,Low,Low
+SCH763,Ekiti Model School 763,Delta,LGA-2,Private,Technical college,11,251,47.12,74.8,High,Low
+SCH764,Abuja Model School 764,Abia,LGA-17,Private,Junior Secondary,11,1361,52.75,30.14,Low,Average
+SCH765,Kaduna Model School 765,Kano,LGA-14,Public,Technical college,14,497,40.86,73.9,Moderate,High
+SCH766,Oyo Model School 766,Kogi,LGA-14,Private,Technical college,50,2136,19.95,80.32,Low,Average
+SCH767,Abia Model School 767,Abia,LGA-20,Private,Technical college,78,1784,18.21,89.11,Moderate,High
+SCH768,Kogi Model School 768,Abia,LGA-7,Public,Senior Secondary,31,311,17.48,40.83,High,Low
+SCH769,Kaduna Model School 769,Abuja,LGA-11,Private,Technical college,48,2174,20.03,31.4,High,Average
+SCH770,Kogi Model School 770,Lagos,LGA-20,Private,Primary,57,2092,48.24,32.03,High,Average
+SCH771,Abia Model School 771,Abuja,LGA-13,Public,Technical college,50,587,27.38,47.63,High,Low
+SCH772,Abuja Model School 772,Kaduna,LGA-10,Private,Junior Secondary,16,604,39.12,45.92,High,Low
+SCH773,Enugu Model School 773,Kogi,LGA-5,Private,Junior Secondary,29,1948,49.64,82.21,Moderate,Low
+SCH774,Rivers Model School 774,Kaduna,LGA-3,Public,Primary,14,1185,23.83,88.26,High,Average
+SCH775,Ogun Model School 775,Rivers,LGA-11,Private,Primary,70,946,57.54,59.33,High,High
+SCH776,Ogun Model School 776,Ekiti,LGA-1,Private,Junior Secondary,74,317,55.7,81.43,Moderate,Low
+SCH777,Rivers Model School 777,Delta,LGA-8,Public,Primary,61,1601,39.46,69.24,Moderate,Low
+SCH778,Rivers Model School 778,Borno,LGA-16,Private,Senior Secondary,62,1267,32.27,86.33,Moderate,High
+SCH779,Lagos Model School 779,Abuja,LGA-13,Public,Junior Secondary,40,357,27.14,59.17,Moderate,High
+SCH780,Kogi Model School 780,Ogun,LGA-20,Private,Junior Secondary,40,1596,46.79,69.98,High,High
+SCH781,Borno Model School 781,Kano,LGA-3,Private,Senior Secondary,26,1120,36.47,56.26,High,Low
+SCH782,Rivers Model School 782,Rivers,LGA-16,Public,Technical college,12,2407,32.33,74.24,Moderate,Low
+SCH783,Rivers Model School 783,Borno,LGA-2,Public,Technical college,66,624,35.92,45.95,Moderate,Average
+SCH784,Abia Model School 784,Enugu,LGA-10,Public,Technical college,78,516,31.31,42.77,Moderate,Average
+SCH785,Abuja Model School 785,Kogi,LGA-18,Private,Technical college,26,699,23.99,54.62,High,High
+SCH786,Abuja Model School 786,Borno,LGA-13,Private,Primary,59,2107,20.0,77.6,High,Average
+SCH787,Kaduna Model School 787,Kano,LGA-11,Private,Primary,50,1964,58.37,36.85,High,Low
+SCH788,Kogi Model School 788,Rivers,LGA-12,Private,Junior Secondary,51,1395,33.76,54.21,High,High
+SCH789,Ekiti Model School 789,Oyo,LGA-12,Public,Primary,26,1677,52.12,59.51,Low,Average
+SCH790,Enugu Model School 790,Abuja,LGA-8,Private,Junior Secondary,47,1193,28.34,58.01,High,Average
+SCH791,Kano Model School 791,Kano,LGA-16,Public,Junior Secondary,63,1334,24.69,33.3,Moderate,Average
+SCH792,Ekiti Model School 792,Enugu,LGA-14,Public,Primary,68,274,41.62,62.22,Low,Low
+SCH793,Rivers Model School 793,Ekiti,LGA-12,Private,Primary,42,2228,49.25,67.52,Moderate,Low
+SCH794,Rivers Model School 794,Borno,LGA-14,Private,Technical college,42,2062,21.65,30.73,High,Average
+SCH795,Kano Model School 795,Ekiti,LGA-11,Public,Junior Secondary,66,2454,17.57,90.51,Low,Average
+SCH796,Oyo Model School 796,Kogi,LGA-12,Private,Technical college,16,2402,32.49,96.16,Moderate,Average
+SCH797,Abia Model School 797,Rivers,LGA-14,Private,Technical college,42,1903,22.07,83.64,Moderate,High
+SCH798,Lagos Model School 798,Kogi,LGA-13,Private,Junior Secondary,12,897,25.44,57.23,Low,High
+SCH799,Abuja Model School 799,Oyo,LGA-15,Private,Technical college,59,1424,31.57,69.16,Moderate,Low
+SCH800,Ekiti Model School 800,Borno,LGA-8,Public,Technical college,33,2465,23.41,77.34,High,Low
+SCH801,Rivers Model School 801,Kogi,LGA-11,Private,Technical college,40,2068,56.53,35.44,Low,High
+SCH802,Borno Model School 802,Kaduna,LGA-17,Public,Senior Secondary,55,1628,54.13,85.0,Moderate,Low
+SCH803,Abuja Model School 803,Kaduna,LGA-10,Public,Primary,72,303,59.16,39.89,Low,High
+SCH804,Oyo Model School 804,Abia,LGA-18,Public,Senior Secondary,40,478,27.49,50.77,High,Low
+SCH805,Kaduna Model School 805,Kaduna,LGA-11,Public,Senior Secondary,18,1777,35.19,55.12,High,High
+SCH806,Enugu Model School 806,Lagos,LGA-4,Public,Technical college,22,1372,18.14,45.28,High,High
+SCH807,Enugu Model School 807,Kano,LGA-3,Private,Technical college,21,868,49.04,78.82,Moderate,Average
+SCH808,Delta Model School 808,Borno,LGA-20,Private,Senior Secondary,19,529,17.46,47.29,High,High
+SCH809,Kogi Model School 809,Delta,LGA-8,Public,Primary,13,1529,20.01,71.96,High,Low
+SCH810,Ekiti Model School 810,Lagos,LGA-13,Private,Primary,41,633,50.58,51.2,Moderate,Low
+SCH811,Enugu Model School 811,Kaduna,LGA-20,Private,Junior Secondary,51,1925,30.26,58.48,Moderate,High
+SCH812,Borno Model School 812,Oyo,LGA-16,Private,Technical college,21,1772,52.26,49.4,Moderate,Average
+SCH813,Ekiti Model School 813,Kano,LGA-7,Private,Junior Secondary,72,1226,35.05,99.73,High,High
+SCH814,Ogun Model School 814,Delta,LGA-18,Private,Primary,56,411,22.49,72.45,High,Average
+SCH815,Delta Model School 815,Kano,LGA-6,Public,Technical college,56,1569,27.79,83.45,Low,High
+SCH816,Delta Model School 816,Ekiti,LGA-4,Public,Junior Secondary,69,837,58.56,49.12,High,Average
+SCH817,Abia Model School 817,Ekiti,LGA-18,Public,Senior Secondary,41,1234,42.03,95.15,Moderate,Low
+SCH818,Kogi Model School 818,Kaduna,LGA-17,Public,Technical college,41,570,40.92,83.05,Low,Average
+SCH819,Oyo Model School 819,Oyo,LGA-15,Private,Senior Secondary,34,1533,25.02,44.99,High,Average
+SCH820,Kogi Model School 820,Kaduna,LGA-14,Private,Junior Secondary,64,1322,38.71,36.65,Low,Average
+SCH821,Delta Model School 821,Kaduna,LGA-3,Private,Senior Secondary,77,1030,36.47,46.64,Low,Average
+SCH822,Ekiti Model School 822,Enugu,LGA-18,Private,Primary,21,2435,57.12,37.56,High,Average
+SCH823,Kaduna Model School 823,Kano,LGA-3,Private,Technical college,17,1485,39.05,66.33,High,Low
+SCH824,Delta Model School 824,Kogi,LGA-9,Private,Senior Secondary,40,768,56.34,37.7,Moderate,High
+SCH825,Lagos Model School 825,Abuja,LGA-5,Public,Technical college,60,1160,29.56,43.11,High,Average
+SCH826,Ekiti Model School 826,Oyo,LGA-14,Public,Junior Secondary,72,271,39.63,71.1,Low,Average
+SCH827,Lagos Model School 827,Borno,LGA-16,Public,Junior Secondary,43,559,54.78,52.97,Moderate,Average
+SCH828,Abia Model School 828,Ekiti,LGA-2,Private,Senior Secondary,52,2262,42.98,70.81,High,Average
+SCH829,Delta Model School 829,Rivers,LGA-5,Public,Senior Secondary,39,2020,45.47,88.2,High,Low
+SCH830,Kogi Model School 830,Ogun,LGA-10,Private,Junior Secondary,64,554,47.62,52.56,Low,Average
+SCH831,Borno Model School 831,Borno,LGA-15,Public,Technical college,17,472,31.56,68.25,Moderate,Low
+SCH832,Lagos Model School 832,Ogun,LGA-2,Private,Technical college,73,2206,18.54,37.69,Moderate,Average
+SCH833,Kano Model School 833,Kano,LGA-14,Private,Technical college,14,1711,28.52,84.35,High,High
+SCH834,Enugu Model School 834,Rivers,LGA-2,Public,Senior Secondary,54,2438,59.05,94.03,High,Low
+SCH835,Rivers Model School 835,Rivers,LGA-4,Public,Technical college,80,1341,24.99,50.81,Moderate,Low
+SCH836,Ogun Model School 836,Rivers,LGA-3,Public,Junior Secondary,35,2192,54.79,94.98,Moderate,Average
+SCH837,Lagos Model School 837,Abuja,LGA-10,Private,Primary,29,2419,26.29,41.12,Moderate,Low
+SCH838,Enugu Model School 838,Kano,LGA-17,Private,Technical college,18,554,54.8,80.24,Low,Average
+SCH839,Ogun Model School 839,Abia,LGA-15,Private,Technical college,79,1590,47.0,72.14,High,High
+SCH840,Ekiti Model School 840,Oyo,LGA-19,Private,Primary,56,1948,50.74,67.31,High,High
+SCH841,Enugu Model School 841,Oyo,LGA-10,Private,Senior Secondary,52,2141,33.16,69.86,Low,High
+SCH842,Oyo Model School 842,Kaduna,LGA-16,Private,Senior Secondary,10,764,18.66,81.15,High,Average
+SCH843,Kano Model School 843,Delta,LGA-19,Private,Technical college,30,786,51.82,42.62,Low,Average
+SCH844,Abuja Model School 844,Kogi,LGA-2,Private,Primary,29,1976,50.03,52.06,High,Average
+SCH845,Abia Model School 845,Kogi,LGA-20,Public,Primary,40,448,54.1,30.85,Moderate,High
+SCH846,Ekiti Model School 846,Enugu,LGA-8,Private,Junior Secondary,23,419,37.45,87.55,Low,Average
+SCH847,Kaduna Model School 847,Abia,LGA-1,Private,Senior Secondary,62,1380,21.91,34.14,Low,Low
+SCH848,Lagos Model School 848,Ekiti,LGA-17,Private,Technical college,14,1894,48.61,48.07,Moderate,Average
+SCH849,Kaduna Model School 849,Borno,LGA-18,Private,Technical college,49,2119,24.18,68.8,High,Low
+SCH850,Rivers Model School 850,Delta,LGA-1,Private,Senior Secondary,47,2239,51.34,58.48,Low,Low
+SCH851,Kaduna Model School 851,Lagos,LGA-11,Private,Junior Secondary,25,2023,26.98,45.36,High,Average
+SCH852,Oyo Model School 852,Abuja,LGA-1,Private,Senior Secondary,62,2279,43.57,79.96,High,Low
+SCH853,Oyo Model School 853,Kogi,LGA-16,Public,Junior Secondary,45,930,15.54,94.07,High,Low
+SCH854,Enugu Model School 854,Lagos,LGA-20,Private,Junior Secondary,60,1346,23.17,84.21,Moderate,Average
+SCH855,Abia Model School 855,Ogun,LGA-7,Public,Primary,15,963,50.77,64.66,Low,Low
+SCH856,Ogun Model School 856,Lagos,LGA-8,Private,Technical college,70,931,36.51,96.65,Moderate,High
+SCH857,Borno Model School 857,Abuja,LGA-7,Public,Technical college,42,926,34.36,69.11,Moderate,Average
+SCH858,Delta Model School 858,Kaduna,LGA-16,Private,Technical college,55,1816,50.19,86.35,High,High
+SCH859,Oyo Model School 859,Oyo,LGA-13,Public,Technical college,46,2385,35.43,51.17,Moderate,Average
+SCH860,Oyo Model School 860,Kaduna,LGA-20,Public,Technical college,35,452,51.02,30.15,Moderate,Low
+SCH861,Lagos Model School 861,Kogi,LGA-18,Public,Primary,76,1333,57.65,46.88,Low,Average
+SCH862,Kano Model School 862,Kaduna,LGA-16,Public,Junior Secondary,39,899,37.03,45.29,Low,High
+SCH863,Kaduna Model School 863,Ekiti,LGA-8,Public,Primary,41,843,49.47,43.88,Low,High
+SCH864,Kaduna Model School 864,Lagos,LGA-4,Private,Senior Secondary,65,1988,22.96,56.58,Low,Average
+SCH865,Abia Model School 865,Rivers,LGA-12,Public,Senior Secondary,17,1660,51.53,31.06,Moderate,Low
+SCH866,Kogi Model School 866,Abia,LGA-13,Private,Primary,76,950,35.38,57.78,High,Average
+SCH867,Kaduna Model School 867,Abia,LGA-2,Public,Technical college,27,803,56.15,95.19,Low,Average
+SCH868,Ogun Model School 868,Kano,LGA-19,Public,Junior Secondary,55,1542,45.92,33.94,Moderate,High
+SCH869,Enugu Model School 869,Delta,LGA-4,Private,Primary,17,1940,21.12,68.23,Low,Average
+SCH870,Oyo Model School 870,Abuja,LGA-11,Private,Primary,33,884,40.35,87.34,Moderate,Low
+SCH871,Ekiti Model School 871,Borno,LGA-6,Public,Primary,64,295,44.02,58.03,Moderate,Low
+SCH872,Kano Model School 872,Lagos,LGA-11,Public,Junior Secondary,36,1944,59.15,53.64,Moderate,High
+SCH873,Enugu Model School 873,Delta,LGA-7,Public,Technical college,56,1376,39.51,84.66,High,Low
+SCH874,Kogi Model School 874,Kano,LGA-8,Private,Primary,34,2237,18.84,81.19,Moderate,Low
+SCH875,Kogi Model School 875,Kogi,LGA-14,Private,Technical college,48,2234,55.83,49.3,High,Average
+SCH876,Abuja Model School 876,Delta,LGA-8,Private,Technical college,58,919,31.7,99.36,Low,Low
+SCH877,Kaduna Model School 877,Kaduna,LGA-7,Public,Senior Secondary,28,1650,28.46,69.65,Moderate,Average
+SCH878,Ogun Model School 878,Ekiti,LGA-20,Private,Technical college,28,987,21.71,47.03,Moderate,High
+SCH879,Borno Model School 879,Rivers,LGA-17,Private,Technical college,24,2236,16.67,64.0,Moderate,Average
+SCH880,Abia Model School 880,Oyo,LGA-14,Private,Primary,69,872,16.56,87.54,Low,Average
+SCH881,Rivers Model School 881,Lagos,LGA-12,Private,Primary,38,847,42.96,65.29,Moderate,Low
+SCH882,Kaduna Model School 882,Oyo,LGA-7,Public,Primary,18,1225,24.47,45.62,Moderate,High
+SCH883,Abia Model School 883,Oyo,LGA-13,Private,Senior Secondary,76,1474,19.91,95.31,High,Average
+SCH884,Rivers Model School 884,Borno,LGA-2,Public,Junior Secondary,52,2257,44.68,34.64,Moderate,Average
+SCH885,Enugu Model School 885,Borno,LGA-11,Private,Senior Secondary,18,947,20.81,83.56,Moderate,Average
+SCH886,Oyo Model School 886,Lagos,LGA-4,Private,Junior Secondary,80,984,58.52,84.33,Moderate,Average
+SCH887,Kano Model School 887,Kaduna,LGA-7,Private,Senior Secondary,56,420,57.41,74.36,Moderate,Low
+SCH888,Abuja Model School 888,Abuja,LGA-14,Public,Junior Secondary,44,1831,31.39,60.41,Low,Average
+SCH889,Kano Model School 889,Ogun,LGA-9,Public,Junior Secondary,67,1784,28.42,52.86,Low,High
+SCH890,Kaduna Model School 890,Abia,LGA-13,Public,Junior Secondary,28,969,22.19,48.87,Low,Average
+SCH891,Abia Model School 891,Abia,LGA-2,Public,Primary,46,231,46.13,61.46,Low,High
+SCH892,Ogun Model School 892,Abia,LGA-3,Private,Junior Secondary,40,524,54.2,43.62,Low,Low
+SCH893,Lagos Model School 893,Ekiti,LGA-9,Private,Primary,45,597,32.64,35.13,Low,Average
+SCH894,Kano Model School 894,Kano,LGA-13,Public,Senior Secondary,48,414,42.86,41.69,High,Low
+SCH895,Abia Model School 895,Abia,LGA-17,Private,Junior Secondary,65,1408,49.71,83.95,Low,Low
+SCH896,Borno Model School 896,Ekiti,LGA-2,Private,Technical college,70,2189,34.36,69.61,Low,High
+SCH897,Lagos Model School 897,Borno,LGA-5,Public,Technical college,79,1405,15.33,91.36,Moderate,Low
+SCH898,Delta Model School 898,Borno,LGA-17,Private,Technical college,50,1831,17.39,87.12,Low,High
+SCH899,Ekiti Model School 899,Abia,LGA-14,Private,Senior Secondary,51,2293,30.73,58.22,High,High
+SCH900,Kogi Model School 900,Kaduna,LGA-9,Public,Primary,75,490,16.7,45.03,High,Low
+SCH901,Rivers Model School 901,Enugu,LGA-7,Private,Primary,22,2423,53.64,87.61,Moderate,Low
+SCH902,Ekiti Model School 902,Enugu,LGA-14,Public,Junior Secondary,13,803,40.93,89.95,Low,Average
+SCH903,Ogun Model School 903,Kaduna,LGA-1,Private,Junior Secondary,69,2428,57.51,63.86,High,Low
+SCH904,Enugu Model School 904,Oyo,LGA-11,Private,Primary,51,1058,59.19,49.78,Moderate,High
+SCH905,Lagos Model School 905,Lagos,LGA-11,Private,Senior Secondary,26,1098,53.61,76.5,High,Low
+SCH906,Lagos Model School 906,Lagos,LGA-19,Private,Technical college,29,2118,31.15,55.01,Moderate,Average
+SCH907,Kogi Model School 907,Ekiti,LGA-6,Public,Junior Secondary,41,1272,45.24,57.61,Moderate,High
+SCH908,Lagos Model School 908,Ogun,LGA-18,Private,Senior Secondary,27,1335,19.26,73.1,Low,Low
+SCH909,Enugu Model School 909,Ekiti,LGA-7,Public,Senior Secondary,45,1039,50.35,53.08,Moderate,High
+SCH910,Abia Model School 910,Rivers,LGA-7,Private,Junior Secondary,68,1547,39.75,48.85,High,High
+SCH911,Ekiti Model School 911,Ogun,LGA-10,Private,Primary,38,2458,30.99,70.8,Moderate,Low
+SCH912,Lagos Model School 912,Ogun,LGA-7,Public,Primary,46,1711,18.29,66.7,Moderate,Low
+SCH913,Oyo Model School 913,Delta,LGA-10,Private,Technical college,76,1684,43.34,52.55,Moderate,Average
+SCH914,Delta Model School 914,Enugu,LGA-10,Public,Primary,29,945,19.29,34.06,Moderate,High
+SCH915,Oyo Model School 915,Delta,LGA-3,Public,Primary,18,1215,33.65,66.04,Low,High
+SCH916,Oyo Model School 916,Lagos,LGA-7,Public,Technical college,48,532,51.33,61.91,Low,Average
+SCH917,Lagos Model School 917,Rivers,LGA-19,Private,Technical college,74,2464,57.67,53.59,Moderate,High
+SCH918,Kogi Model School 918,Kano,LGA-6,Private,Junior Secondary,21,1774,18.87,52.45,Low,Low
+SCH919,Oyo Model School 919,Lagos,LGA-1,Private,Technical college,49,1530,29.71,93.24,Low,Average
+SCH920,Kaduna Model School 920,Kaduna,LGA-6,Private,Junior Secondary,11,2263,54.95,73.85,High,High
+SCH921,Rivers Model School 921,Abia,LGA-12,Private,Junior Secondary,51,1287,26.48,82.97,High,Average
+SCH922,Delta Model School 922,Kogi,LGA-8,Private,Primary,42,760,45.67,78.91,Moderate,Average
+SCH923,Enugu Model School 923,Borno,LGA-18,Public,Primary,23,1179,46.42,66.4,Low,Average
+SCH924,Abuja Model School 924,Kogi,LGA-2,Public,Junior Secondary,39,1219,37.54,97.01,Low,Low
+SCH925,Abia Model School 925,Kano,LGA-13,Private,Primary,56,1675,30.45,45.54,High,High
+SCH926,Abuja Model School 926,Borno,LGA-13,Private,Senior Secondary,42,1795,52.44,93.09,Low,Low
+SCH927,Rivers Model School 927,Kaduna,LGA-18,Private,Junior Secondary,37,896,22.56,95.17,Moderate,High
+SCH928,Delta Model School 928,Oyo,LGA-20,Public,Junior Secondary,61,1065,52.05,52.59,Moderate,High
+SCH929,Ogun Model School 929,Oyo,LGA-19,Public,Senior Secondary,38,2103,23.62,55.85,Moderate,Average
+SCH930,Kaduna Model School 930,Delta,LGA-15,Private,Junior Secondary,11,1385,24.51,57.99,Moderate,High
+SCH931,Ekiti Model School 931,Lagos,LGA-16,Public,Junior Secondary,26,2455,55.43,66.47,High,High
+SCH932,Rivers Model School 932,Lagos,LGA-16,Private,Junior Secondary,79,598,19.1,63.52,High,High
+SCH933,Abia Model School 933,Ekiti,LGA-15,Public,Technical college,49,820,37.61,91.07,Moderate,High
+SCH934,Ekiti Model School 934,Ekiti,LGA-8,Public,Technical college,18,1037,22.7,33.73,Moderate,Average
+SCH935,Borno Model School 935,Lagos,LGA-16,Private,Primary,30,609,20.04,35.77,Low,High
+SCH936,Enugu Model School 936,Enugu,LGA-20,Private,Junior Secondary,24,1308,58.35,89.11,Low,Average
+SCH937,Kano Model School 937,Lagos,LGA-5,Public,Senior Secondary,55,1091,24.14,78.4,High,Average
+SCH938,Abuja Model School 938,Enugu,LGA-1,Private,Senior Secondary,53,2293,24.41,83.98,High,High
+SCH939,Abuja Model School 939,Kaduna,LGA-3,Private,Senior Secondary,16,721,56.72,53.04,Low,Low
+SCH940,Ogun Model School 940,Oyo,LGA-6,Private,Primary,23,1060,36.23,93.69,High,High
+SCH941,Rivers Model School 941,Enugu,LGA-2,Public,Junior Secondary,77,2418,27.47,45.25,Moderate,High
+SCH942,Delta Model School 942,Kano,LGA-11,Private,Junior Secondary,43,1307,52.2,50.86,Low,High
+SCH943,Abia Model School 943,Rivers,LGA-7,Public,Senior Secondary,34,1155,59.83,48.01,Moderate,Low
+SCH944,Enugu Model School 944,Delta,LGA-7,Public,Technical college,57,362,16.47,48.77,Low,High
+SCH945,Abia Model School 945,Borno,LGA-13,Public,Technical college,58,1770,46.6,86.95,Low,High
+SCH946,Abuja Model School 946,Abia,LGA-18,Private,Technical college,59,565,39.7,61.73,High,Low
+SCH947,Lagos Model School 947,Borno,LGA-2,Private,Primary,37,280,59.89,94.64,High,Low
+SCH948,Rivers Model School 948,Ekiti,LGA-10,Private,Technical college,78,1459,20.96,87.03,Low,High
+SCH949,Oyo Model School 949,Oyo,LGA-13,Public,Primary,78,658,59.74,76.85,Low,Average
+SCH950,Abia Model School 950,Ekiti,LGA-17,Private,Junior Secondary,20,1693,59.9,69.72,High,Average
+SCH951,Kaduna Model School 951,Kano,LGA-18,Public,Junior Secondary,29,362,18.3,91.04,Low,Average
+SCH952,Delta Model School 952,Ogun,LGA-3,Private,Primary,71,1198,47.51,50.7,Moderate,High
+SCH953,Ekiti Model School 953,Enugu,LGA-12,Public,Technical college,21,1937,54.86,61.62,Moderate,High
+SCH954,Borno Model School 954,Rivers,LGA-8,Private,Senior Secondary,20,1532,51.25,64.98,Low,Low
+SCH955,Lagos Model School 955,Lagos,LGA-3,Private,Senior Secondary,49,1375,54.94,89.42,Moderate,Low
+SCH956,Abia Model School 956,Kano,LGA-13,Public,Senior Secondary,55,279,59.58,40.94,Moderate,Average
+SCH957,Abuja Model School 957,Abuja,LGA-18,Private,Technical college,33,1030,27.01,68.27,Low,High
+SCH958,Abia Model School 958,Lagos,LGA-12,Public,Senior Secondary,46,1943,29.52,80.06,High,High
+SCH959,Oyo Model School 959,Lagos,LGA-2,Public,Senior Secondary,65,1453,51.06,51.36,High,High
+SCH960,Delta Model School 960,Borno,LGA-19,Private,Primary,54,653,55.67,99.45,High,High
+SCH961,Abia Model School 961,Borno,LGA-6,Private,Primary,50,237,25.16,64.4,Moderate,High
+SCH962,Enugu Model School 962,Oyo,LGA-8,Public,Junior Secondary,27,2201,22.35,55.73,Low,Low
+SCH963,Kaduna Model School 963,Abuja,LGA-9,Private,Technical college,68,1074,50.99,87.18,Low,Low
+SCH964,Kogi Model School 964,Abuja,LGA-4,Public,Senior Secondary,10,957,33.73,94.19,High,Low
+SCH965,Oyo Model School 965,Rivers,LGA-16,Public,Technical college,72,812,57.33,69.94,High,Average
+SCH966,Ogun Model School 966,Borno,LGA-15,Private,Technical college,50,251,21.17,70.08,High,Average
+SCH967,Kano Model School 967,Ekiti,LGA-2,Private,Technical college,41,1989,58.98,47.91,Low,Average
+SCH968,Delta Model School 968,Kaduna,LGA-6,Public,Junior Secondary,68,2364,29.37,51.68,High,Low
+SCH969,Lagos Model School 969,Oyo,LGA-3,Private,Technical college,72,1196,34.59,58.82,Moderate,Low
+SCH970,Kano Model School 970,Kano,LGA-9,Private,Junior Secondary,19,1191,59.37,65.37,Moderate,Average
+SCH971,Abuja Model School 971,Abia,LGA-15,Public,Senior Secondary,14,2235,52.57,84.81,Moderate,Low
+SCH972,Rivers Model School 972,Kaduna,LGA-3,Private,Junior Secondary,63,2219,24.06,74.52,Moderate,Low
+SCH973,Ogun Model School 973,Kaduna,LGA-2,Private,Primary,45,270,39.75,48.14,High,High
+SCH974,Rivers Model School 974,Borno,LGA-5,Public,Junior Secondary,73,1964,17.54,36.19,Low,Low
+SCH975,Enugu Model School 975,Kano,LGA-3,Private,Junior Secondary,23,760,36.9,35.78,High,Low
+SCH976,Abia Model School 976,Kogi,LGA-9,Private,Technical college,77,1595,45.94,44.87,Moderate,Low
+SCH977,Kogi Model School 977,Enugu,LGA-18,Private,Senior Secondary,36,1165,56.22,40.6,Low,High
+SCH978,Borno Model School 978,Abuja,LGA-16,Private,Primary,39,859,25.66,84.01,Low,Average
+SCH979,Ekiti Model School 979,Borno,LGA-18,Public,Junior Secondary,27,820,15.46,70.38,Low,Average
+SCH980,Abuja Model School 980,Lagos,LGA-17,Private,Junior Secondary,32,1078,32.04,83.97,High,Low
+SCH981,Abia Model School 981,Abia,LGA-13,Private,Junior Secondary,10,2030,32.54,33.86,High,High
+SCH982,Enugu Model School 982,Lagos,LGA-2,Public,Junior Secondary,17,1430,41.24,33.49,Moderate,Average
+SCH983,Delta Model School 983,Kano,LGA-1,Private,Senior Secondary,31,2263,44.97,69.56,Moderate,Average
+SCH984,Ekiti Model School 984,Oyo,LGA-8,Public,Technical college,65,1741,44.55,92.86,Moderate,High
+SCH985,Lagos Model School 985,Oyo,LGA-3,Private,Senior Secondary,50,1259,35.58,41.47,Moderate,Average
+SCH986,Enugu Model School 986,Rivers,LGA-20,Private,Technical college,20,2254,15.58,46.26,Moderate,Low
+SCH987,Borno Model School 987,Rivers,LGA-13,Public,Junior Secondary,60,1925,28.93,56.45,Low,Average
+SCH988,Ekiti Model School 988,Kaduna,LGA-18,Public,Senior Secondary,16,1330,46.69,36.79,Low,Average
+SCH989,Enugu Model School 989,Ekiti,LGA-3,Private,Senior Secondary,65,822,58.84,39.78,Low,Low
+SCH990,Enugu Model School 990,Oyo,LGA-16,Public,Primary,38,1105,36.72,76.8,Moderate,Average
+SCH991,Enugu Model School 991,Lagos,LGA-10,Private,Technical college,38,1595,53.93,76.99,Low,High
+SCH992,Abia Model School 992,Kaduna,LGA-9,Private,Junior Secondary,11,1381,30.8,74.36,Moderate,High
+SCH993,Abia Model School 993,Ogun,LGA-20,Public,Technical college,31,2449,51.24,73.75,Low,Average
+SCH994,Enugu Model School 994,Rivers,LGA-4,Public,Junior Secondary,73,554,48.08,75.52,High,Average
+SCH995,Ogun Model School 995,Ekiti,LGA-16,Private,Technical college,61,1826,49.46,84.74,High,Low
+SCH996,Oyo Model School 996,Enugu,LGA-15,Public,Senior Secondary,71,1033,15.4,80.1,Moderate,Average
+SCH997,Oyo Model School 997,Oyo,LGA-6,Private,Primary,73,353,22.24,31.81,Low,Low
+SCH998,Ekiti Model School 998,Rivers,LGA-18,Private,Primary,28,1679,32.7,99.37,Low,High
+SCH999,Abia Model School 999,Lagos,LGA-18,Public,Primary,42,2045,56.82,47.23,Low,High
+SCH1000,Ekiti Model School 1000,Borno,LGA-8,Public,Primary,67,409,51.88,30.4,High,Average

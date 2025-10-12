@@ -1,0 +1,991 @@
+exam_type,year,subject,section,topic,question_number,question_text,option_A,option_B,option_C,option_D,correct_answer,theory_answer_guide,marks_allocated,difficulty_level,explanation
+WAEC,2020,Mathematics,Objective,Trigonometry,1,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Moderate,3x + 2 = 11 → x = 3
+WAEC,2020,Mathematics,Objective,Trigonometry,2,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Moderate,3x + 2 = 11 → x = 3
+WAEC,2020,Mathematics,Objective,Trigonometry,3,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Moderate,3x + 2 = 11 → x = 3
+WAEC,2020,Mathematics,Objective,Trigonometry,4,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Moderate,3x + 2 = 11 → x = 3
+WAEC,2020,Mathematics,Objective,Trigonometry,5,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Moderate,3x + 2 = 11 → x = 3
+WAEC,2020,Mathematics,Objective,Trigonometry,6,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Moderate,3x + 2 = 11 → x = 3
+WAEC,2020,Mathematics,Objective,Trigonometry,7,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Moderate,3x + 2 = 11 → x = 3
+WAEC,2020,Mathematics,Objective,Trigonometry,8,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Moderate,3x + 2 = 11 → x = 3
+WAEC,2020,Mathematics,Objective,Trigonometry,9,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Moderate,3x + 2 = 11 → x = 3
+WAEC,2020,Mathematics,Objective,Trigonometry,10,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Moderate,3x + 2 = 11 → x = 3
+WAEC,2020,Mathematics,Theory,Trigonometry,1,Solve for x in 2x² + 5x - 3 = 0.,,,,,,x = 0.5 or x = -3,16,Hard,Use quadratic formula: (-b ± √b² - 4ac)/2a
+WAEC,2020,Mathematics,Theory,Trigonometry,2,Solve for x in 2x² + 5x - 3 = 0.,,,,,,x = 0.5 or x = -3,10,Hard,Use quadratic formula: (-b ± √b² - 4ac)/2a
+WAEC,2020,Mathematics,Theory,Trigonometry,3,Solve for x in 2x² + 5x - 3 = 0.,,,,,,x = 0.5 or x = -3,18,Hard,Use quadratic formula: (-b ± √b² - 4ac)/2a
+WAEC,2020,Mathematics,Theory,Trigonometry,4,Solve for x in 2x² + 5x - 3 = 0.,,,,,,x = 0.5 or x = -3,16,Hard,Use quadratic formula: (-b ± √b² - 4ac)/2a
+WAEC,2020,Mathematics,Theory,Trigonometry,5,Solve for x in 2x² + 5x - 3 = 0.,,,,,,x = 0.5 or x = -3,11,Hard,Use quadratic formula: (-b ± √b² - 4ac)/2a
+WAEC,2020,English,Objective,Vocabulary,1,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Moderate,‘He’ takes singular verb ‘goes’.
+WAEC,2020,English,Objective,Vocabulary,2,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Moderate,‘He’ takes singular verb ‘goes’.
+WAEC,2020,English,Objective,Vocabulary,3,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Moderate,‘He’ takes singular verb ‘goes’.
+WAEC,2020,English,Objective,Vocabulary,4,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Moderate,‘He’ takes singular verb ‘goes’.
+WAEC,2020,English,Objective,Vocabulary,5,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Moderate,‘He’ takes singular verb ‘goes’.
+WAEC,2020,English,Objective,Vocabulary,6,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Moderate,‘He’ takes singular verb ‘goes’.
+WAEC,2020,English,Objective,Vocabulary,7,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Moderate,‘He’ takes singular verb ‘goes’.
+WAEC,2020,English,Objective,Vocabulary,8,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Moderate,‘He’ takes singular verb ‘goes’.
+WAEC,2020,English,Objective,Vocabulary,9,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Moderate,‘He’ takes singular verb ‘goes’.
+WAEC,2020,English,Objective,Vocabulary,10,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Moderate,‘He’ takes singular verb ‘goes’.
+WAEC,2020,English,Theory,Vocabulary,1,Write an essay on 'The Importance of Honesty in Society.',,,,,,"Essay should have intro, body, conclusion (250 words)",15,Moderate,Focus on moral and civic examples.
+WAEC,2020,English,Theory,Vocabulary,2,Write an essay on 'The Importance of Honesty in Society.',,,,,,"Essay should have intro, body, conclusion (250 words)",16,Moderate,Focus on moral and civic examples.
+WAEC,2020,English,Theory,Vocabulary,3,Write an essay on 'The Importance of Honesty in Society.',,,,,,"Essay should have intro, body, conclusion (250 words)",20,Moderate,Focus on moral and civic examples.
+WAEC,2020,English,Theory,Vocabulary,4,Write an essay on 'The Importance of Honesty in Society.',,,,,,"Essay should have intro, body, conclusion (250 words)",12,Moderate,Focus on moral and civic examples.
+WAEC,2020,English,Theory,Vocabulary,5,Write an essay on 'The Importance of Honesty in Society.',,,,,,"Essay should have intro, body, conclusion (250 words)",11,Moderate,Focus on moral and civic examples.
+WAEC,2020,Biology,Objective,Ecology,1,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Hard,The heart pumps blood.
+WAEC,2020,Biology,Objective,Ecology,2,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Hard,The heart pumps blood.
+WAEC,2020,Biology,Objective,Ecology,3,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Hard,The heart pumps blood.
+WAEC,2020,Biology,Objective,Ecology,4,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Hard,The heart pumps blood.
+WAEC,2020,Biology,Objective,Ecology,5,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Hard,The heart pumps blood.
+WAEC,2020,Biology,Objective,Ecology,6,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Hard,The heart pumps blood.
+WAEC,2020,Biology,Objective,Ecology,7,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Hard,The heart pumps blood.
+WAEC,2020,Biology,Objective,Ecology,8,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Hard,The heart pumps blood.
+WAEC,2020,Biology,Objective,Ecology,9,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Hard,The heart pumps blood.
+WAEC,2020,Biology,Objective,Ecology,10,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Hard,The heart pumps blood.
+WAEC,2020,Biology,Theory,Cell Biology,1,Explain photosynthesis and list two factors affecting it.,,,,,,Photosynthesis: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂,15,Hard,Light and chlorophyll are essential factors.
+WAEC,2020,Biology,Theory,Cell Biology,2,Explain photosynthesis and list two factors affecting it.,,,,,,Photosynthesis: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂,14,Hard,Light and chlorophyll are essential factors.
+WAEC,2020,Biology,Theory,Cell Biology,3,Explain photosynthesis and list two factors affecting it.,,,,,,Photosynthesis: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂,15,Hard,Light and chlorophyll are essential factors.
+WAEC,2020,Biology,Theory,Cell Biology,4,Explain photosynthesis and list two factors affecting it.,,,,,,Photosynthesis: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂,10,Hard,Light and chlorophyll are essential factors.
+WAEC,2020,Biology,Theory,Cell Biology,5,Explain photosynthesis and list two factors affecting it.,,,,,,Photosynthesis: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂,11,Hard,Light and chlorophyll are essential factors.
+WAEC,2020,Biology,Practical,Genetics,1,Observe the given leaf under a microscope and draw its structure.,,,,,,"Diagram labeled with stomata, veins, epidermis.",21,Moderate,Award marks for accuracy and labeling.
+WAEC,2020,Biology,Practical,Genetics,2,Observe the given leaf under a microscope and draw its structure.,,,,,,"Diagram labeled with stomata, veins, epidermis.",23,Moderate,Award marks for accuracy and labeling.
+WAEC,2020,Biology,Practical,Genetics,3,Observe the given leaf under a microscope and draw its structure.,,,,,,"Diagram labeled with stomata, veins, epidermis.",19,Moderate,Award marks for accuracy and labeling.
+WAEC,2020,Chemistry,Objective,Inorganic,1,What is the pH of a neutral solution?,7,0,14,1,A,,1,Moderate,Neutral solutions have pH 7.
+WAEC,2020,Chemistry,Objective,Inorganic,2,What is the pH of a neutral solution?,7,0,14,1,A,,1,Moderate,Neutral solutions have pH 7.
+WAEC,2020,Chemistry,Objective,Inorganic,3,What is the pH of a neutral solution?,7,0,14,1,A,,1,Moderate,Neutral solutions have pH 7.
+WAEC,2020,Chemistry,Objective,Inorganic,4,What is the pH of a neutral solution?,7,0,14,1,A,,1,Moderate,Neutral solutions have pH 7.
+WAEC,2020,Chemistry,Objective,Inorganic,5,What is the pH of a neutral solution?,7,0,14,1,A,,1,Moderate,Neutral solutions have pH 7.
+WAEC,2020,Chemistry,Objective,Inorganic,6,What is the pH of a neutral solution?,7,0,14,1,A,,1,Moderate,Neutral solutions have pH 7.
+WAEC,2020,Chemistry,Objective,Inorganic,7,What is the pH of a neutral solution?,7,0,14,1,A,,1,Moderate,Neutral solutions have pH 7.
+WAEC,2020,Chemistry,Objective,Inorganic,8,What is the pH of a neutral solution?,7,0,14,1,A,,1,Moderate,Neutral solutions have pH 7.
+WAEC,2020,Chemistry,Objective,Inorganic,9,What is the pH of a neutral solution?,7,0,14,1,A,,1,Moderate,Neutral solutions have pH 7.
+WAEC,2020,Chemistry,Objective,Inorganic,10,What is the pH of a neutral solution?,7,0,14,1,A,,1,Moderate,Neutral solutions have pH 7.
+WAEC,2020,Chemistry,Theory,Physical,1,Describe the laboratory preparation of oxygen gas.,,,,,,Heat potassium chlorate in presence of MnO₂ catalyst.,11,Easy,"Apparatus: test tube, delivery tube, gas jar."
+WAEC,2020,Chemistry,Theory,Physical,2,Describe the laboratory preparation of oxygen gas.,,,,,,Heat potassium chlorate in presence of MnO₂ catalyst.,20,Easy,"Apparatus: test tube, delivery tube, gas jar."
+WAEC,2020,Chemistry,Theory,Physical,3,Describe the laboratory preparation of oxygen gas.,,,,,,Heat potassium chlorate in presence of MnO₂ catalyst.,12,Easy,"Apparatus: test tube, delivery tube, gas jar."
+WAEC,2020,Chemistry,Theory,Physical,4,Describe the laboratory preparation of oxygen gas.,,,,,,Heat potassium chlorate in presence of MnO₂ catalyst.,20,Easy,"Apparatus: test tube, delivery tube, gas jar."
+WAEC,2020,Chemistry,Theory,Physical,5,Describe the laboratory preparation of oxygen gas.,,,,,,Heat potassium chlorate in presence of MnO₂ catalyst.,14,Easy,"Apparatus: test tube, delivery tube, gas jar."
+WAEC,2020,Chemistry,Practical,Organic,1,Titrate NaOH against HCl using phenolphthalein indicator.,,,,,,Record burette readings and calculate molarity.,25,Hard,Award marks for correct readings and calculations.
+WAEC,2020,Chemistry,Practical,Organic,2,Titrate NaOH against HCl using phenolphthalein indicator.,,,,,,Record burette readings and calculate molarity.,24,Hard,Award marks for correct readings and calculations.
+WAEC,2020,Chemistry,Practical,Organic,3,Titrate NaOH against HCl using phenolphthalein indicator.,,,,,,Record burette readings and calculate molarity.,24,Hard,Award marks for correct readings and calculations.
+WAEC,2020,Physics,Objective,Mechanics,1,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Hard,The SI unit of force is the Newton.
+WAEC,2020,Physics,Objective,Mechanics,2,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Hard,The SI unit of force is the Newton.
+WAEC,2020,Physics,Objective,Mechanics,3,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Hard,The SI unit of force is the Newton.
+WAEC,2020,Physics,Objective,Mechanics,4,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Hard,The SI unit of force is the Newton.
+WAEC,2020,Physics,Objective,Mechanics,5,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Hard,The SI unit of force is the Newton.
+WAEC,2020,Physics,Objective,Mechanics,6,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Hard,The SI unit of force is the Newton.
+WAEC,2020,Physics,Objective,Mechanics,7,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Hard,The SI unit of force is the Newton.
+WAEC,2020,Physics,Objective,Mechanics,8,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Hard,The SI unit of force is the Newton.
+WAEC,2020,Physics,Objective,Mechanics,9,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Hard,The SI unit of force is the Newton.
+WAEC,2020,Physics,Objective,Mechanics,10,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Hard,The SI unit of force is the Newton.
+WAEC,2020,Physics,Theory,Heat,1,State and explain Ohm’s Law.,,,,,,V = IR (Voltage = Current × Resistance),13,Easy,Current through conductor is directly proportional to voltage.
+WAEC,2020,Physics,Theory,Heat,2,State and explain Ohm’s Law.,,,,,,V = IR (Voltage = Current × Resistance),14,Easy,Current through conductor is directly proportional to voltage.
+WAEC,2020,Physics,Theory,Heat,3,State and explain Ohm’s Law.,,,,,,V = IR (Voltage = Current × Resistance),16,Easy,Current through conductor is directly proportional to voltage.
+WAEC,2020,Physics,Theory,Heat,4,State and explain Ohm’s Law.,,,,,,V = IR (Voltage = Current × Resistance),20,Easy,Current through conductor is directly proportional to voltage.
+WAEC,2020,Physics,Theory,Heat,5,State and explain Ohm’s Law.,,,,,,V = IR (Voltage = Current × Resistance),13,Easy,Current through conductor is directly proportional to voltage.
+WAEC,2020,Physics,Practical,Optics,1,Set up a circuit with a resistor and measure current using an ammeter.,,,,,,Plot I–V graph and determine resistance.,19,Hard,Award marks for accuracy and graph plotting.
+WAEC,2020,Physics,Practical,Optics,2,Set up a circuit with a resistor and measure current using an ammeter.,,,,,,Plot I–V graph and determine resistance.,22,Hard,Award marks for accuracy and graph plotting.
+WAEC,2020,Physics,Practical,Optics,3,Set up a circuit with a resistor and measure current using an ammeter.,,,,,,Plot I–V graph and determine resistance.,15,Hard,Award marks for accuracy and graph plotting.
+WAEC,2020,Economics,Objective,Demand & Supply,1,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Moderate,It’s the next best alternative forgone.
+WAEC,2020,Economics,Objective,Demand & Supply,2,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Moderate,It’s the next best alternative forgone.
+WAEC,2020,Economics,Objective,Demand & Supply,3,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Moderate,It’s the next best alternative forgone.
+WAEC,2020,Economics,Objective,Demand & Supply,4,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Moderate,It’s the next best alternative forgone.
+WAEC,2020,Economics,Objective,Demand & Supply,5,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Moderate,It’s the next best alternative forgone.
+WAEC,2020,Economics,Objective,Demand & Supply,6,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Moderate,It’s the next best alternative forgone.
+WAEC,2020,Economics,Objective,Demand & Supply,7,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Moderate,It’s the next best alternative forgone.
+WAEC,2020,Economics,Objective,Demand & Supply,8,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Moderate,It’s the next best alternative forgone.
+WAEC,2020,Economics,Objective,Demand & Supply,9,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Moderate,It’s the next best alternative forgone.
+WAEC,2020,Economics,Objective,Demand & Supply,10,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Moderate,It’s the next best alternative forgone.
+WAEC,2020,Economics,Theory,Macroeconomics,1,Discuss four functions of money.,,,,,,"Medium of exchange, store of value, unit of account, standard of deferred payment",19,Easy,Each must be clearly explained.
+WAEC,2020,Economics,Theory,Macroeconomics,2,Discuss four functions of money.,,,,,,"Medium of exchange, store of value, unit of account, standard of deferred payment",19,Easy,Each must be clearly explained.
+WAEC,2020,Economics,Theory,Macroeconomics,3,Discuss four functions of money.,,,,,,"Medium of exchange, store of value, unit of account, standard of deferred payment",13,Easy,Each must be clearly explained.
+WAEC,2020,Economics,Theory,Macroeconomics,4,Discuss four functions of money.,,,,,,"Medium of exchange, store of value, unit of account, standard of deferred payment",15,Easy,Each must be clearly explained.
+WAEC,2020,Economics,Theory,Macroeconomics,5,Discuss four functions of money.,,,,,,"Medium of exchange, store of value, unit of account, standard of deferred payment",12,Easy,Each must be clearly explained.
+NECO,2020,Mathematics,Objective,Algebra,1,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Moderate,3x + 2 = 11 → x = 3
+NECO,2020,Mathematics,Objective,Algebra,2,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Moderate,3x + 2 = 11 → x = 3
+NECO,2020,Mathematics,Objective,Algebra,3,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Moderate,3x + 2 = 11 → x = 3
+NECO,2020,Mathematics,Objective,Algebra,4,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Moderate,3x + 2 = 11 → x = 3
+NECO,2020,Mathematics,Objective,Algebra,5,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Moderate,3x + 2 = 11 → x = 3
+NECO,2020,Mathematics,Objective,Algebra,6,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Moderate,3x + 2 = 11 → x = 3
+NECO,2020,Mathematics,Objective,Algebra,7,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Moderate,3x + 2 = 11 → x = 3
+NECO,2020,Mathematics,Objective,Algebra,8,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Moderate,3x + 2 = 11 → x = 3
+NECO,2020,Mathematics,Objective,Algebra,9,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Moderate,3x + 2 = 11 → x = 3
+NECO,2020,Mathematics,Objective,Algebra,10,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Moderate,3x + 2 = 11 → x = 3
+NECO,2020,Mathematics,Theory,Algebra,1,Solve for x in 2x² + 5x - 3 = 0.,,,,,,x = 0.5 or x = -3,18,Hard,Use quadratic formula: (-b ± √b² - 4ac)/2a
+NECO,2020,Mathematics,Theory,Algebra,2,Solve for x in 2x² + 5x - 3 = 0.,,,,,,x = 0.5 or x = -3,14,Hard,Use quadratic formula: (-b ± √b² - 4ac)/2a
+NECO,2020,Mathematics,Theory,Algebra,3,Solve for x in 2x² + 5x - 3 = 0.,,,,,,x = 0.5 or x = -3,20,Hard,Use quadratic formula: (-b ± √b² - 4ac)/2a
+NECO,2020,Mathematics,Theory,Algebra,4,Solve for x in 2x² + 5x - 3 = 0.,,,,,,x = 0.5 or x = -3,14,Hard,Use quadratic formula: (-b ± √b² - 4ac)/2a
+NECO,2020,Mathematics,Theory,Algebra,5,Solve for x in 2x² + 5x - 3 = 0.,,,,,,x = 0.5 or x = -3,18,Hard,Use quadratic formula: (-b ± √b² - 4ac)/2a
+NECO,2020,English,Objective,Literature,1,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Hard,‘He’ takes singular verb ‘goes’.
+NECO,2020,English,Objective,Literature,2,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Hard,‘He’ takes singular verb ‘goes’.
+NECO,2020,English,Objective,Literature,3,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Hard,‘He’ takes singular verb ‘goes’.
+NECO,2020,English,Objective,Literature,4,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Hard,‘He’ takes singular verb ‘goes’.
+NECO,2020,English,Objective,Literature,5,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Hard,‘He’ takes singular verb ‘goes’.
+NECO,2020,English,Objective,Literature,6,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Hard,‘He’ takes singular verb ‘goes’.
+NECO,2020,English,Objective,Literature,7,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Hard,‘He’ takes singular verb ‘goes’.
+NECO,2020,English,Objective,Literature,8,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Hard,‘He’ takes singular verb ‘goes’.
+NECO,2020,English,Objective,Literature,9,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Hard,‘He’ takes singular verb ‘goes’.
+NECO,2020,English,Objective,Literature,10,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Hard,‘He’ takes singular verb ‘goes’.
+NECO,2020,English,Theory,Vocabulary,1,Write an essay on 'The Importance of Honesty in Society.',,,,,,"Essay should have intro, body, conclusion (250 words)",14,Moderate,Focus on moral and civic examples.
+NECO,2020,English,Theory,Vocabulary,2,Write an essay on 'The Importance of Honesty in Society.',,,,,,"Essay should have intro, body, conclusion (250 words)",15,Moderate,Focus on moral and civic examples.
+NECO,2020,English,Theory,Vocabulary,3,Write an essay on 'The Importance of Honesty in Society.',,,,,,"Essay should have intro, body, conclusion (250 words)",19,Moderate,Focus on moral and civic examples.
+NECO,2020,English,Theory,Vocabulary,4,Write an essay on 'The Importance of Honesty in Society.',,,,,,"Essay should have intro, body, conclusion (250 words)",13,Moderate,Focus on moral and civic examples.
+NECO,2020,English,Theory,Vocabulary,5,Write an essay on 'The Importance of Honesty in Society.',,,,,,"Essay should have intro, body, conclusion (250 words)",12,Moderate,Focus on moral and civic examples.
+NECO,2020,Biology,Objective,Human Anatomy,1,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+NECO,2020,Biology,Objective,Human Anatomy,2,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+NECO,2020,Biology,Objective,Human Anatomy,3,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+NECO,2020,Biology,Objective,Human Anatomy,4,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+NECO,2020,Biology,Objective,Human Anatomy,5,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+NECO,2020,Biology,Objective,Human Anatomy,6,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+NECO,2020,Biology,Objective,Human Anatomy,7,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+NECO,2020,Biology,Objective,Human Anatomy,8,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+NECO,2020,Biology,Objective,Human Anatomy,9,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+NECO,2020,Biology,Objective,Human Anatomy,10,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+NECO,2020,Biology,Theory,Human Anatomy,1,Explain photosynthesis and list two factors affecting it.,,,,,,Photosynthesis: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂,13,Moderate,Light and chlorophyll are essential factors.
+NECO,2020,Biology,Theory,Human Anatomy,2,Explain photosynthesis and list two factors affecting it.,,,,,,Photosynthesis: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂,18,Moderate,Light and chlorophyll are essential factors.
+NECO,2020,Biology,Theory,Human Anatomy,3,Explain photosynthesis and list two factors affecting it.,,,,,,Photosynthesis: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂,12,Moderate,Light and chlorophyll are essential factors.
+NECO,2020,Biology,Theory,Human Anatomy,4,Explain photosynthesis and list two factors affecting it.,,,,,,Photosynthesis: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂,20,Moderate,Light and chlorophyll are essential factors.
+NECO,2020,Biology,Theory,Human Anatomy,5,Explain photosynthesis and list two factors affecting it.,,,,,,Photosynthesis: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂,18,Moderate,Light and chlorophyll are essential factors.
+NECO,2020,Biology,Practical,Genetics,1,Observe the given leaf under a microscope and draw its structure.,,,,,,"Diagram labeled with stomata, veins, epidermis.",23,Easy,Award marks for accuracy and labeling.
+NECO,2020,Biology,Practical,Genetics,2,Observe the given leaf under a microscope and draw its structure.,,,,,,"Diagram labeled with stomata, veins, epidermis.",22,Easy,Award marks for accuracy and labeling.
+NECO,2020,Biology,Practical,Genetics,3,Observe the given leaf under a microscope and draw its structure.,,,,,,"Diagram labeled with stomata, veins, epidermis.",21,Easy,Award marks for accuracy and labeling.
+NECO,2020,Chemistry,Objective,Inorganic,1,What is the pH of a neutral solution?,7,0,14,1,A,,1,Hard,Neutral solutions have pH 7.
+NECO,2020,Chemistry,Objective,Inorganic,2,What is the pH of a neutral solution?,7,0,14,1,A,,1,Hard,Neutral solutions have pH 7.
+NECO,2020,Chemistry,Objective,Inorganic,3,What is the pH of a neutral solution?,7,0,14,1,A,,1,Hard,Neutral solutions have pH 7.
+NECO,2020,Chemistry,Objective,Inorganic,4,What is the pH of a neutral solution?,7,0,14,1,A,,1,Hard,Neutral solutions have pH 7.
+NECO,2020,Chemistry,Objective,Inorganic,5,What is the pH of a neutral solution?,7,0,14,1,A,,1,Hard,Neutral solutions have pH 7.
+NECO,2020,Chemistry,Objective,Inorganic,6,What is the pH of a neutral solution?,7,0,14,1,A,,1,Hard,Neutral solutions have pH 7.
+NECO,2020,Chemistry,Objective,Inorganic,7,What is the pH of a neutral solution?,7,0,14,1,A,,1,Hard,Neutral solutions have pH 7.
+NECO,2020,Chemistry,Objective,Inorganic,8,What is the pH of a neutral solution?,7,0,14,1,A,,1,Hard,Neutral solutions have pH 7.
+NECO,2020,Chemistry,Objective,Inorganic,9,What is the pH of a neutral solution?,7,0,14,1,A,,1,Hard,Neutral solutions have pH 7.
+NECO,2020,Chemistry,Objective,Inorganic,10,What is the pH of a neutral solution?,7,0,14,1,A,,1,Hard,Neutral solutions have pH 7.
+NECO,2020,Chemistry,Theory,Acid-Base Reactions,1,Describe the laboratory preparation of oxygen gas.,,,,,,Heat potassium chlorate in presence of MnO₂ catalyst.,19,Easy,"Apparatus: test tube, delivery tube, gas jar."
+NECO,2020,Chemistry,Theory,Acid-Base Reactions,2,Describe the laboratory preparation of oxygen gas.,,,,,,Heat potassium chlorate in presence of MnO₂ catalyst.,16,Easy,"Apparatus: test tube, delivery tube, gas jar."
+NECO,2020,Chemistry,Theory,Acid-Base Reactions,3,Describe the laboratory preparation of oxygen gas.,,,,,,Heat potassium chlorate in presence of MnO₂ catalyst.,13,Easy,"Apparatus: test tube, delivery tube, gas jar."
+NECO,2020,Chemistry,Theory,Acid-Base Reactions,4,Describe the laboratory preparation of oxygen gas.,,,,,,Heat potassium chlorate in presence of MnO₂ catalyst.,15,Easy,"Apparatus: test tube, delivery tube, gas jar."
+NECO,2020,Chemistry,Theory,Acid-Base Reactions,5,Describe the laboratory preparation of oxygen gas.,,,,,,Heat potassium chlorate in presence of MnO₂ catalyst.,18,Easy,"Apparatus: test tube, delivery tube, gas jar."
+NECO,2020,Chemistry,Practical,Inorganic,1,Titrate NaOH against HCl using phenolphthalein indicator.,,,,,,Record burette readings and calculate molarity.,22,Easy,Award marks for correct readings and calculations.
+NECO,2020,Chemistry,Practical,Inorganic,2,Titrate NaOH against HCl using phenolphthalein indicator.,,,,,,Record burette readings and calculate molarity.,21,Easy,Award marks for correct readings and calculations.
+NECO,2020,Chemistry,Practical,Inorganic,3,Titrate NaOH against HCl using phenolphthalein indicator.,,,,,,Record burette readings and calculate molarity.,22,Easy,Award marks for correct readings and calculations.
+NECO,2020,Physics,Objective,Heat,1,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Easy,The SI unit of force is the Newton.
+NECO,2020,Physics,Objective,Heat,2,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Easy,The SI unit of force is the Newton.
+NECO,2020,Physics,Objective,Heat,3,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Easy,The SI unit of force is the Newton.
+NECO,2020,Physics,Objective,Heat,4,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Easy,The SI unit of force is the Newton.
+NECO,2020,Physics,Objective,Heat,5,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Easy,The SI unit of force is the Newton.
+NECO,2020,Physics,Objective,Heat,6,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Easy,The SI unit of force is the Newton.
+NECO,2020,Physics,Objective,Heat,7,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Easy,The SI unit of force is the Newton.
+NECO,2020,Physics,Objective,Heat,8,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Easy,The SI unit of force is the Newton.
+NECO,2020,Physics,Objective,Heat,9,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Easy,The SI unit of force is the Newton.
+NECO,2020,Physics,Objective,Heat,10,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Easy,The SI unit of force is the Newton.
+NECO,2020,Physics,Theory,Optics,1,State and explain Ohm’s Law.,,,,,,V = IR (Voltage = Current × Resistance),17,Easy,Current through conductor is directly proportional to voltage.
+NECO,2020,Physics,Theory,Optics,2,State and explain Ohm’s Law.,,,,,,V = IR (Voltage = Current × Resistance),12,Easy,Current through conductor is directly proportional to voltage.
+NECO,2020,Physics,Theory,Optics,3,State and explain Ohm’s Law.,,,,,,V = IR (Voltage = Current × Resistance),16,Easy,Current through conductor is directly proportional to voltage.
+NECO,2020,Physics,Theory,Optics,4,State and explain Ohm’s Law.,,,,,,V = IR (Voltage = Current × Resistance),10,Easy,Current through conductor is directly proportional to voltage.
+NECO,2020,Physics,Theory,Optics,5,State and explain Ohm’s Law.,,,,,,V = IR (Voltage = Current × Resistance),14,Easy,Current through conductor is directly proportional to voltage.
+NECO,2020,Physics,Practical,Mechanics,1,Set up a circuit with a resistor and measure current using an ammeter.,,,,,,Plot I–V graph and determine resistance.,22,Moderate,Award marks for accuracy and graph plotting.
+NECO,2020,Physics,Practical,Mechanics,2,Set up a circuit with a resistor and measure current using an ammeter.,,,,,,Plot I–V graph and determine resistance.,18,Moderate,Award marks for accuracy and graph plotting.
+NECO,2020,Physics,Practical,Mechanics,3,Set up a circuit with a resistor and measure current using an ammeter.,,,,,,Plot I–V graph and determine resistance.,24,Moderate,Award marks for accuracy and graph plotting.
+NECO,2020,Economics,Objective,Demand & Supply,1,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Hard,It’s the next best alternative forgone.
+NECO,2020,Economics,Objective,Demand & Supply,2,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Hard,It’s the next best alternative forgone.
+NECO,2020,Economics,Objective,Demand & Supply,3,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Hard,It’s the next best alternative forgone.
+NECO,2020,Economics,Objective,Demand & Supply,4,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Hard,It’s the next best alternative forgone.
+NECO,2020,Economics,Objective,Demand & Supply,5,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Hard,It’s the next best alternative forgone.
+NECO,2020,Economics,Objective,Demand & Supply,6,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Hard,It’s the next best alternative forgone.
+NECO,2020,Economics,Objective,Demand & Supply,7,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Hard,It’s the next best alternative forgone.
+NECO,2020,Economics,Objective,Demand & Supply,8,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Hard,It’s the next best alternative forgone.
+NECO,2020,Economics,Objective,Demand & Supply,9,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Hard,It’s the next best alternative forgone.
+NECO,2020,Economics,Objective,Demand & Supply,10,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Hard,It’s the next best alternative forgone.
+NECO,2020,Economics,Theory,Demand & Supply,1,Discuss four functions of money.,,,,,,"Medium of exchange, store of value, unit of account, standard of deferred payment",20,Moderate,Each must be clearly explained.
+NECO,2020,Economics,Theory,Demand & Supply,2,Discuss four functions of money.,,,,,,"Medium of exchange, store of value, unit of account, standard of deferred payment",19,Moderate,Each must be clearly explained.
+NECO,2020,Economics,Theory,Demand & Supply,3,Discuss four functions of money.,,,,,,"Medium of exchange, store of value, unit of account, standard of deferred payment",11,Moderate,Each must be clearly explained.
+NECO,2020,Economics,Theory,Demand & Supply,4,Discuss four functions of money.,,,,,,"Medium of exchange, store of value, unit of account, standard of deferred payment",13,Moderate,Each must be clearly explained.
+NECO,2020,Economics,Theory,Demand & Supply,5,Discuss four functions of money.,,,,,,"Medium of exchange, store of value, unit of account, standard of deferred payment",13,Moderate,Each must be clearly explained.
+WAEC,2021,Mathematics,Objective,Statistics,1,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Hard,3x + 2 = 11 → x = 3
+WAEC,2021,Mathematics,Objective,Statistics,2,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Hard,3x + 2 = 11 → x = 3
+WAEC,2021,Mathematics,Objective,Statistics,3,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Hard,3x + 2 = 11 → x = 3
+WAEC,2021,Mathematics,Objective,Statistics,4,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Hard,3x + 2 = 11 → x = 3
+WAEC,2021,Mathematics,Objective,Statistics,5,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Hard,3x + 2 = 11 → x = 3
+WAEC,2021,Mathematics,Objective,Statistics,6,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Hard,3x + 2 = 11 → x = 3
+WAEC,2021,Mathematics,Objective,Statistics,7,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Hard,3x + 2 = 11 → x = 3
+WAEC,2021,Mathematics,Objective,Statistics,8,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Hard,3x + 2 = 11 → x = 3
+WAEC,2021,Mathematics,Objective,Statistics,9,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Hard,3x + 2 = 11 → x = 3
+WAEC,2021,Mathematics,Objective,Statistics,10,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Hard,3x + 2 = 11 → x = 3
+WAEC,2021,Mathematics,Theory,Statistics,1,Solve for x in 2x² + 5x - 3 = 0.,,,,,,x = 0.5 or x = -3,19,Hard,Use quadratic formula: (-b ± √b² - 4ac)/2a
+WAEC,2021,Mathematics,Theory,Statistics,2,Solve for x in 2x² + 5x - 3 = 0.,,,,,,x = 0.5 or x = -3,12,Hard,Use quadratic formula: (-b ± √b² - 4ac)/2a
+WAEC,2021,Mathematics,Theory,Statistics,3,Solve for x in 2x² + 5x - 3 = 0.,,,,,,x = 0.5 or x = -3,11,Hard,Use quadratic formula: (-b ± √b² - 4ac)/2a
+WAEC,2021,Mathematics,Theory,Statistics,4,Solve for x in 2x² + 5x - 3 = 0.,,,,,,x = 0.5 or x = -3,13,Hard,Use quadratic formula: (-b ± √b² - 4ac)/2a
+WAEC,2021,Mathematics,Theory,Statistics,5,Solve for x in 2x² + 5x - 3 = 0.,,,,,,x = 0.5 or x = -3,18,Hard,Use quadratic formula: (-b ± √b² - 4ac)/2a
+WAEC,2021,English,Objective,Vocabulary,1,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Moderate,‘He’ takes singular verb ‘goes’.
+WAEC,2021,English,Objective,Vocabulary,2,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Moderate,‘He’ takes singular verb ‘goes’.
+WAEC,2021,English,Objective,Vocabulary,3,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Moderate,‘He’ takes singular verb ‘goes’.
+WAEC,2021,English,Objective,Vocabulary,4,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Moderate,‘He’ takes singular verb ‘goes’.
+WAEC,2021,English,Objective,Vocabulary,5,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Moderate,‘He’ takes singular verb ‘goes’.
+WAEC,2021,English,Objective,Vocabulary,6,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Moderate,‘He’ takes singular verb ‘goes’.
+WAEC,2021,English,Objective,Vocabulary,7,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Moderate,‘He’ takes singular verb ‘goes’.
+WAEC,2021,English,Objective,Vocabulary,8,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Moderate,‘He’ takes singular verb ‘goes’.
+WAEC,2021,English,Objective,Vocabulary,9,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Moderate,‘He’ takes singular verb ‘goes’.
+WAEC,2021,English,Objective,Vocabulary,10,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Moderate,‘He’ takes singular verb ‘goes’.
+WAEC,2021,English,Theory,Comprehension,1,Write an essay on 'The Importance of Honesty in Society.',,,,,,"Essay should have intro, body, conclusion (250 words)",14,Easy,Focus on moral and civic examples.
+WAEC,2021,English,Theory,Comprehension,2,Write an essay on 'The Importance of Honesty in Society.',,,,,,"Essay should have intro, body, conclusion (250 words)",15,Easy,Focus on moral and civic examples.
+WAEC,2021,English,Theory,Comprehension,3,Write an essay on 'The Importance of Honesty in Society.',,,,,,"Essay should have intro, body, conclusion (250 words)",13,Easy,Focus on moral and civic examples.
+WAEC,2021,English,Theory,Comprehension,4,Write an essay on 'The Importance of Honesty in Society.',,,,,,"Essay should have intro, body, conclusion (250 words)",10,Easy,Focus on moral and civic examples.
+WAEC,2021,English,Theory,Comprehension,5,Write an essay on 'The Importance of Honesty in Society.',,,,,,"Essay should have intro, body, conclusion (250 words)",19,Easy,Focus on moral and civic examples.
+WAEC,2021,Biology,Objective,Human Anatomy,1,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+WAEC,2021,Biology,Objective,Human Anatomy,2,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+WAEC,2021,Biology,Objective,Human Anatomy,3,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+WAEC,2021,Biology,Objective,Human Anatomy,4,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+WAEC,2021,Biology,Objective,Human Anatomy,5,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+WAEC,2021,Biology,Objective,Human Anatomy,6,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+WAEC,2021,Biology,Objective,Human Anatomy,7,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+WAEC,2021,Biology,Objective,Human Anatomy,8,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+WAEC,2021,Biology,Objective,Human Anatomy,9,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+WAEC,2021,Biology,Objective,Human Anatomy,10,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+WAEC,2021,Biology,Theory,Ecology,1,Explain photosynthesis and list two factors affecting it.,,,,,,Photosynthesis: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂,18,Easy,Light and chlorophyll are essential factors.
+WAEC,2021,Biology,Theory,Ecology,2,Explain photosynthesis and list two factors affecting it.,,,,,,Photosynthesis: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂,10,Easy,Light and chlorophyll are essential factors.
+WAEC,2021,Biology,Theory,Ecology,3,Explain photosynthesis and list two factors affecting it.,,,,,,Photosynthesis: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂,12,Easy,Light and chlorophyll are essential factors.
+WAEC,2021,Biology,Theory,Ecology,4,Explain photosynthesis and list two factors affecting it.,,,,,,Photosynthesis: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂,11,Easy,Light and chlorophyll are essential factors.
+WAEC,2021,Biology,Theory,Ecology,5,Explain photosynthesis and list two factors affecting it.,,,,,,Photosynthesis: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂,17,Easy,Light and chlorophyll are essential factors.
+WAEC,2021,Biology,Practical,Genetics,1,Observe the given leaf under a microscope and draw its structure.,,,,,,"Diagram labeled with stomata, veins, epidermis.",17,Easy,Award marks for accuracy and labeling.
+WAEC,2021,Biology,Practical,Genetics,2,Observe the given leaf under a microscope and draw its structure.,,,,,,"Diagram labeled with stomata, veins, epidermis.",16,Easy,Award marks for accuracy and labeling.
+WAEC,2021,Biology,Practical,Genetics,3,Observe the given leaf under a microscope and draw its structure.,,,,,,"Diagram labeled with stomata, veins, epidermis.",17,Easy,Award marks for accuracy and labeling.
+WAEC,2021,Chemistry,Objective,Physical,1,What is the pH of a neutral solution?,7,0,14,1,A,,1,Moderate,Neutral solutions have pH 7.
+WAEC,2021,Chemistry,Objective,Physical,2,What is the pH of a neutral solution?,7,0,14,1,A,,1,Moderate,Neutral solutions have pH 7.
+WAEC,2021,Chemistry,Objective,Physical,3,What is the pH of a neutral solution?,7,0,14,1,A,,1,Moderate,Neutral solutions have pH 7.
+WAEC,2021,Chemistry,Objective,Physical,4,What is the pH of a neutral solution?,7,0,14,1,A,,1,Moderate,Neutral solutions have pH 7.
+WAEC,2021,Chemistry,Objective,Physical,5,What is the pH of a neutral solution?,7,0,14,1,A,,1,Moderate,Neutral solutions have pH 7.
+WAEC,2021,Chemistry,Objective,Physical,6,What is the pH of a neutral solution?,7,0,14,1,A,,1,Moderate,Neutral solutions have pH 7.
+WAEC,2021,Chemistry,Objective,Physical,7,What is the pH of a neutral solution?,7,0,14,1,A,,1,Moderate,Neutral solutions have pH 7.
+WAEC,2021,Chemistry,Objective,Physical,8,What is the pH of a neutral solution?,7,0,14,1,A,,1,Moderate,Neutral solutions have pH 7.
+WAEC,2021,Chemistry,Objective,Physical,9,What is the pH of a neutral solution?,7,0,14,1,A,,1,Moderate,Neutral solutions have pH 7.
+WAEC,2021,Chemistry,Objective,Physical,10,What is the pH of a neutral solution?,7,0,14,1,A,,1,Moderate,Neutral solutions have pH 7.
+WAEC,2021,Chemistry,Theory,Organic,1,Describe the laboratory preparation of oxygen gas.,,,,,,Heat potassium chlorate in presence of MnO₂ catalyst.,10,Moderate,"Apparatus: test tube, delivery tube, gas jar."
+WAEC,2021,Chemistry,Theory,Organic,2,Describe the laboratory preparation of oxygen gas.,,,,,,Heat potassium chlorate in presence of MnO₂ catalyst.,14,Moderate,"Apparatus: test tube, delivery tube, gas jar."
+WAEC,2021,Chemistry,Theory,Organic,3,Describe the laboratory preparation of oxygen gas.,,,,,,Heat potassium chlorate in presence of MnO₂ catalyst.,17,Moderate,"Apparatus: test tube, delivery tube, gas jar."
+WAEC,2021,Chemistry,Theory,Organic,4,Describe the laboratory preparation of oxygen gas.,,,,,,Heat potassium chlorate in presence of MnO₂ catalyst.,18,Moderate,"Apparatus: test tube, delivery tube, gas jar."
+WAEC,2021,Chemistry,Theory,Organic,5,Describe the laboratory preparation of oxygen gas.,,,,,,Heat potassium chlorate in presence of MnO₂ catalyst.,11,Moderate,"Apparatus: test tube, delivery tube, gas jar."
+WAEC,2021,Chemistry,Practical,Physical,1,Titrate NaOH against HCl using phenolphthalein indicator.,,,,,,Record burette readings and calculate molarity.,21,Hard,Award marks for correct readings and calculations.
+WAEC,2021,Chemistry,Practical,Physical,2,Titrate NaOH against HCl using phenolphthalein indicator.,,,,,,Record burette readings and calculate molarity.,23,Hard,Award marks for correct readings and calculations.
+WAEC,2021,Chemistry,Practical,Physical,3,Titrate NaOH against HCl using phenolphthalein indicator.,,,,,,Record burette readings and calculate molarity.,24,Hard,Award marks for correct readings and calculations.
+WAEC,2021,Physics,Objective,Optics,1,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Moderate,The SI unit of force is the Newton.
+WAEC,2021,Physics,Objective,Optics,2,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Moderate,The SI unit of force is the Newton.
+WAEC,2021,Physics,Objective,Optics,3,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Moderate,The SI unit of force is the Newton.
+WAEC,2021,Physics,Objective,Optics,4,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Moderate,The SI unit of force is the Newton.
+WAEC,2021,Physics,Objective,Optics,5,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Moderate,The SI unit of force is the Newton.
+WAEC,2021,Physics,Objective,Optics,6,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Moderate,The SI unit of force is the Newton.
+WAEC,2021,Physics,Objective,Optics,7,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Moderate,The SI unit of force is the Newton.
+WAEC,2021,Physics,Objective,Optics,8,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Moderate,The SI unit of force is the Newton.
+WAEC,2021,Physics,Objective,Optics,9,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Moderate,The SI unit of force is the Newton.
+WAEC,2021,Physics,Objective,Optics,10,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Moderate,The SI unit of force is the Newton.
+WAEC,2021,Physics,Theory,Mechanics,1,State and explain Ohm’s Law.,,,,,,V = IR (Voltage = Current × Resistance),18,Hard,Current through conductor is directly proportional to voltage.
+WAEC,2021,Physics,Theory,Mechanics,2,State and explain Ohm’s Law.,,,,,,V = IR (Voltage = Current × Resistance),11,Hard,Current through conductor is directly proportional to voltage.
+WAEC,2021,Physics,Theory,Mechanics,3,State and explain Ohm’s Law.,,,,,,V = IR (Voltage = Current × Resistance),13,Hard,Current through conductor is directly proportional to voltage.
+WAEC,2021,Physics,Theory,Mechanics,4,State and explain Ohm’s Law.,,,,,,V = IR (Voltage = Current × Resistance),20,Hard,Current through conductor is directly proportional to voltage.
+WAEC,2021,Physics,Theory,Mechanics,5,State and explain Ohm’s Law.,,,,,,V = IR (Voltage = Current × Resistance),17,Hard,Current through conductor is directly proportional to voltage.
+WAEC,2021,Physics,Practical,Electricity,1,Set up a circuit with a resistor and measure current using an ammeter.,,,,,,Plot I–V graph and determine resistance.,25,Easy,Award marks for accuracy and graph plotting.
+WAEC,2021,Physics,Practical,Electricity,2,Set up a circuit with a resistor and measure current using an ammeter.,,,,,,Plot I–V graph and determine resistance.,18,Easy,Award marks for accuracy and graph plotting.
+WAEC,2021,Physics,Practical,Electricity,3,Set up a circuit with a resistor and measure current using an ammeter.,,,,,,Plot I–V graph and determine resistance.,21,Easy,Award marks for accuracy and graph plotting.
+WAEC,2021,Economics,Objective,Microeconomics,1,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Hard,It’s the next best alternative forgone.
+WAEC,2021,Economics,Objective,Microeconomics,2,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Hard,It’s the next best alternative forgone.
+WAEC,2021,Economics,Objective,Microeconomics,3,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Hard,It’s the next best alternative forgone.
+WAEC,2021,Economics,Objective,Microeconomics,4,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Hard,It’s the next best alternative forgone.
+WAEC,2021,Economics,Objective,Microeconomics,5,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Hard,It’s the next best alternative forgone.
+WAEC,2021,Economics,Objective,Microeconomics,6,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Hard,It’s the next best alternative forgone.
+WAEC,2021,Economics,Objective,Microeconomics,7,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Hard,It’s the next best alternative forgone.
+WAEC,2021,Economics,Objective,Microeconomics,8,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Hard,It’s the next best alternative forgone.
+WAEC,2021,Economics,Objective,Microeconomics,9,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Hard,It’s the next best alternative forgone.
+WAEC,2021,Economics,Objective,Microeconomics,10,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Hard,It’s the next best alternative forgone.
+WAEC,2021,Economics,Theory,Macroeconomics,1,Discuss four functions of money.,,,,,,"Medium of exchange, store of value, unit of account, standard of deferred payment",20,Easy,Each must be clearly explained.
+WAEC,2021,Economics,Theory,Macroeconomics,2,Discuss four functions of money.,,,,,,"Medium of exchange, store of value, unit of account, standard of deferred payment",15,Easy,Each must be clearly explained.
+WAEC,2021,Economics,Theory,Macroeconomics,3,Discuss four functions of money.,,,,,,"Medium of exchange, store of value, unit of account, standard of deferred payment",16,Easy,Each must be clearly explained.
+WAEC,2021,Economics,Theory,Macroeconomics,4,Discuss four functions of money.,,,,,,"Medium of exchange, store of value, unit of account, standard of deferred payment",16,Easy,Each must be clearly explained.
+WAEC,2021,Economics,Theory,Macroeconomics,5,Discuss four functions of money.,,,,,,"Medium of exchange, store of value, unit of account, standard of deferred payment",12,Easy,Each must be clearly explained.
+NECO,2021,Mathematics,Objective,Geometry,1,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Easy,3x + 2 = 11 → x = 3
+NECO,2021,Mathematics,Objective,Geometry,2,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Easy,3x + 2 = 11 → x = 3
+NECO,2021,Mathematics,Objective,Geometry,3,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Easy,3x + 2 = 11 → x = 3
+NECO,2021,Mathematics,Objective,Geometry,4,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Easy,3x + 2 = 11 → x = 3
+NECO,2021,Mathematics,Objective,Geometry,5,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Easy,3x + 2 = 11 → x = 3
+NECO,2021,Mathematics,Objective,Geometry,6,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Easy,3x + 2 = 11 → x = 3
+NECO,2021,Mathematics,Objective,Geometry,7,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Easy,3x + 2 = 11 → x = 3
+NECO,2021,Mathematics,Objective,Geometry,8,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Easy,3x + 2 = 11 → x = 3
+NECO,2021,Mathematics,Objective,Geometry,9,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Easy,3x + 2 = 11 → x = 3
+NECO,2021,Mathematics,Objective,Geometry,10,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Easy,3x + 2 = 11 → x = 3
+NECO,2021,Mathematics,Theory,Statistics,1,Solve for x in 2x² + 5x - 3 = 0.,,,,,,x = 0.5 or x = -3,15,Easy,Use quadratic formula: (-b ± √b² - 4ac)/2a
+NECO,2021,Mathematics,Theory,Statistics,2,Solve for x in 2x² + 5x - 3 = 0.,,,,,,x = 0.5 or x = -3,18,Easy,Use quadratic formula: (-b ± √b² - 4ac)/2a
+NECO,2021,Mathematics,Theory,Statistics,3,Solve for x in 2x² + 5x - 3 = 0.,,,,,,x = 0.5 or x = -3,10,Easy,Use quadratic formula: (-b ± √b² - 4ac)/2a
+NECO,2021,Mathematics,Theory,Statistics,4,Solve for x in 2x² + 5x - 3 = 0.,,,,,,x = 0.5 or x = -3,17,Easy,Use quadratic formula: (-b ± √b² - 4ac)/2a
+NECO,2021,Mathematics,Theory,Statistics,5,Solve for x in 2x² + 5x - 3 = 0.,,,,,,x = 0.5 or x = -3,19,Easy,Use quadratic formula: (-b ± √b² - 4ac)/2a
+NECO,2021,English,Objective,Vocabulary,1,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Easy,‘He’ takes singular verb ‘goes’.
+NECO,2021,English,Objective,Vocabulary,2,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Easy,‘He’ takes singular verb ‘goes’.
+NECO,2021,English,Objective,Vocabulary,3,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Easy,‘He’ takes singular verb ‘goes’.
+NECO,2021,English,Objective,Vocabulary,4,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Easy,‘He’ takes singular verb ‘goes’.
+NECO,2021,English,Objective,Vocabulary,5,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Easy,‘He’ takes singular verb ‘goes’.
+NECO,2021,English,Objective,Vocabulary,6,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Easy,‘He’ takes singular verb ‘goes’.
+NECO,2021,English,Objective,Vocabulary,7,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Easy,‘He’ takes singular verb ‘goes’.
+NECO,2021,English,Objective,Vocabulary,8,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Easy,‘He’ takes singular verb ‘goes’.
+NECO,2021,English,Objective,Vocabulary,9,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Easy,‘He’ takes singular verb ‘goes’.
+NECO,2021,English,Objective,Vocabulary,10,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Easy,‘He’ takes singular verb ‘goes’.
+NECO,2021,English,Theory,Comprehension,1,Write an essay on 'The Importance of Honesty in Society.',,,,,,"Essay should have intro, body, conclusion (250 words)",15,Easy,Focus on moral and civic examples.
+NECO,2021,English,Theory,Comprehension,2,Write an essay on 'The Importance of Honesty in Society.',,,,,,"Essay should have intro, body, conclusion (250 words)",10,Easy,Focus on moral and civic examples.
+NECO,2021,English,Theory,Comprehension,3,Write an essay on 'The Importance of Honesty in Society.',,,,,,"Essay should have intro, body, conclusion (250 words)",14,Easy,Focus on moral and civic examples.
+NECO,2021,English,Theory,Comprehension,4,Write an essay on 'The Importance of Honesty in Society.',,,,,,"Essay should have intro, body, conclusion (250 words)",20,Easy,Focus on moral and civic examples.
+NECO,2021,English,Theory,Comprehension,5,Write an essay on 'The Importance of Honesty in Society.',,,,,,"Essay should have intro, body, conclusion (250 words)",18,Easy,Focus on moral and civic examples.
+NECO,2021,Biology,Objective,Human Anatomy,1,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+NECO,2021,Biology,Objective,Human Anatomy,2,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+NECO,2021,Biology,Objective,Human Anatomy,3,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+NECO,2021,Biology,Objective,Human Anatomy,4,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+NECO,2021,Biology,Objective,Human Anatomy,5,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+NECO,2021,Biology,Objective,Human Anatomy,6,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+NECO,2021,Biology,Objective,Human Anatomy,7,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+NECO,2021,Biology,Objective,Human Anatomy,8,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+NECO,2021,Biology,Objective,Human Anatomy,9,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+NECO,2021,Biology,Objective,Human Anatomy,10,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+NECO,2021,Biology,Theory,Cell Biology,1,Explain photosynthesis and list two factors affecting it.,,,,,,Photosynthesis: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂,11,Moderate,Light and chlorophyll are essential factors.
+NECO,2021,Biology,Theory,Cell Biology,2,Explain photosynthesis and list two factors affecting it.,,,,,,Photosynthesis: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂,14,Moderate,Light and chlorophyll are essential factors.
+NECO,2021,Biology,Theory,Cell Biology,3,Explain photosynthesis and list two factors affecting it.,,,,,,Photosynthesis: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂,10,Moderate,Light and chlorophyll are essential factors.
+NECO,2021,Biology,Theory,Cell Biology,4,Explain photosynthesis and list two factors affecting it.,,,,,,Photosynthesis: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂,14,Moderate,Light and chlorophyll are essential factors.
+NECO,2021,Biology,Theory,Cell Biology,5,Explain photosynthesis and list two factors affecting it.,,,,,,Photosynthesis: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂,14,Moderate,Light and chlorophyll are essential factors.
+NECO,2021,Biology,Practical,Genetics,1,Observe the given leaf under a microscope and draw its structure.,,,,,,"Diagram labeled with stomata, veins, epidermis.",20,Hard,Award marks for accuracy and labeling.
+NECO,2021,Biology,Practical,Genetics,2,Observe the given leaf under a microscope and draw its structure.,,,,,,"Diagram labeled with stomata, veins, epidermis.",20,Hard,Award marks for accuracy and labeling.
+NECO,2021,Biology,Practical,Genetics,3,Observe the given leaf under a microscope and draw its structure.,,,,,,"Diagram labeled with stomata, veins, epidermis.",17,Hard,Award marks for accuracy and labeling.
+NECO,2021,Chemistry,Objective,Physical,1,What is the pH of a neutral solution?,7,0,14,1,A,,1,Moderate,Neutral solutions have pH 7.
+NECO,2021,Chemistry,Objective,Physical,2,What is the pH of a neutral solution?,7,0,14,1,A,,1,Moderate,Neutral solutions have pH 7.
+NECO,2021,Chemistry,Objective,Physical,3,What is the pH of a neutral solution?,7,0,14,1,A,,1,Moderate,Neutral solutions have pH 7.
+NECO,2021,Chemistry,Objective,Physical,4,What is the pH of a neutral solution?,7,0,14,1,A,,1,Moderate,Neutral solutions have pH 7.
+NECO,2021,Chemistry,Objective,Physical,5,What is the pH of a neutral solution?,7,0,14,1,A,,1,Moderate,Neutral solutions have pH 7.
+NECO,2021,Chemistry,Objective,Physical,6,What is the pH of a neutral solution?,7,0,14,1,A,,1,Moderate,Neutral solutions have pH 7.
+NECO,2021,Chemistry,Objective,Physical,7,What is the pH of a neutral solution?,7,0,14,1,A,,1,Moderate,Neutral solutions have pH 7.
+NECO,2021,Chemistry,Objective,Physical,8,What is the pH of a neutral solution?,7,0,14,1,A,,1,Moderate,Neutral solutions have pH 7.
+NECO,2021,Chemistry,Objective,Physical,9,What is the pH of a neutral solution?,7,0,14,1,A,,1,Moderate,Neutral solutions have pH 7.
+NECO,2021,Chemistry,Objective,Physical,10,What is the pH of a neutral solution?,7,0,14,1,A,,1,Moderate,Neutral solutions have pH 7.
+NECO,2021,Chemistry,Theory,Inorganic,1,Describe the laboratory preparation of oxygen gas.,,,,,,Heat potassium chlorate in presence of MnO₂ catalyst.,10,Hard,"Apparatus: test tube, delivery tube, gas jar."
+NECO,2021,Chemistry,Theory,Inorganic,2,Describe the laboratory preparation of oxygen gas.,,,,,,Heat potassium chlorate in presence of MnO₂ catalyst.,10,Hard,"Apparatus: test tube, delivery tube, gas jar."
+NECO,2021,Chemistry,Theory,Inorganic,3,Describe the laboratory preparation of oxygen gas.,,,,,,Heat potassium chlorate in presence of MnO₂ catalyst.,15,Hard,"Apparatus: test tube, delivery tube, gas jar."
+NECO,2021,Chemistry,Theory,Inorganic,4,Describe the laboratory preparation of oxygen gas.,,,,,,Heat potassium chlorate in presence of MnO₂ catalyst.,13,Hard,"Apparatus: test tube, delivery tube, gas jar."
+NECO,2021,Chemistry,Theory,Inorganic,5,Describe the laboratory preparation of oxygen gas.,,,,,,Heat potassium chlorate in presence of MnO₂ catalyst.,19,Hard,"Apparatus: test tube, delivery tube, gas jar."
+NECO,2021,Chemistry,Practical,Acid-Base Reactions,1,Titrate NaOH against HCl using phenolphthalein indicator.,,,,,,Record burette readings and calculate molarity.,22,Hard,Award marks for correct readings and calculations.
+NECO,2021,Chemistry,Practical,Acid-Base Reactions,2,Titrate NaOH against HCl using phenolphthalein indicator.,,,,,,Record burette readings and calculate molarity.,17,Hard,Award marks for correct readings and calculations.
+NECO,2021,Chemistry,Practical,Acid-Base Reactions,3,Titrate NaOH against HCl using phenolphthalein indicator.,,,,,,Record burette readings and calculate molarity.,23,Hard,Award marks for correct readings and calculations.
+NECO,2021,Physics,Objective,Electricity,1,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Moderate,The SI unit of force is the Newton.
+NECO,2021,Physics,Objective,Electricity,2,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Moderate,The SI unit of force is the Newton.
+NECO,2021,Physics,Objective,Electricity,3,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Moderate,The SI unit of force is the Newton.
+NECO,2021,Physics,Objective,Electricity,4,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Moderate,The SI unit of force is the Newton.
+NECO,2021,Physics,Objective,Electricity,5,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Moderate,The SI unit of force is the Newton.
+NECO,2021,Physics,Objective,Electricity,6,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Moderate,The SI unit of force is the Newton.
+NECO,2021,Physics,Objective,Electricity,7,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Moderate,The SI unit of force is the Newton.
+NECO,2021,Physics,Objective,Electricity,8,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Moderate,The SI unit of force is the Newton.
+NECO,2021,Physics,Objective,Electricity,9,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Moderate,The SI unit of force is the Newton.
+NECO,2021,Physics,Objective,Electricity,10,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Moderate,The SI unit of force is the Newton.
+NECO,2021,Physics,Theory,Electricity,1,State and explain Ohm’s Law.,,,,,,V = IR (Voltage = Current × Resistance),20,Easy,Current through conductor is directly proportional to voltage.
+NECO,2021,Physics,Theory,Electricity,2,State and explain Ohm’s Law.,,,,,,V = IR (Voltage = Current × Resistance),18,Easy,Current through conductor is directly proportional to voltage.
+NECO,2021,Physics,Theory,Electricity,3,State and explain Ohm’s Law.,,,,,,V = IR (Voltage = Current × Resistance),20,Easy,Current through conductor is directly proportional to voltage.
+NECO,2021,Physics,Theory,Electricity,4,State and explain Ohm’s Law.,,,,,,V = IR (Voltage = Current × Resistance),17,Easy,Current through conductor is directly proportional to voltage.
+NECO,2021,Physics,Theory,Electricity,5,State and explain Ohm’s Law.,,,,,,V = IR (Voltage = Current × Resistance),11,Easy,Current through conductor is directly proportional to voltage.
+NECO,2021,Physics,Practical,Heat,1,Set up a circuit with a resistor and measure current using an ammeter.,,,,,,Plot I–V graph and determine resistance.,16,Easy,Award marks for accuracy and graph plotting.
+NECO,2021,Physics,Practical,Heat,2,Set up a circuit with a resistor and measure current using an ammeter.,,,,,,Plot I–V graph and determine resistance.,15,Easy,Award marks for accuracy and graph plotting.
+NECO,2021,Physics,Practical,Heat,3,Set up a circuit with a resistor and measure current using an ammeter.,,,,,,Plot I–V graph and determine resistance.,17,Easy,Award marks for accuracy and graph plotting.
+NECO,2021,Economics,Objective,Macroeconomics,1,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Easy,It’s the next best alternative forgone.
+NECO,2021,Economics,Objective,Macroeconomics,2,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Easy,It’s the next best alternative forgone.
+NECO,2021,Economics,Objective,Macroeconomics,3,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Easy,It’s the next best alternative forgone.
+NECO,2021,Economics,Objective,Macroeconomics,4,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Easy,It’s the next best alternative forgone.
+NECO,2021,Economics,Objective,Macroeconomics,5,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Easy,It’s the next best alternative forgone.
+NECO,2021,Economics,Objective,Macroeconomics,6,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Easy,It’s the next best alternative forgone.
+NECO,2021,Economics,Objective,Macroeconomics,7,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Easy,It’s the next best alternative forgone.
+NECO,2021,Economics,Objective,Macroeconomics,8,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Easy,It’s the next best alternative forgone.
+NECO,2021,Economics,Objective,Macroeconomics,9,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Easy,It’s the next best alternative forgone.
+NECO,2021,Economics,Objective,Macroeconomics,10,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Easy,It’s the next best alternative forgone.
+NECO,2021,Economics,Theory,Development,1,Discuss four functions of money.,,,,,,"Medium of exchange, store of value, unit of account, standard of deferred payment",11,Easy,Each must be clearly explained.
+NECO,2021,Economics,Theory,Development,2,Discuss four functions of money.,,,,,,"Medium of exchange, store of value, unit of account, standard of deferred payment",19,Easy,Each must be clearly explained.
+NECO,2021,Economics,Theory,Development,3,Discuss four functions of money.,,,,,,"Medium of exchange, store of value, unit of account, standard of deferred payment",12,Easy,Each must be clearly explained.
+NECO,2021,Economics,Theory,Development,4,Discuss four functions of money.,,,,,,"Medium of exchange, store of value, unit of account, standard of deferred payment",17,Easy,Each must be clearly explained.
+NECO,2021,Economics,Theory,Development,5,Discuss four functions of money.,,,,,,"Medium of exchange, store of value, unit of account, standard of deferred payment",14,Easy,Each must be clearly explained.
+WAEC,2022,Mathematics,Objective,Trigonometry,1,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Hard,3x + 2 = 11 → x = 3
+WAEC,2022,Mathematics,Objective,Trigonometry,2,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Hard,3x + 2 = 11 → x = 3
+WAEC,2022,Mathematics,Objective,Trigonometry,3,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Hard,3x + 2 = 11 → x = 3
+WAEC,2022,Mathematics,Objective,Trigonometry,4,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Hard,3x + 2 = 11 → x = 3
+WAEC,2022,Mathematics,Objective,Trigonometry,5,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Hard,3x + 2 = 11 → x = 3
+WAEC,2022,Mathematics,Objective,Trigonometry,6,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Hard,3x + 2 = 11 → x = 3
+WAEC,2022,Mathematics,Objective,Trigonometry,7,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Hard,3x + 2 = 11 → x = 3
+WAEC,2022,Mathematics,Objective,Trigonometry,8,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Hard,3x + 2 = 11 → x = 3
+WAEC,2022,Mathematics,Objective,Trigonometry,9,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Hard,3x + 2 = 11 → x = 3
+WAEC,2022,Mathematics,Objective,Trigonometry,10,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Hard,3x + 2 = 11 → x = 3
+WAEC,2022,Mathematics,Theory,Geometry,1,Solve for x in 2x² + 5x - 3 = 0.,,,,,,x = 0.5 or x = -3,20,Hard,Use quadratic formula: (-b ± √b² - 4ac)/2a
+WAEC,2022,Mathematics,Theory,Geometry,2,Solve for x in 2x² + 5x - 3 = 0.,,,,,,x = 0.5 or x = -3,11,Hard,Use quadratic formula: (-b ± √b² - 4ac)/2a
+WAEC,2022,Mathematics,Theory,Geometry,3,Solve for x in 2x² + 5x - 3 = 0.,,,,,,x = 0.5 or x = -3,11,Hard,Use quadratic formula: (-b ± √b² - 4ac)/2a
+WAEC,2022,Mathematics,Theory,Geometry,4,Solve for x in 2x² + 5x - 3 = 0.,,,,,,x = 0.5 or x = -3,14,Hard,Use quadratic formula: (-b ± √b² - 4ac)/2a
+WAEC,2022,Mathematics,Theory,Geometry,5,Solve for x in 2x² + 5x - 3 = 0.,,,,,,x = 0.5 or x = -3,15,Hard,Use quadratic formula: (-b ± √b² - 4ac)/2a
+WAEC,2022,English,Objective,Comprehension,1,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Hard,‘He’ takes singular verb ‘goes’.
+WAEC,2022,English,Objective,Comprehension,2,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Hard,‘He’ takes singular verb ‘goes’.
+WAEC,2022,English,Objective,Comprehension,3,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Hard,‘He’ takes singular verb ‘goes’.
+WAEC,2022,English,Objective,Comprehension,4,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Hard,‘He’ takes singular verb ‘goes’.
+WAEC,2022,English,Objective,Comprehension,5,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Hard,‘He’ takes singular verb ‘goes’.
+WAEC,2022,English,Objective,Comprehension,6,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Hard,‘He’ takes singular verb ‘goes’.
+WAEC,2022,English,Objective,Comprehension,7,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Hard,‘He’ takes singular verb ‘goes’.
+WAEC,2022,English,Objective,Comprehension,8,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Hard,‘He’ takes singular verb ‘goes’.
+WAEC,2022,English,Objective,Comprehension,9,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Hard,‘He’ takes singular verb ‘goes’.
+WAEC,2022,English,Objective,Comprehension,10,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Hard,‘He’ takes singular verb ‘goes’.
+WAEC,2022,English,Theory,Literature,1,Write an essay on 'The Importance of Honesty in Society.',,,,,,"Essay should have intro, body, conclusion (250 words)",11,Easy,Focus on moral and civic examples.
+WAEC,2022,English,Theory,Literature,2,Write an essay on 'The Importance of Honesty in Society.',,,,,,"Essay should have intro, body, conclusion (250 words)",11,Easy,Focus on moral and civic examples.
+WAEC,2022,English,Theory,Literature,3,Write an essay on 'The Importance of Honesty in Society.',,,,,,"Essay should have intro, body, conclusion (250 words)",16,Easy,Focus on moral and civic examples.
+WAEC,2022,English,Theory,Literature,4,Write an essay on 'The Importance of Honesty in Society.',,,,,,"Essay should have intro, body, conclusion (250 words)",14,Easy,Focus on moral and civic examples.
+WAEC,2022,English,Theory,Literature,5,Write an essay on 'The Importance of Honesty in Society.',,,,,,"Essay should have intro, body, conclusion (250 words)",16,Easy,Focus on moral and civic examples.
+WAEC,2022,Biology,Objective,Ecology,1,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+WAEC,2022,Biology,Objective,Ecology,2,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+WAEC,2022,Biology,Objective,Ecology,3,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+WAEC,2022,Biology,Objective,Ecology,4,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+WAEC,2022,Biology,Objective,Ecology,5,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+WAEC,2022,Biology,Objective,Ecology,6,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+WAEC,2022,Biology,Objective,Ecology,7,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+WAEC,2022,Biology,Objective,Ecology,8,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+WAEC,2022,Biology,Objective,Ecology,9,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+WAEC,2022,Biology,Objective,Ecology,10,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+WAEC,2022,Biology,Theory,Human Anatomy,1,Explain photosynthesis and list two factors affecting it.,,,,,,Photosynthesis: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂,16,Hard,Light and chlorophyll are essential factors.
+WAEC,2022,Biology,Theory,Human Anatomy,2,Explain photosynthesis and list two factors affecting it.,,,,,,Photosynthesis: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂,13,Hard,Light and chlorophyll are essential factors.
+WAEC,2022,Biology,Theory,Human Anatomy,3,Explain photosynthesis and list two factors affecting it.,,,,,,Photosynthesis: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂,13,Hard,Light and chlorophyll are essential factors.
+WAEC,2022,Biology,Theory,Human Anatomy,4,Explain photosynthesis and list two factors affecting it.,,,,,,Photosynthesis: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂,18,Hard,Light and chlorophyll are essential factors.
+WAEC,2022,Biology,Theory,Human Anatomy,5,Explain photosynthesis and list two factors affecting it.,,,,,,Photosynthesis: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂,18,Hard,Light and chlorophyll are essential factors.
+WAEC,2022,Biology,Practical,Cell Biology,1,Observe the given leaf under a microscope and draw its structure.,,,,,,"Diagram labeled with stomata, veins, epidermis.",16,Hard,Award marks for accuracy and labeling.
+WAEC,2022,Biology,Practical,Cell Biology,2,Observe the given leaf under a microscope and draw its structure.,,,,,,"Diagram labeled with stomata, veins, epidermis.",16,Hard,Award marks for accuracy and labeling.
+WAEC,2022,Biology,Practical,Cell Biology,3,Observe the given leaf under a microscope and draw its structure.,,,,,,"Diagram labeled with stomata, veins, epidermis.",15,Hard,Award marks for accuracy and labeling.
+WAEC,2022,Chemistry,Objective,Inorganic,1,What is the pH of a neutral solution?,7,0,14,1,A,,1,Easy,Neutral solutions have pH 7.
+WAEC,2022,Chemistry,Objective,Inorganic,2,What is the pH of a neutral solution?,7,0,14,1,A,,1,Easy,Neutral solutions have pH 7.
+WAEC,2022,Chemistry,Objective,Inorganic,3,What is the pH of a neutral solution?,7,0,14,1,A,,1,Easy,Neutral solutions have pH 7.
+WAEC,2022,Chemistry,Objective,Inorganic,4,What is the pH of a neutral solution?,7,0,14,1,A,,1,Easy,Neutral solutions have pH 7.
+WAEC,2022,Chemistry,Objective,Inorganic,5,What is the pH of a neutral solution?,7,0,14,1,A,,1,Easy,Neutral solutions have pH 7.
+WAEC,2022,Chemistry,Objective,Inorganic,6,What is the pH of a neutral solution?,7,0,14,1,A,,1,Easy,Neutral solutions have pH 7.
+WAEC,2022,Chemistry,Objective,Inorganic,7,What is the pH of a neutral solution?,7,0,14,1,A,,1,Easy,Neutral solutions have pH 7.
+WAEC,2022,Chemistry,Objective,Inorganic,8,What is the pH of a neutral solution?,7,0,14,1,A,,1,Easy,Neutral solutions have pH 7.
+WAEC,2022,Chemistry,Objective,Inorganic,9,What is the pH of a neutral solution?,7,0,14,1,A,,1,Easy,Neutral solutions have pH 7.
+WAEC,2022,Chemistry,Objective,Inorganic,10,What is the pH of a neutral solution?,7,0,14,1,A,,1,Easy,Neutral solutions have pH 7.
+WAEC,2022,Chemistry,Theory,Physical,1,Describe the laboratory preparation of oxygen gas.,,,,,,Heat potassium chlorate in presence of MnO₂ catalyst.,19,Hard,"Apparatus: test tube, delivery tube, gas jar."
+WAEC,2022,Chemistry,Theory,Physical,2,Describe the laboratory preparation of oxygen gas.,,,,,,Heat potassium chlorate in presence of MnO₂ catalyst.,10,Hard,"Apparatus: test tube, delivery tube, gas jar."
+WAEC,2022,Chemistry,Theory,Physical,3,Describe the laboratory preparation of oxygen gas.,,,,,,Heat potassium chlorate in presence of MnO₂ catalyst.,10,Hard,"Apparatus: test tube, delivery tube, gas jar."
+WAEC,2022,Chemistry,Theory,Physical,4,Describe the laboratory preparation of oxygen gas.,,,,,,Heat potassium chlorate in presence of MnO₂ catalyst.,11,Hard,"Apparatus: test tube, delivery tube, gas jar."
+WAEC,2022,Chemistry,Theory,Physical,5,Describe the laboratory preparation of oxygen gas.,,,,,,Heat potassium chlorate in presence of MnO₂ catalyst.,20,Hard,"Apparatus: test tube, delivery tube, gas jar."
+WAEC,2022,Chemistry,Practical,Acid-Base Reactions,1,Titrate NaOH against HCl using phenolphthalein indicator.,,,,,,Record burette readings and calculate molarity.,24,Hard,Award marks for correct readings and calculations.
+WAEC,2022,Chemistry,Practical,Acid-Base Reactions,2,Titrate NaOH against HCl using phenolphthalein indicator.,,,,,,Record burette readings and calculate molarity.,17,Hard,Award marks for correct readings and calculations.
+WAEC,2022,Chemistry,Practical,Acid-Base Reactions,3,Titrate NaOH against HCl using phenolphthalein indicator.,,,,,,Record burette readings and calculate molarity.,18,Hard,Award marks for correct readings and calculations.
+WAEC,2022,Physics,Objective,Optics,1,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Moderate,The SI unit of force is the Newton.
+WAEC,2022,Physics,Objective,Optics,2,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Moderate,The SI unit of force is the Newton.
+WAEC,2022,Physics,Objective,Optics,3,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Moderate,The SI unit of force is the Newton.
+WAEC,2022,Physics,Objective,Optics,4,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Moderate,The SI unit of force is the Newton.
+WAEC,2022,Physics,Objective,Optics,5,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Moderate,The SI unit of force is the Newton.
+WAEC,2022,Physics,Objective,Optics,6,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Moderate,The SI unit of force is the Newton.
+WAEC,2022,Physics,Objective,Optics,7,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Moderate,The SI unit of force is the Newton.
+WAEC,2022,Physics,Objective,Optics,8,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Moderate,The SI unit of force is the Newton.
+WAEC,2022,Physics,Objective,Optics,9,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Moderate,The SI unit of force is the Newton.
+WAEC,2022,Physics,Objective,Optics,10,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Moderate,The SI unit of force is the Newton.
+WAEC,2022,Physics,Theory,Optics,1,State and explain Ohm’s Law.,,,,,,V = IR (Voltage = Current × Resistance),18,Moderate,Current through conductor is directly proportional to voltage.
+WAEC,2022,Physics,Theory,Optics,2,State and explain Ohm’s Law.,,,,,,V = IR (Voltage = Current × Resistance),12,Moderate,Current through conductor is directly proportional to voltage.
+WAEC,2022,Physics,Theory,Optics,3,State and explain Ohm’s Law.,,,,,,V = IR (Voltage = Current × Resistance),10,Moderate,Current through conductor is directly proportional to voltage.
+WAEC,2022,Physics,Theory,Optics,4,State and explain Ohm’s Law.,,,,,,V = IR (Voltage = Current × Resistance),13,Moderate,Current through conductor is directly proportional to voltage.
+WAEC,2022,Physics,Theory,Optics,5,State and explain Ohm’s Law.,,,,,,V = IR (Voltage = Current × Resistance),20,Moderate,Current through conductor is directly proportional to voltage.
+WAEC,2022,Physics,Practical,Electricity,1,Set up a circuit with a resistor and measure current using an ammeter.,,,,,,Plot I–V graph and determine resistance.,15,Moderate,Award marks for accuracy and graph plotting.
+WAEC,2022,Physics,Practical,Electricity,2,Set up a circuit with a resistor and measure current using an ammeter.,,,,,,Plot I–V graph and determine resistance.,25,Moderate,Award marks for accuracy and graph plotting.
+WAEC,2022,Physics,Practical,Electricity,3,Set up a circuit with a resistor and measure current using an ammeter.,,,,,,Plot I–V graph and determine resistance.,18,Moderate,Award marks for accuracy and graph plotting.
+WAEC,2022,Economics,Objective,Demand & Supply,1,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Hard,It’s the next best alternative forgone.
+WAEC,2022,Economics,Objective,Demand & Supply,2,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Hard,It’s the next best alternative forgone.
+WAEC,2022,Economics,Objective,Demand & Supply,3,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Hard,It’s the next best alternative forgone.
+WAEC,2022,Economics,Objective,Demand & Supply,4,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Hard,It’s the next best alternative forgone.
+WAEC,2022,Economics,Objective,Demand & Supply,5,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Hard,It’s the next best alternative forgone.
+WAEC,2022,Economics,Objective,Demand & Supply,6,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Hard,It’s the next best alternative forgone.
+WAEC,2022,Economics,Objective,Demand & Supply,7,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Hard,It’s the next best alternative forgone.
+WAEC,2022,Economics,Objective,Demand & Supply,8,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Hard,It’s the next best alternative forgone.
+WAEC,2022,Economics,Objective,Demand & Supply,9,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Hard,It’s the next best alternative forgone.
+WAEC,2022,Economics,Objective,Demand & Supply,10,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Hard,It’s the next best alternative forgone.
+WAEC,2022,Economics,Theory,Macroeconomics,1,Discuss four functions of money.,,,,,,"Medium of exchange, store of value, unit of account, standard of deferred payment",17,Hard,Each must be clearly explained.
+WAEC,2022,Economics,Theory,Macroeconomics,2,Discuss four functions of money.,,,,,,"Medium of exchange, store of value, unit of account, standard of deferred payment",12,Hard,Each must be clearly explained.
+WAEC,2022,Economics,Theory,Macroeconomics,3,Discuss four functions of money.,,,,,,"Medium of exchange, store of value, unit of account, standard of deferred payment",12,Hard,Each must be clearly explained.
+WAEC,2022,Economics,Theory,Macroeconomics,4,Discuss four functions of money.,,,,,,"Medium of exchange, store of value, unit of account, standard of deferred payment",16,Hard,Each must be clearly explained.
+WAEC,2022,Economics,Theory,Macroeconomics,5,Discuss four functions of money.,,,,,,"Medium of exchange, store of value, unit of account, standard of deferred payment",13,Hard,Each must be clearly explained.
+NECO,2022,Mathematics,Objective,Trigonometry,1,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Hard,3x + 2 = 11 → x = 3
+NECO,2022,Mathematics,Objective,Trigonometry,2,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Hard,3x + 2 = 11 → x = 3
+NECO,2022,Mathematics,Objective,Trigonometry,3,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Hard,3x + 2 = 11 → x = 3
+NECO,2022,Mathematics,Objective,Trigonometry,4,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Hard,3x + 2 = 11 → x = 3
+NECO,2022,Mathematics,Objective,Trigonometry,5,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Hard,3x + 2 = 11 → x = 3
+NECO,2022,Mathematics,Objective,Trigonometry,6,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Hard,3x + 2 = 11 → x = 3
+NECO,2022,Mathematics,Objective,Trigonometry,7,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Hard,3x + 2 = 11 → x = 3
+NECO,2022,Mathematics,Objective,Trigonometry,8,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Hard,3x + 2 = 11 → x = 3
+NECO,2022,Mathematics,Objective,Trigonometry,9,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Hard,3x + 2 = 11 → x = 3
+NECO,2022,Mathematics,Objective,Trigonometry,10,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Hard,3x + 2 = 11 → x = 3
+NECO,2022,Mathematics,Theory,Algebra,1,Solve for x in 2x² + 5x - 3 = 0.,,,,,,x = 0.5 or x = -3,15,Easy,Use quadratic formula: (-b ± √b² - 4ac)/2a
+NECO,2022,Mathematics,Theory,Algebra,2,Solve for x in 2x² + 5x - 3 = 0.,,,,,,x = 0.5 or x = -3,20,Easy,Use quadratic formula: (-b ± √b² - 4ac)/2a
+NECO,2022,Mathematics,Theory,Algebra,3,Solve for x in 2x² + 5x - 3 = 0.,,,,,,x = 0.5 or x = -3,18,Easy,Use quadratic formula: (-b ± √b² - 4ac)/2a
+NECO,2022,Mathematics,Theory,Algebra,4,Solve for x in 2x² + 5x - 3 = 0.,,,,,,x = 0.5 or x = -3,20,Easy,Use quadratic formula: (-b ± √b² - 4ac)/2a
+NECO,2022,Mathematics,Theory,Algebra,5,Solve for x in 2x² + 5x - 3 = 0.,,,,,,x = 0.5 or x = -3,15,Easy,Use quadratic formula: (-b ± √b² - 4ac)/2a
+NECO,2022,English,Objective,Grammar,1,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Moderate,‘He’ takes singular verb ‘goes’.
+NECO,2022,English,Objective,Grammar,2,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Moderate,‘He’ takes singular verb ‘goes’.
+NECO,2022,English,Objective,Grammar,3,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Moderate,‘He’ takes singular verb ‘goes’.
+NECO,2022,English,Objective,Grammar,4,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Moderate,‘He’ takes singular verb ‘goes’.
+NECO,2022,English,Objective,Grammar,5,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Moderate,‘He’ takes singular verb ‘goes’.
+NECO,2022,English,Objective,Grammar,6,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Moderate,‘He’ takes singular verb ‘goes’.
+NECO,2022,English,Objective,Grammar,7,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Moderate,‘He’ takes singular verb ‘goes’.
+NECO,2022,English,Objective,Grammar,8,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Moderate,‘He’ takes singular verb ‘goes’.
+NECO,2022,English,Objective,Grammar,9,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Moderate,‘He’ takes singular verb ‘goes’.
+NECO,2022,English,Objective,Grammar,10,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Moderate,‘He’ takes singular verb ‘goes’.
+NECO,2022,English,Theory,Comprehension,1,Write an essay on 'The Importance of Honesty in Society.',,,,,,"Essay should have intro, body, conclusion (250 words)",11,Moderate,Focus on moral and civic examples.
+NECO,2022,English,Theory,Comprehension,2,Write an essay on 'The Importance of Honesty in Society.',,,,,,"Essay should have intro, body, conclusion (250 words)",16,Moderate,Focus on moral and civic examples.
+NECO,2022,English,Theory,Comprehension,3,Write an essay on 'The Importance of Honesty in Society.',,,,,,"Essay should have intro, body, conclusion (250 words)",17,Moderate,Focus on moral and civic examples.
+NECO,2022,English,Theory,Comprehension,4,Write an essay on 'The Importance of Honesty in Society.',,,,,,"Essay should have intro, body, conclusion (250 words)",20,Moderate,Focus on moral and civic examples.
+NECO,2022,English,Theory,Comprehension,5,Write an essay on 'The Importance of Honesty in Society.',,,,,,"Essay should have intro, body, conclusion (250 words)",17,Moderate,Focus on moral and civic examples.
+NECO,2022,Biology,Objective,Cell Biology,1,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Hard,The heart pumps blood.
+NECO,2022,Biology,Objective,Cell Biology,2,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Hard,The heart pumps blood.
+NECO,2022,Biology,Objective,Cell Biology,3,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Hard,The heart pumps blood.
+NECO,2022,Biology,Objective,Cell Biology,4,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Hard,The heart pumps blood.
+NECO,2022,Biology,Objective,Cell Biology,5,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Hard,The heart pumps blood.
+NECO,2022,Biology,Objective,Cell Biology,6,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Hard,The heart pumps blood.
+NECO,2022,Biology,Objective,Cell Biology,7,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Hard,The heart pumps blood.
+NECO,2022,Biology,Objective,Cell Biology,8,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Hard,The heart pumps blood.
+NECO,2022,Biology,Objective,Cell Biology,9,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Hard,The heart pumps blood.
+NECO,2022,Biology,Objective,Cell Biology,10,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Hard,The heart pumps blood.
+NECO,2022,Biology,Theory,Cell Biology,1,Explain photosynthesis and list two factors affecting it.,,,,,,Photosynthesis: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂,17,Easy,Light and chlorophyll are essential factors.
+NECO,2022,Biology,Theory,Cell Biology,2,Explain photosynthesis and list two factors affecting it.,,,,,,Photosynthesis: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂,15,Easy,Light and chlorophyll are essential factors.
+NECO,2022,Biology,Theory,Cell Biology,3,Explain photosynthesis and list two factors affecting it.,,,,,,Photosynthesis: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂,12,Easy,Light and chlorophyll are essential factors.
+NECO,2022,Biology,Theory,Cell Biology,4,Explain photosynthesis and list two factors affecting it.,,,,,,Photosynthesis: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂,19,Easy,Light and chlorophyll are essential factors.
+NECO,2022,Biology,Theory,Cell Biology,5,Explain photosynthesis and list two factors affecting it.,,,,,,Photosynthesis: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂,12,Easy,Light and chlorophyll are essential factors.
+NECO,2022,Biology,Practical,Genetics,1,Observe the given leaf under a microscope and draw its structure.,,,,,,"Diagram labeled with stomata, veins, epidermis.",23,Easy,Award marks for accuracy and labeling.
+NECO,2022,Biology,Practical,Genetics,2,Observe the given leaf under a microscope and draw its structure.,,,,,,"Diagram labeled with stomata, veins, epidermis.",18,Easy,Award marks for accuracy and labeling.
+NECO,2022,Biology,Practical,Genetics,3,Observe the given leaf under a microscope and draw its structure.,,,,,,"Diagram labeled with stomata, veins, epidermis.",21,Easy,Award marks for accuracy and labeling.
+NECO,2022,Chemistry,Objective,Acid-Base Reactions,1,What is the pH of a neutral solution?,7,0,14,1,A,,1,Moderate,Neutral solutions have pH 7.
+NECO,2022,Chemistry,Objective,Acid-Base Reactions,2,What is the pH of a neutral solution?,7,0,14,1,A,,1,Moderate,Neutral solutions have pH 7.
+NECO,2022,Chemistry,Objective,Acid-Base Reactions,3,What is the pH of a neutral solution?,7,0,14,1,A,,1,Moderate,Neutral solutions have pH 7.
+NECO,2022,Chemistry,Objective,Acid-Base Reactions,4,What is the pH of a neutral solution?,7,0,14,1,A,,1,Moderate,Neutral solutions have pH 7.
+NECO,2022,Chemistry,Objective,Acid-Base Reactions,5,What is the pH of a neutral solution?,7,0,14,1,A,,1,Moderate,Neutral solutions have pH 7.
+NECO,2022,Chemistry,Objective,Acid-Base Reactions,6,What is the pH of a neutral solution?,7,0,14,1,A,,1,Moderate,Neutral solutions have pH 7.
+NECO,2022,Chemistry,Objective,Acid-Base Reactions,7,What is the pH of a neutral solution?,7,0,14,1,A,,1,Moderate,Neutral solutions have pH 7.
+NECO,2022,Chemistry,Objective,Acid-Base Reactions,8,What is the pH of a neutral solution?,7,0,14,1,A,,1,Moderate,Neutral solutions have pH 7.
+NECO,2022,Chemistry,Objective,Acid-Base Reactions,9,What is the pH of a neutral solution?,7,0,14,1,A,,1,Moderate,Neutral solutions have pH 7.
+NECO,2022,Chemistry,Objective,Acid-Base Reactions,10,What is the pH of a neutral solution?,7,0,14,1,A,,1,Moderate,Neutral solutions have pH 7.
+NECO,2022,Chemistry,Theory,Inorganic,1,Describe the laboratory preparation of oxygen gas.,,,,,,Heat potassium chlorate in presence of MnO₂ catalyst.,19,Moderate,"Apparatus: test tube, delivery tube, gas jar."
+NECO,2022,Chemistry,Theory,Inorganic,2,Describe the laboratory preparation of oxygen gas.,,,,,,Heat potassium chlorate in presence of MnO₂ catalyst.,18,Moderate,"Apparatus: test tube, delivery tube, gas jar."
+NECO,2022,Chemistry,Theory,Inorganic,3,Describe the laboratory preparation of oxygen gas.,,,,,,Heat potassium chlorate in presence of MnO₂ catalyst.,19,Moderate,"Apparatus: test tube, delivery tube, gas jar."
+NECO,2022,Chemistry,Theory,Inorganic,4,Describe the laboratory preparation of oxygen gas.,,,,,,Heat potassium chlorate in presence of MnO₂ catalyst.,10,Moderate,"Apparatus: test tube, delivery tube, gas jar."
+NECO,2022,Chemistry,Theory,Inorganic,5,Describe the laboratory preparation of oxygen gas.,,,,,,Heat potassium chlorate in presence of MnO₂ catalyst.,19,Moderate,"Apparatus: test tube, delivery tube, gas jar."
+NECO,2022,Chemistry,Practical,Inorganic,1,Titrate NaOH against HCl using phenolphthalein indicator.,,,,,,Record burette readings and calculate molarity.,17,Hard,Award marks for correct readings and calculations.
+NECO,2022,Chemistry,Practical,Inorganic,2,Titrate NaOH against HCl using phenolphthalein indicator.,,,,,,Record burette readings and calculate molarity.,15,Hard,Award marks for correct readings and calculations.
+NECO,2022,Chemistry,Practical,Inorganic,3,Titrate NaOH against HCl using phenolphthalein indicator.,,,,,,Record burette readings and calculate molarity.,24,Hard,Award marks for correct readings and calculations.
+NECO,2022,Physics,Objective,Electricity,1,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Easy,The SI unit of force is the Newton.
+NECO,2022,Physics,Objective,Electricity,2,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Easy,The SI unit of force is the Newton.
+NECO,2022,Physics,Objective,Electricity,3,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Easy,The SI unit of force is the Newton.
+NECO,2022,Physics,Objective,Electricity,4,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Easy,The SI unit of force is the Newton.
+NECO,2022,Physics,Objective,Electricity,5,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Easy,The SI unit of force is the Newton.
+NECO,2022,Physics,Objective,Electricity,6,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Easy,The SI unit of force is the Newton.
+NECO,2022,Physics,Objective,Electricity,7,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Easy,The SI unit of force is the Newton.
+NECO,2022,Physics,Objective,Electricity,8,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Easy,The SI unit of force is the Newton.
+NECO,2022,Physics,Objective,Electricity,9,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Easy,The SI unit of force is the Newton.
+NECO,2022,Physics,Objective,Electricity,10,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Easy,The SI unit of force is the Newton.
+NECO,2022,Physics,Theory,Heat,1,State and explain Ohm’s Law.,,,,,,V = IR (Voltage = Current × Resistance),14,Easy,Current through conductor is directly proportional to voltage.
+NECO,2022,Physics,Theory,Heat,2,State and explain Ohm’s Law.,,,,,,V = IR (Voltage = Current × Resistance),17,Easy,Current through conductor is directly proportional to voltage.
+NECO,2022,Physics,Theory,Heat,3,State and explain Ohm’s Law.,,,,,,V = IR (Voltage = Current × Resistance),17,Easy,Current through conductor is directly proportional to voltage.
+NECO,2022,Physics,Theory,Heat,4,State and explain Ohm’s Law.,,,,,,V = IR (Voltage = Current × Resistance),20,Easy,Current through conductor is directly proportional to voltage.
+NECO,2022,Physics,Theory,Heat,5,State and explain Ohm’s Law.,,,,,,V = IR (Voltage = Current × Resistance),20,Easy,Current through conductor is directly proportional to voltage.
+NECO,2022,Physics,Practical,Optics,1,Set up a circuit with a resistor and measure current using an ammeter.,,,,,,Plot I–V graph and determine resistance.,23,Hard,Award marks for accuracy and graph plotting.
+NECO,2022,Physics,Practical,Optics,2,Set up a circuit with a resistor and measure current using an ammeter.,,,,,,Plot I–V graph and determine resistance.,22,Hard,Award marks for accuracy and graph plotting.
+NECO,2022,Physics,Practical,Optics,3,Set up a circuit with a resistor and measure current using an ammeter.,,,,,,Plot I–V graph and determine resistance.,20,Hard,Award marks for accuracy and graph plotting.
+NECO,2022,Economics,Objective,Macroeconomics,1,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Moderate,It’s the next best alternative forgone.
+NECO,2022,Economics,Objective,Macroeconomics,2,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Moderate,It’s the next best alternative forgone.
+NECO,2022,Economics,Objective,Macroeconomics,3,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Moderate,It’s the next best alternative forgone.
+NECO,2022,Economics,Objective,Macroeconomics,4,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Moderate,It’s the next best alternative forgone.
+NECO,2022,Economics,Objective,Macroeconomics,5,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Moderate,It’s the next best alternative forgone.
+NECO,2022,Economics,Objective,Macroeconomics,6,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Moderate,It’s the next best alternative forgone.
+NECO,2022,Economics,Objective,Macroeconomics,7,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Moderate,It’s the next best alternative forgone.
+NECO,2022,Economics,Objective,Macroeconomics,8,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Moderate,It’s the next best alternative forgone.
+NECO,2022,Economics,Objective,Macroeconomics,9,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Moderate,It’s the next best alternative forgone.
+NECO,2022,Economics,Objective,Macroeconomics,10,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Moderate,It’s the next best alternative forgone.
+NECO,2022,Economics,Theory,Macroeconomics,1,Discuss four functions of money.,,,,,,"Medium of exchange, store of value, unit of account, standard of deferred payment",15,Easy,Each must be clearly explained.
+NECO,2022,Economics,Theory,Macroeconomics,2,Discuss four functions of money.,,,,,,"Medium of exchange, store of value, unit of account, standard of deferred payment",17,Easy,Each must be clearly explained.
+NECO,2022,Economics,Theory,Macroeconomics,3,Discuss four functions of money.,,,,,,"Medium of exchange, store of value, unit of account, standard of deferred payment",20,Easy,Each must be clearly explained.
+NECO,2022,Economics,Theory,Macroeconomics,4,Discuss four functions of money.,,,,,,"Medium of exchange, store of value, unit of account, standard of deferred payment",16,Easy,Each must be clearly explained.
+NECO,2022,Economics,Theory,Macroeconomics,5,Discuss four functions of money.,,,,,,"Medium of exchange, store of value, unit of account, standard of deferred payment",19,Easy,Each must be clearly explained.
+WAEC,2023,Mathematics,Objective,Statistics,1,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Easy,3x + 2 = 11 → x = 3
+WAEC,2023,Mathematics,Objective,Statistics,2,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Easy,3x + 2 = 11 → x = 3
+WAEC,2023,Mathematics,Objective,Statistics,3,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Easy,3x + 2 = 11 → x = 3
+WAEC,2023,Mathematics,Objective,Statistics,4,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Easy,3x + 2 = 11 → x = 3
+WAEC,2023,Mathematics,Objective,Statistics,5,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Easy,3x + 2 = 11 → x = 3
+WAEC,2023,Mathematics,Objective,Statistics,6,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Easy,3x + 2 = 11 → x = 3
+WAEC,2023,Mathematics,Objective,Statistics,7,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Easy,3x + 2 = 11 → x = 3
+WAEC,2023,Mathematics,Objective,Statistics,8,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Easy,3x + 2 = 11 → x = 3
+WAEC,2023,Mathematics,Objective,Statistics,9,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Easy,3x + 2 = 11 → x = 3
+WAEC,2023,Mathematics,Objective,Statistics,10,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Easy,3x + 2 = 11 → x = 3
+WAEC,2023,Mathematics,Theory,Trigonometry,1,Solve for x in 2x² + 5x - 3 = 0.,,,,,,x = 0.5 or x = -3,10,Easy,Use quadratic formula: (-b ± √b² - 4ac)/2a
+WAEC,2023,Mathematics,Theory,Trigonometry,2,Solve for x in 2x² + 5x - 3 = 0.,,,,,,x = 0.5 or x = -3,11,Easy,Use quadratic formula: (-b ± √b² - 4ac)/2a
+WAEC,2023,Mathematics,Theory,Trigonometry,3,Solve for x in 2x² + 5x - 3 = 0.,,,,,,x = 0.5 or x = -3,14,Easy,Use quadratic formula: (-b ± √b² - 4ac)/2a
+WAEC,2023,Mathematics,Theory,Trigonometry,4,Solve for x in 2x² + 5x - 3 = 0.,,,,,,x = 0.5 or x = -3,18,Easy,Use quadratic formula: (-b ± √b² - 4ac)/2a
+WAEC,2023,Mathematics,Theory,Trigonometry,5,Solve for x in 2x² + 5x - 3 = 0.,,,,,,x = 0.5 or x = -3,19,Easy,Use quadratic formula: (-b ± √b² - 4ac)/2a
+WAEC,2023,English,Objective,Vocabulary,1,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Hard,‘He’ takes singular verb ‘goes’.
+WAEC,2023,English,Objective,Vocabulary,2,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Hard,‘He’ takes singular verb ‘goes’.
+WAEC,2023,English,Objective,Vocabulary,3,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Hard,‘He’ takes singular verb ‘goes’.
+WAEC,2023,English,Objective,Vocabulary,4,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Hard,‘He’ takes singular verb ‘goes’.
+WAEC,2023,English,Objective,Vocabulary,5,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Hard,‘He’ takes singular verb ‘goes’.
+WAEC,2023,English,Objective,Vocabulary,6,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Hard,‘He’ takes singular verb ‘goes’.
+WAEC,2023,English,Objective,Vocabulary,7,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Hard,‘He’ takes singular verb ‘goes’.
+WAEC,2023,English,Objective,Vocabulary,8,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Hard,‘He’ takes singular verb ‘goes’.
+WAEC,2023,English,Objective,Vocabulary,9,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Hard,‘He’ takes singular verb ‘goes’.
+WAEC,2023,English,Objective,Vocabulary,10,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Hard,‘He’ takes singular verb ‘goes’.
+WAEC,2023,English,Theory,Vocabulary,1,Write an essay on 'The Importance of Honesty in Society.',,,,,,"Essay should have intro, body, conclusion (250 words)",14,Moderate,Focus on moral and civic examples.
+WAEC,2023,English,Theory,Vocabulary,2,Write an essay on 'The Importance of Honesty in Society.',,,,,,"Essay should have intro, body, conclusion (250 words)",11,Moderate,Focus on moral and civic examples.
+WAEC,2023,English,Theory,Vocabulary,3,Write an essay on 'The Importance of Honesty in Society.',,,,,,"Essay should have intro, body, conclusion (250 words)",11,Moderate,Focus on moral and civic examples.
+WAEC,2023,English,Theory,Vocabulary,4,Write an essay on 'The Importance of Honesty in Society.',,,,,,"Essay should have intro, body, conclusion (250 words)",10,Moderate,Focus on moral and civic examples.
+WAEC,2023,English,Theory,Vocabulary,5,Write an essay on 'The Importance of Honesty in Society.',,,,,,"Essay should have intro, body, conclusion (250 words)",15,Moderate,Focus on moral and civic examples.
+WAEC,2023,Biology,Objective,Human Anatomy,1,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+WAEC,2023,Biology,Objective,Human Anatomy,2,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+WAEC,2023,Biology,Objective,Human Anatomy,3,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+WAEC,2023,Biology,Objective,Human Anatomy,4,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+WAEC,2023,Biology,Objective,Human Anatomy,5,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+WAEC,2023,Biology,Objective,Human Anatomy,6,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+WAEC,2023,Biology,Objective,Human Anatomy,7,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+WAEC,2023,Biology,Objective,Human Anatomy,8,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+WAEC,2023,Biology,Objective,Human Anatomy,9,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+WAEC,2023,Biology,Objective,Human Anatomy,10,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+WAEC,2023,Biology,Theory,Genetics,1,Explain photosynthesis and list two factors affecting it.,,,,,,Photosynthesis: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂,10,Easy,Light and chlorophyll are essential factors.
+WAEC,2023,Biology,Theory,Genetics,2,Explain photosynthesis and list two factors affecting it.,,,,,,Photosynthesis: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂,11,Easy,Light and chlorophyll are essential factors.
+WAEC,2023,Biology,Theory,Genetics,3,Explain photosynthesis and list two factors affecting it.,,,,,,Photosynthesis: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂,12,Easy,Light and chlorophyll are essential factors.
+WAEC,2023,Biology,Theory,Genetics,4,Explain photosynthesis and list two factors affecting it.,,,,,,Photosynthesis: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂,20,Easy,Light and chlorophyll are essential factors.
+WAEC,2023,Biology,Theory,Genetics,5,Explain photosynthesis and list two factors affecting it.,,,,,,Photosynthesis: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂,20,Easy,Light and chlorophyll are essential factors.
+WAEC,2023,Biology,Practical,Genetics,1,Observe the given leaf under a microscope and draw its structure.,,,,,,"Diagram labeled with stomata, veins, epidermis.",17,Easy,Award marks for accuracy and labeling.
+WAEC,2023,Biology,Practical,Genetics,2,Observe the given leaf under a microscope and draw its structure.,,,,,,"Diagram labeled with stomata, veins, epidermis.",24,Easy,Award marks for accuracy and labeling.
+WAEC,2023,Biology,Practical,Genetics,3,Observe the given leaf under a microscope and draw its structure.,,,,,,"Diagram labeled with stomata, veins, epidermis.",25,Easy,Award marks for accuracy and labeling.
+WAEC,2023,Chemistry,Objective,Inorganic,1,What is the pH of a neutral solution?,7,0,14,1,A,,1,Hard,Neutral solutions have pH 7.
+WAEC,2023,Chemistry,Objective,Inorganic,2,What is the pH of a neutral solution?,7,0,14,1,A,,1,Hard,Neutral solutions have pH 7.
+WAEC,2023,Chemistry,Objective,Inorganic,3,What is the pH of a neutral solution?,7,0,14,1,A,,1,Hard,Neutral solutions have pH 7.
+WAEC,2023,Chemistry,Objective,Inorganic,4,What is the pH of a neutral solution?,7,0,14,1,A,,1,Hard,Neutral solutions have pH 7.
+WAEC,2023,Chemistry,Objective,Inorganic,5,What is the pH of a neutral solution?,7,0,14,1,A,,1,Hard,Neutral solutions have pH 7.
+WAEC,2023,Chemistry,Objective,Inorganic,6,What is the pH of a neutral solution?,7,0,14,1,A,,1,Hard,Neutral solutions have pH 7.
+WAEC,2023,Chemistry,Objective,Inorganic,7,What is the pH of a neutral solution?,7,0,14,1,A,,1,Hard,Neutral solutions have pH 7.
+WAEC,2023,Chemistry,Objective,Inorganic,8,What is the pH of a neutral solution?,7,0,14,1,A,,1,Hard,Neutral solutions have pH 7.
+WAEC,2023,Chemistry,Objective,Inorganic,9,What is the pH of a neutral solution?,7,0,14,1,A,,1,Hard,Neutral solutions have pH 7.
+WAEC,2023,Chemistry,Objective,Inorganic,10,What is the pH of a neutral solution?,7,0,14,1,A,,1,Hard,Neutral solutions have pH 7.
+WAEC,2023,Chemistry,Theory,Organic,1,Describe the laboratory preparation of oxygen gas.,,,,,,Heat potassium chlorate in presence of MnO₂ catalyst.,10,Easy,"Apparatus: test tube, delivery tube, gas jar."
+WAEC,2023,Chemistry,Theory,Organic,2,Describe the laboratory preparation of oxygen gas.,,,,,,Heat potassium chlorate in presence of MnO₂ catalyst.,19,Easy,"Apparatus: test tube, delivery tube, gas jar."
+WAEC,2023,Chemistry,Theory,Organic,3,Describe the laboratory preparation of oxygen gas.,,,,,,Heat potassium chlorate in presence of MnO₂ catalyst.,17,Easy,"Apparatus: test tube, delivery tube, gas jar."
+WAEC,2023,Chemistry,Theory,Organic,4,Describe the laboratory preparation of oxygen gas.,,,,,,Heat potassium chlorate in presence of MnO₂ catalyst.,15,Easy,"Apparatus: test tube, delivery tube, gas jar."
+WAEC,2023,Chemistry,Theory,Organic,5,Describe the laboratory preparation of oxygen gas.,,,,,,Heat potassium chlorate in presence of MnO₂ catalyst.,10,Easy,"Apparatus: test tube, delivery tube, gas jar."
+WAEC,2023,Chemistry,Practical,Inorganic,1,Titrate NaOH against HCl using phenolphthalein indicator.,,,,,,Record burette readings and calculate molarity.,19,Hard,Award marks for correct readings and calculations.
+WAEC,2023,Chemistry,Practical,Inorganic,2,Titrate NaOH against HCl using phenolphthalein indicator.,,,,,,Record burette readings and calculate molarity.,16,Hard,Award marks for correct readings and calculations.
+WAEC,2023,Chemistry,Practical,Inorganic,3,Titrate NaOH against HCl using phenolphthalein indicator.,,,,,,Record burette readings and calculate molarity.,19,Hard,Award marks for correct readings and calculations.
+WAEC,2023,Physics,Objective,Optics,1,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Easy,The SI unit of force is the Newton.
+WAEC,2023,Physics,Objective,Optics,2,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Easy,The SI unit of force is the Newton.
+WAEC,2023,Physics,Objective,Optics,3,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Easy,The SI unit of force is the Newton.
+WAEC,2023,Physics,Objective,Optics,4,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Easy,The SI unit of force is the Newton.
+WAEC,2023,Physics,Objective,Optics,5,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Easy,The SI unit of force is the Newton.
+WAEC,2023,Physics,Objective,Optics,6,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Easy,The SI unit of force is the Newton.
+WAEC,2023,Physics,Objective,Optics,7,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Easy,The SI unit of force is the Newton.
+WAEC,2023,Physics,Objective,Optics,8,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Easy,The SI unit of force is the Newton.
+WAEC,2023,Physics,Objective,Optics,9,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Easy,The SI unit of force is the Newton.
+WAEC,2023,Physics,Objective,Optics,10,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Easy,The SI unit of force is the Newton.
+WAEC,2023,Physics,Theory,Heat,1,State and explain Ohm’s Law.,,,,,,V = IR (Voltage = Current × Resistance),12,Easy,Current through conductor is directly proportional to voltage.
+WAEC,2023,Physics,Theory,Heat,2,State and explain Ohm’s Law.,,,,,,V = IR (Voltage = Current × Resistance),19,Easy,Current through conductor is directly proportional to voltage.
+WAEC,2023,Physics,Theory,Heat,3,State and explain Ohm’s Law.,,,,,,V = IR (Voltage = Current × Resistance),14,Easy,Current through conductor is directly proportional to voltage.
+WAEC,2023,Physics,Theory,Heat,4,State and explain Ohm’s Law.,,,,,,V = IR (Voltage = Current × Resistance),19,Easy,Current through conductor is directly proportional to voltage.
+WAEC,2023,Physics,Theory,Heat,5,State and explain Ohm’s Law.,,,,,,V = IR (Voltage = Current × Resistance),15,Easy,Current through conductor is directly proportional to voltage.
+WAEC,2023,Physics,Practical,Optics,1,Set up a circuit with a resistor and measure current using an ammeter.,,,,,,Plot I–V graph and determine resistance.,17,Moderate,Award marks for accuracy and graph plotting.
+WAEC,2023,Physics,Practical,Optics,2,Set up a circuit with a resistor and measure current using an ammeter.,,,,,,Plot I–V graph and determine resistance.,24,Moderate,Award marks for accuracy and graph plotting.
+WAEC,2023,Physics,Practical,Optics,3,Set up a circuit with a resistor and measure current using an ammeter.,,,,,,Plot I–V graph and determine resistance.,18,Moderate,Award marks for accuracy and graph plotting.
+WAEC,2023,Economics,Objective,Demand & Supply,1,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Hard,It’s the next best alternative forgone.
+WAEC,2023,Economics,Objective,Demand & Supply,2,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Hard,It’s the next best alternative forgone.
+WAEC,2023,Economics,Objective,Demand & Supply,3,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Hard,It’s the next best alternative forgone.
+WAEC,2023,Economics,Objective,Demand & Supply,4,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Hard,It’s the next best alternative forgone.
+WAEC,2023,Economics,Objective,Demand & Supply,5,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Hard,It’s the next best alternative forgone.
+WAEC,2023,Economics,Objective,Demand & Supply,6,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Hard,It’s the next best alternative forgone.
+WAEC,2023,Economics,Objective,Demand & Supply,7,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Hard,It’s the next best alternative forgone.
+WAEC,2023,Economics,Objective,Demand & Supply,8,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Hard,It’s the next best alternative forgone.
+WAEC,2023,Economics,Objective,Demand & Supply,9,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Hard,It’s the next best alternative forgone.
+WAEC,2023,Economics,Objective,Demand & Supply,10,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Hard,It’s the next best alternative forgone.
+WAEC,2023,Economics,Theory,Development,1,Discuss four functions of money.,,,,,,"Medium of exchange, store of value, unit of account, standard of deferred payment",19,Hard,Each must be clearly explained.
+WAEC,2023,Economics,Theory,Development,2,Discuss four functions of money.,,,,,,"Medium of exchange, store of value, unit of account, standard of deferred payment",11,Hard,Each must be clearly explained.
+WAEC,2023,Economics,Theory,Development,3,Discuss four functions of money.,,,,,,"Medium of exchange, store of value, unit of account, standard of deferred payment",12,Hard,Each must be clearly explained.
+WAEC,2023,Economics,Theory,Development,4,Discuss four functions of money.,,,,,,"Medium of exchange, store of value, unit of account, standard of deferred payment",10,Hard,Each must be clearly explained.
+WAEC,2023,Economics,Theory,Development,5,Discuss four functions of money.,,,,,,"Medium of exchange, store of value, unit of account, standard of deferred payment",20,Hard,Each must be clearly explained.
+NECO,2023,Mathematics,Objective,Geometry,1,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Easy,3x + 2 = 11 → x = 3
+NECO,2023,Mathematics,Objective,Geometry,2,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Easy,3x + 2 = 11 → x = 3
+NECO,2023,Mathematics,Objective,Geometry,3,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Easy,3x + 2 = 11 → x = 3
+NECO,2023,Mathematics,Objective,Geometry,4,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Easy,3x + 2 = 11 → x = 3
+NECO,2023,Mathematics,Objective,Geometry,5,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Easy,3x + 2 = 11 → x = 3
+NECO,2023,Mathematics,Objective,Geometry,6,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Easy,3x + 2 = 11 → x = 3
+NECO,2023,Mathematics,Objective,Geometry,7,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Easy,3x + 2 = 11 → x = 3
+NECO,2023,Mathematics,Objective,Geometry,8,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Easy,3x + 2 = 11 → x = 3
+NECO,2023,Mathematics,Objective,Geometry,9,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Easy,3x + 2 = 11 → x = 3
+NECO,2023,Mathematics,Objective,Geometry,10,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Easy,3x + 2 = 11 → x = 3
+NECO,2023,Mathematics,Theory,Statistics,1,Solve for x in 2x² + 5x - 3 = 0.,,,,,,x = 0.5 or x = -3,15,Easy,Use quadratic formula: (-b ± √b² - 4ac)/2a
+NECO,2023,Mathematics,Theory,Statistics,2,Solve for x in 2x² + 5x - 3 = 0.,,,,,,x = 0.5 or x = -3,20,Easy,Use quadratic formula: (-b ± √b² - 4ac)/2a
+NECO,2023,Mathematics,Theory,Statistics,3,Solve for x in 2x² + 5x - 3 = 0.,,,,,,x = 0.5 or x = -3,18,Easy,Use quadratic formula: (-b ± √b² - 4ac)/2a
+NECO,2023,Mathematics,Theory,Statistics,4,Solve for x in 2x² + 5x - 3 = 0.,,,,,,x = 0.5 or x = -3,11,Easy,Use quadratic formula: (-b ± √b² - 4ac)/2a
+NECO,2023,Mathematics,Theory,Statistics,5,Solve for x in 2x² + 5x - 3 = 0.,,,,,,x = 0.5 or x = -3,20,Easy,Use quadratic formula: (-b ± √b² - 4ac)/2a
+NECO,2023,English,Objective,Vocabulary,1,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Easy,‘He’ takes singular verb ‘goes’.
+NECO,2023,English,Objective,Vocabulary,2,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Easy,‘He’ takes singular verb ‘goes’.
+NECO,2023,English,Objective,Vocabulary,3,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Easy,‘He’ takes singular verb ‘goes’.
+NECO,2023,English,Objective,Vocabulary,4,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Easy,‘He’ takes singular verb ‘goes’.
+NECO,2023,English,Objective,Vocabulary,5,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Easy,‘He’ takes singular verb ‘goes’.
+NECO,2023,English,Objective,Vocabulary,6,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Easy,‘He’ takes singular verb ‘goes’.
+NECO,2023,English,Objective,Vocabulary,7,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Easy,‘He’ takes singular verb ‘goes’.
+NECO,2023,English,Objective,Vocabulary,8,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Easy,‘He’ takes singular verb ‘goes’.
+NECO,2023,English,Objective,Vocabulary,9,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Easy,‘He’ takes singular verb ‘goes’.
+NECO,2023,English,Objective,Vocabulary,10,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Easy,‘He’ takes singular verb ‘goes’.
+NECO,2023,English,Theory,Vocabulary,1,Write an essay on 'The Importance of Honesty in Society.',,,,,,"Essay should have intro, body, conclusion (250 words)",13,Moderate,Focus on moral and civic examples.
+NECO,2023,English,Theory,Vocabulary,2,Write an essay on 'The Importance of Honesty in Society.',,,,,,"Essay should have intro, body, conclusion (250 words)",12,Moderate,Focus on moral and civic examples.
+NECO,2023,English,Theory,Vocabulary,3,Write an essay on 'The Importance of Honesty in Society.',,,,,,"Essay should have intro, body, conclusion (250 words)",19,Moderate,Focus on moral and civic examples.
+NECO,2023,English,Theory,Vocabulary,4,Write an essay on 'The Importance of Honesty in Society.',,,,,,"Essay should have intro, body, conclusion (250 words)",18,Moderate,Focus on moral and civic examples.
+NECO,2023,English,Theory,Vocabulary,5,Write an essay on 'The Importance of Honesty in Society.',,,,,,"Essay should have intro, body, conclusion (250 words)",16,Moderate,Focus on moral and civic examples.
+NECO,2023,Biology,Objective,Human Anatomy,1,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Moderate,The heart pumps blood.
+NECO,2023,Biology,Objective,Human Anatomy,2,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Moderate,The heart pumps blood.
+NECO,2023,Biology,Objective,Human Anatomy,3,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Moderate,The heart pumps blood.
+NECO,2023,Biology,Objective,Human Anatomy,4,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Moderate,The heart pumps blood.
+NECO,2023,Biology,Objective,Human Anatomy,5,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Moderate,The heart pumps blood.
+NECO,2023,Biology,Objective,Human Anatomy,6,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Moderate,The heart pumps blood.
+NECO,2023,Biology,Objective,Human Anatomy,7,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Moderate,The heart pumps blood.
+NECO,2023,Biology,Objective,Human Anatomy,8,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Moderate,The heart pumps blood.
+NECO,2023,Biology,Objective,Human Anatomy,9,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Moderate,The heart pumps blood.
+NECO,2023,Biology,Objective,Human Anatomy,10,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Moderate,The heart pumps blood.
+NECO,2023,Biology,Theory,Genetics,1,Explain photosynthesis and list two factors affecting it.,,,,,,Photosynthesis: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂,13,Easy,Light and chlorophyll are essential factors.
+NECO,2023,Biology,Theory,Genetics,2,Explain photosynthesis and list two factors affecting it.,,,,,,Photosynthesis: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂,10,Easy,Light and chlorophyll are essential factors.
+NECO,2023,Biology,Theory,Genetics,3,Explain photosynthesis and list two factors affecting it.,,,,,,Photosynthesis: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂,17,Easy,Light and chlorophyll are essential factors.
+NECO,2023,Biology,Theory,Genetics,4,Explain photosynthesis and list two factors affecting it.,,,,,,Photosynthesis: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂,16,Easy,Light and chlorophyll are essential factors.
+NECO,2023,Biology,Theory,Genetics,5,Explain photosynthesis and list two factors affecting it.,,,,,,Photosynthesis: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂,14,Easy,Light and chlorophyll are essential factors.
+NECO,2023,Biology,Practical,Ecology,1,Observe the given leaf under a microscope and draw its structure.,,,,,,"Diagram labeled with stomata, veins, epidermis.",25,Hard,Award marks for accuracy and labeling.
+NECO,2023,Biology,Practical,Ecology,2,Observe the given leaf under a microscope and draw its structure.,,,,,,"Diagram labeled with stomata, veins, epidermis.",17,Hard,Award marks for accuracy and labeling.
+NECO,2023,Biology,Practical,Ecology,3,Observe the given leaf under a microscope and draw its structure.,,,,,,"Diagram labeled with stomata, veins, epidermis.",25,Hard,Award marks for accuracy and labeling.
+NECO,2023,Chemistry,Objective,Organic,1,What is the pH of a neutral solution?,7,0,14,1,A,,1,Easy,Neutral solutions have pH 7.
+NECO,2023,Chemistry,Objective,Organic,2,What is the pH of a neutral solution?,7,0,14,1,A,,1,Easy,Neutral solutions have pH 7.
+NECO,2023,Chemistry,Objective,Organic,3,What is the pH of a neutral solution?,7,0,14,1,A,,1,Easy,Neutral solutions have pH 7.
+NECO,2023,Chemistry,Objective,Organic,4,What is the pH of a neutral solution?,7,0,14,1,A,,1,Easy,Neutral solutions have pH 7.
+NECO,2023,Chemistry,Objective,Organic,5,What is the pH of a neutral solution?,7,0,14,1,A,,1,Easy,Neutral solutions have pH 7.
+NECO,2023,Chemistry,Objective,Organic,6,What is the pH of a neutral solution?,7,0,14,1,A,,1,Easy,Neutral solutions have pH 7.
+NECO,2023,Chemistry,Objective,Organic,7,What is the pH of a neutral solution?,7,0,14,1,A,,1,Easy,Neutral solutions have pH 7.
+NECO,2023,Chemistry,Objective,Organic,8,What is the pH of a neutral solution?,7,0,14,1,A,,1,Easy,Neutral solutions have pH 7.
+NECO,2023,Chemistry,Objective,Organic,9,What is the pH of a neutral solution?,7,0,14,1,A,,1,Easy,Neutral solutions have pH 7.
+NECO,2023,Chemistry,Objective,Organic,10,What is the pH of a neutral solution?,7,0,14,1,A,,1,Easy,Neutral solutions have pH 7.
+NECO,2023,Chemistry,Theory,Physical,1,Describe the laboratory preparation of oxygen gas.,,,,,,Heat potassium chlorate in presence of MnO₂ catalyst.,13,Hard,"Apparatus: test tube, delivery tube, gas jar."
+NECO,2023,Chemistry,Theory,Physical,2,Describe the laboratory preparation of oxygen gas.,,,,,,Heat potassium chlorate in presence of MnO₂ catalyst.,18,Hard,"Apparatus: test tube, delivery tube, gas jar."
+NECO,2023,Chemistry,Theory,Physical,3,Describe the laboratory preparation of oxygen gas.,,,,,,Heat potassium chlorate in presence of MnO₂ catalyst.,13,Hard,"Apparatus: test tube, delivery tube, gas jar."
+NECO,2023,Chemistry,Theory,Physical,4,Describe the laboratory preparation of oxygen gas.,,,,,,Heat potassium chlorate in presence of MnO₂ catalyst.,11,Hard,"Apparatus: test tube, delivery tube, gas jar."
+NECO,2023,Chemistry,Theory,Physical,5,Describe the laboratory preparation of oxygen gas.,,,,,,Heat potassium chlorate in presence of MnO₂ catalyst.,12,Hard,"Apparatus: test tube, delivery tube, gas jar."
+NECO,2023,Chemistry,Practical,Inorganic,1,Titrate NaOH against HCl using phenolphthalein indicator.,,,,,,Record burette readings and calculate molarity.,17,Hard,Award marks for correct readings and calculations.
+NECO,2023,Chemistry,Practical,Inorganic,2,Titrate NaOH against HCl using phenolphthalein indicator.,,,,,,Record burette readings and calculate molarity.,15,Hard,Award marks for correct readings and calculations.
+NECO,2023,Chemistry,Practical,Inorganic,3,Titrate NaOH against HCl using phenolphthalein indicator.,,,,,,Record burette readings and calculate molarity.,17,Hard,Award marks for correct readings and calculations.
+NECO,2023,Physics,Objective,Optics,1,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Easy,The SI unit of force is the Newton.
+NECO,2023,Physics,Objective,Optics,2,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Easy,The SI unit of force is the Newton.
+NECO,2023,Physics,Objective,Optics,3,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Easy,The SI unit of force is the Newton.
+NECO,2023,Physics,Objective,Optics,4,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Easy,The SI unit of force is the Newton.
+NECO,2023,Physics,Objective,Optics,5,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Easy,The SI unit of force is the Newton.
+NECO,2023,Physics,Objective,Optics,6,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Easy,The SI unit of force is the Newton.
+NECO,2023,Physics,Objective,Optics,7,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Easy,The SI unit of force is the Newton.
+NECO,2023,Physics,Objective,Optics,8,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Easy,The SI unit of force is the Newton.
+NECO,2023,Physics,Objective,Optics,9,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Easy,The SI unit of force is the Newton.
+NECO,2023,Physics,Objective,Optics,10,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Easy,The SI unit of force is the Newton.
+NECO,2023,Physics,Theory,Electricity,1,State and explain Ohm’s Law.,,,,,,V = IR (Voltage = Current × Resistance),16,Moderate,Current through conductor is directly proportional to voltage.
+NECO,2023,Physics,Theory,Electricity,2,State and explain Ohm’s Law.,,,,,,V = IR (Voltage = Current × Resistance),12,Moderate,Current through conductor is directly proportional to voltage.
+NECO,2023,Physics,Theory,Electricity,3,State and explain Ohm’s Law.,,,,,,V = IR (Voltage = Current × Resistance),10,Moderate,Current through conductor is directly proportional to voltage.
+NECO,2023,Physics,Theory,Electricity,4,State and explain Ohm’s Law.,,,,,,V = IR (Voltage = Current × Resistance),18,Moderate,Current through conductor is directly proportional to voltage.
+NECO,2023,Physics,Theory,Electricity,5,State and explain Ohm’s Law.,,,,,,V = IR (Voltage = Current × Resistance),17,Moderate,Current through conductor is directly proportional to voltage.
+NECO,2023,Physics,Practical,Mechanics,1,Set up a circuit with a resistor and measure current using an ammeter.,,,,,,Plot I–V graph and determine resistance.,23,Hard,Award marks for accuracy and graph plotting.
+NECO,2023,Physics,Practical,Mechanics,2,Set up a circuit with a resistor and measure current using an ammeter.,,,,,,Plot I–V graph and determine resistance.,24,Hard,Award marks for accuracy and graph plotting.
+NECO,2023,Physics,Practical,Mechanics,3,Set up a circuit with a resistor and measure current using an ammeter.,,,,,,Plot I–V graph and determine resistance.,18,Hard,Award marks for accuracy and graph plotting.
+NECO,2023,Economics,Objective,Microeconomics,1,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Moderate,It’s the next best alternative forgone.
+NECO,2023,Economics,Objective,Microeconomics,2,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Moderate,It’s the next best alternative forgone.
+NECO,2023,Economics,Objective,Microeconomics,3,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Moderate,It’s the next best alternative forgone.
+NECO,2023,Economics,Objective,Microeconomics,4,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Moderate,It’s the next best alternative forgone.
+NECO,2023,Economics,Objective,Microeconomics,5,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Moderate,It’s the next best alternative forgone.
+NECO,2023,Economics,Objective,Microeconomics,6,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Moderate,It’s the next best alternative forgone.
+NECO,2023,Economics,Objective,Microeconomics,7,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Moderate,It’s the next best alternative forgone.
+NECO,2023,Economics,Objective,Microeconomics,8,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Moderate,It’s the next best alternative forgone.
+NECO,2023,Economics,Objective,Microeconomics,9,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Moderate,It’s the next best alternative forgone.
+NECO,2023,Economics,Objective,Microeconomics,10,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Moderate,It’s the next best alternative forgone.
+NECO,2023,Economics,Theory,Development,1,Discuss four functions of money.,,,,,,"Medium of exchange, store of value, unit of account, standard of deferred payment",16,Easy,Each must be clearly explained.
+NECO,2023,Economics,Theory,Development,2,Discuss four functions of money.,,,,,,"Medium of exchange, store of value, unit of account, standard of deferred payment",17,Easy,Each must be clearly explained.
+NECO,2023,Economics,Theory,Development,3,Discuss four functions of money.,,,,,,"Medium of exchange, store of value, unit of account, standard of deferred payment",10,Easy,Each must be clearly explained.
+NECO,2023,Economics,Theory,Development,4,Discuss four functions of money.,,,,,,"Medium of exchange, store of value, unit of account, standard of deferred payment",13,Easy,Each must be clearly explained.
+NECO,2023,Economics,Theory,Development,5,Discuss four functions of money.,,,,,,"Medium of exchange, store of value, unit of account, standard of deferred payment",20,Easy,Each must be clearly explained.
+WAEC,2024,Mathematics,Objective,Trigonometry,1,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Hard,3x + 2 = 11 → x = 3
+WAEC,2024,Mathematics,Objective,Trigonometry,2,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Hard,3x + 2 = 11 → x = 3
+WAEC,2024,Mathematics,Objective,Trigonometry,3,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Hard,3x + 2 = 11 → x = 3
+WAEC,2024,Mathematics,Objective,Trigonometry,4,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Hard,3x + 2 = 11 → x = 3
+WAEC,2024,Mathematics,Objective,Trigonometry,5,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Hard,3x + 2 = 11 → x = 3
+WAEC,2024,Mathematics,Objective,Trigonometry,6,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Hard,3x + 2 = 11 → x = 3
+WAEC,2024,Mathematics,Objective,Trigonometry,7,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Hard,3x + 2 = 11 → x = 3
+WAEC,2024,Mathematics,Objective,Trigonometry,8,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Hard,3x + 2 = 11 → x = 3
+WAEC,2024,Mathematics,Objective,Trigonometry,9,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Hard,3x + 2 = 11 → x = 3
+WAEC,2024,Mathematics,Objective,Trigonometry,10,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Hard,3x + 2 = 11 → x = 3
+WAEC,2024,Mathematics,Theory,Geometry,1,Solve for x in 2x² + 5x - 3 = 0.,,,,,,x = 0.5 or x = -3,12,Hard,Use quadratic formula: (-b ± √b² - 4ac)/2a
+WAEC,2024,Mathematics,Theory,Geometry,2,Solve for x in 2x² + 5x - 3 = 0.,,,,,,x = 0.5 or x = -3,12,Hard,Use quadratic formula: (-b ± √b² - 4ac)/2a
+WAEC,2024,Mathematics,Theory,Geometry,3,Solve for x in 2x² + 5x - 3 = 0.,,,,,,x = 0.5 or x = -3,13,Hard,Use quadratic formula: (-b ± √b² - 4ac)/2a
+WAEC,2024,Mathematics,Theory,Geometry,4,Solve for x in 2x² + 5x - 3 = 0.,,,,,,x = 0.5 or x = -3,18,Hard,Use quadratic formula: (-b ± √b² - 4ac)/2a
+WAEC,2024,Mathematics,Theory,Geometry,5,Solve for x in 2x² + 5x - 3 = 0.,,,,,,x = 0.5 or x = -3,12,Hard,Use quadratic formula: (-b ± √b² - 4ac)/2a
+WAEC,2024,English,Objective,Literature,1,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Hard,‘He’ takes singular verb ‘goes’.
+WAEC,2024,English,Objective,Literature,2,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Hard,‘He’ takes singular verb ‘goes’.
+WAEC,2024,English,Objective,Literature,3,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Hard,‘He’ takes singular verb ‘goes’.
+WAEC,2024,English,Objective,Literature,4,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Hard,‘He’ takes singular verb ‘goes’.
+WAEC,2024,English,Objective,Literature,5,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Hard,‘He’ takes singular verb ‘goes’.
+WAEC,2024,English,Objective,Literature,6,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Hard,‘He’ takes singular verb ‘goes’.
+WAEC,2024,English,Objective,Literature,7,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Hard,‘He’ takes singular verb ‘goes’.
+WAEC,2024,English,Objective,Literature,8,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Hard,‘He’ takes singular verb ‘goes’.
+WAEC,2024,English,Objective,Literature,9,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Hard,‘He’ takes singular verb ‘goes’.
+WAEC,2024,English,Objective,Literature,10,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Hard,‘He’ takes singular verb ‘goes’.
+WAEC,2024,English,Theory,Comprehension,1,Write an essay on 'The Importance of Honesty in Society.',,,,,,"Essay should have intro, body, conclusion (250 words)",13,Easy,Focus on moral and civic examples.
+WAEC,2024,English,Theory,Comprehension,2,Write an essay on 'The Importance of Honesty in Society.',,,,,,"Essay should have intro, body, conclusion (250 words)",12,Easy,Focus on moral and civic examples.
+WAEC,2024,English,Theory,Comprehension,3,Write an essay on 'The Importance of Honesty in Society.',,,,,,"Essay should have intro, body, conclusion (250 words)",16,Easy,Focus on moral and civic examples.
+WAEC,2024,English,Theory,Comprehension,4,Write an essay on 'The Importance of Honesty in Society.',,,,,,"Essay should have intro, body, conclusion (250 words)",11,Easy,Focus on moral and civic examples.
+WAEC,2024,English,Theory,Comprehension,5,Write an essay on 'The Importance of Honesty in Society.',,,,,,"Essay should have intro, body, conclusion (250 words)",20,Easy,Focus on moral and civic examples.
+WAEC,2024,Biology,Objective,Genetics,1,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+WAEC,2024,Biology,Objective,Genetics,2,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+WAEC,2024,Biology,Objective,Genetics,3,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+WAEC,2024,Biology,Objective,Genetics,4,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+WAEC,2024,Biology,Objective,Genetics,5,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+WAEC,2024,Biology,Objective,Genetics,6,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+WAEC,2024,Biology,Objective,Genetics,7,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+WAEC,2024,Biology,Objective,Genetics,8,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+WAEC,2024,Biology,Objective,Genetics,9,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+WAEC,2024,Biology,Objective,Genetics,10,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+WAEC,2024,Biology,Theory,Human Anatomy,1,Explain photosynthesis and list two factors affecting it.,,,,,,Photosynthesis: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂,15,Easy,Light and chlorophyll are essential factors.
+WAEC,2024,Biology,Theory,Human Anatomy,2,Explain photosynthesis and list two factors affecting it.,,,,,,Photosynthesis: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂,14,Easy,Light and chlorophyll are essential factors.
+WAEC,2024,Biology,Theory,Human Anatomy,3,Explain photosynthesis and list two factors affecting it.,,,,,,Photosynthesis: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂,11,Easy,Light and chlorophyll are essential factors.
+WAEC,2024,Biology,Theory,Human Anatomy,4,Explain photosynthesis and list two factors affecting it.,,,,,,Photosynthesis: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂,18,Easy,Light and chlorophyll are essential factors.
+WAEC,2024,Biology,Theory,Human Anatomy,5,Explain photosynthesis and list two factors affecting it.,,,,,,Photosynthesis: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂,16,Easy,Light and chlorophyll are essential factors.
+WAEC,2024,Biology,Practical,Cell Biology,1,Observe the given leaf under a microscope and draw its structure.,,,,,,"Diagram labeled with stomata, veins, epidermis.",25,Moderate,Award marks for accuracy and labeling.
+WAEC,2024,Biology,Practical,Cell Biology,2,Observe the given leaf under a microscope and draw its structure.,,,,,,"Diagram labeled with stomata, veins, epidermis.",23,Moderate,Award marks for accuracy and labeling.
+WAEC,2024,Biology,Practical,Cell Biology,3,Observe the given leaf under a microscope and draw its structure.,,,,,,"Diagram labeled with stomata, veins, epidermis.",17,Moderate,Award marks for accuracy and labeling.
+WAEC,2024,Chemistry,Objective,Inorganic,1,What is the pH of a neutral solution?,7,0,14,1,A,,1,Hard,Neutral solutions have pH 7.
+WAEC,2024,Chemistry,Objective,Inorganic,2,What is the pH of a neutral solution?,7,0,14,1,A,,1,Hard,Neutral solutions have pH 7.
+WAEC,2024,Chemistry,Objective,Inorganic,3,What is the pH of a neutral solution?,7,0,14,1,A,,1,Hard,Neutral solutions have pH 7.
+WAEC,2024,Chemistry,Objective,Inorganic,4,What is the pH of a neutral solution?,7,0,14,1,A,,1,Hard,Neutral solutions have pH 7.
+WAEC,2024,Chemistry,Objective,Inorganic,5,What is the pH of a neutral solution?,7,0,14,1,A,,1,Hard,Neutral solutions have pH 7.
+WAEC,2024,Chemistry,Objective,Inorganic,6,What is the pH of a neutral solution?,7,0,14,1,A,,1,Hard,Neutral solutions have pH 7.
+WAEC,2024,Chemistry,Objective,Inorganic,7,What is the pH of a neutral solution?,7,0,14,1,A,,1,Hard,Neutral solutions have pH 7.
+WAEC,2024,Chemistry,Objective,Inorganic,8,What is the pH of a neutral solution?,7,0,14,1,A,,1,Hard,Neutral solutions have pH 7.
+WAEC,2024,Chemistry,Objective,Inorganic,9,What is the pH of a neutral solution?,7,0,14,1,A,,1,Hard,Neutral solutions have pH 7.
+WAEC,2024,Chemistry,Objective,Inorganic,10,What is the pH of a neutral solution?,7,0,14,1,A,,1,Hard,Neutral solutions have pH 7.
+WAEC,2024,Chemistry,Theory,Inorganic,1,Describe the laboratory preparation of oxygen gas.,,,,,,Heat potassium chlorate in presence of MnO₂ catalyst.,20,Hard,"Apparatus: test tube, delivery tube, gas jar."
+WAEC,2024,Chemistry,Theory,Inorganic,2,Describe the laboratory preparation of oxygen gas.,,,,,,Heat potassium chlorate in presence of MnO₂ catalyst.,12,Hard,"Apparatus: test tube, delivery tube, gas jar."
+WAEC,2024,Chemistry,Theory,Inorganic,3,Describe the laboratory preparation of oxygen gas.,,,,,,Heat potassium chlorate in presence of MnO₂ catalyst.,14,Hard,"Apparatus: test tube, delivery tube, gas jar."
+WAEC,2024,Chemistry,Theory,Inorganic,4,Describe the laboratory preparation of oxygen gas.,,,,,,Heat potassium chlorate in presence of MnO₂ catalyst.,10,Hard,"Apparatus: test tube, delivery tube, gas jar."
+WAEC,2024,Chemistry,Theory,Inorganic,5,Describe the laboratory preparation of oxygen gas.,,,,,,Heat potassium chlorate in presence of MnO₂ catalyst.,17,Hard,"Apparatus: test tube, delivery tube, gas jar."
+WAEC,2024,Chemistry,Practical,Acid-Base Reactions,1,Titrate NaOH against HCl using phenolphthalein indicator.,,,,,,Record burette readings and calculate molarity.,21,Moderate,Award marks for correct readings and calculations.
+WAEC,2024,Chemistry,Practical,Acid-Base Reactions,2,Titrate NaOH against HCl using phenolphthalein indicator.,,,,,,Record burette readings and calculate molarity.,15,Moderate,Award marks for correct readings and calculations.
+WAEC,2024,Chemistry,Practical,Acid-Base Reactions,3,Titrate NaOH against HCl using phenolphthalein indicator.,,,,,,Record burette readings and calculate molarity.,22,Moderate,Award marks for correct readings and calculations.
+WAEC,2024,Physics,Objective,Mechanics,1,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Hard,The SI unit of force is the Newton.
+WAEC,2024,Physics,Objective,Mechanics,2,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Hard,The SI unit of force is the Newton.
+WAEC,2024,Physics,Objective,Mechanics,3,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Hard,The SI unit of force is the Newton.
+WAEC,2024,Physics,Objective,Mechanics,4,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Hard,The SI unit of force is the Newton.
+WAEC,2024,Physics,Objective,Mechanics,5,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Hard,The SI unit of force is the Newton.
+WAEC,2024,Physics,Objective,Mechanics,6,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Hard,The SI unit of force is the Newton.
+WAEC,2024,Physics,Objective,Mechanics,7,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Hard,The SI unit of force is the Newton.
+WAEC,2024,Physics,Objective,Mechanics,8,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Hard,The SI unit of force is the Newton.
+WAEC,2024,Physics,Objective,Mechanics,9,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Hard,The SI unit of force is the Newton.
+WAEC,2024,Physics,Objective,Mechanics,10,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Hard,The SI unit of force is the Newton.
+WAEC,2024,Physics,Theory,Heat,1,State and explain Ohm’s Law.,,,,,,V = IR (Voltage = Current × Resistance),16,Moderate,Current through conductor is directly proportional to voltage.
+WAEC,2024,Physics,Theory,Heat,2,State and explain Ohm’s Law.,,,,,,V = IR (Voltage = Current × Resistance),13,Moderate,Current through conductor is directly proportional to voltage.
+WAEC,2024,Physics,Theory,Heat,3,State and explain Ohm’s Law.,,,,,,V = IR (Voltage = Current × Resistance),12,Moderate,Current through conductor is directly proportional to voltage.
+WAEC,2024,Physics,Theory,Heat,4,State and explain Ohm’s Law.,,,,,,V = IR (Voltage = Current × Resistance),12,Moderate,Current through conductor is directly proportional to voltage.
+WAEC,2024,Physics,Theory,Heat,5,State and explain Ohm’s Law.,,,,,,V = IR (Voltage = Current × Resistance),18,Moderate,Current through conductor is directly proportional to voltage.
+WAEC,2024,Physics,Practical,Optics,1,Set up a circuit with a resistor and measure current using an ammeter.,,,,,,Plot I–V graph and determine resistance.,24,Moderate,Award marks for accuracy and graph plotting.
+WAEC,2024,Physics,Practical,Optics,2,Set up a circuit with a resistor and measure current using an ammeter.,,,,,,Plot I–V graph and determine resistance.,17,Moderate,Award marks for accuracy and graph plotting.
+WAEC,2024,Physics,Practical,Optics,3,Set up a circuit with a resistor and measure current using an ammeter.,,,,,,Plot I–V graph and determine resistance.,16,Moderate,Award marks for accuracy and graph plotting.
+WAEC,2024,Economics,Objective,Demand & Supply,1,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Hard,It’s the next best alternative forgone.
+WAEC,2024,Economics,Objective,Demand & Supply,2,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Hard,It’s the next best alternative forgone.
+WAEC,2024,Economics,Objective,Demand & Supply,3,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Hard,It’s the next best alternative forgone.
+WAEC,2024,Economics,Objective,Demand & Supply,4,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Hard,It’s the next best alternative forgone.
+WAEC,2024,Economics,Objective,Demand & Supply,5,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Hard,It’s the next best alternative forgone.
+WAEC,2024,Economics,Objective,Demand & Supply,6,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Hard,It’s the next best alternative forgone.
+WAEC,2024,Economics,Objective,Demand & Supply,7,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Hard,It’s the next best alternative forgone.
+WAEC,2024,Economics,Objective,Demand & Supply,8,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Hard,It’s the next best alternative forgone.
+WAEC,2024,Economics,Objective,Demand & Supply,9,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Hard,It’s the next best alternative forgone.
+WAEC,2024,Economics,Objective,Demand & Supply,10,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Hard,It’s the next best alternative forgone.
+WAEC,2024,Economics,Theory,Development,1,Discuss four functions of money.,,,,,,"Medium of exchange, store of value, unit of account, standard of deferred payment",14,Hard,Each must be clearly explained.
+WAEC,2024,Economics,Theory,Development,2,Discuss four functions of money.,,,,,,"Medium of exchange, store of value, unit of account, standard of deferred payment",19,Hard,Each must be clearly explained.
+WAEC,2024,Economics,Theory,Development,3,Discuss four functions of money.,,,,,,"Medium of exchange, store of value, unit of account, standard of deferred payment",18,Hard,Each must be clearly explained.
+WAEC,2024,Economics,Theory,Development,4,Discuss four functions of money.,,,,,,"Medium of exchange, store of value, unit of account, standard of deferred payment",15,Hard,Each must be clearly explained.
+WAEC,2024,Economics,Theory,Development,5,Discuss four functions of money.,,,,,,"Medium of exchange, store of value, unit of account, standard of deferred payment",19,Hard,Each must be clearly explained.
+NECO,2024,Mathematics,Objective,Algebra,1,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Easy,3x + 2 = 11 → x = 3
+NECO,2024,Mathematics,Objective,Algebra,2,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Easy,3x + 2 = 11 → x = 3
+NECO,2024,Mathematics,Objective,Algebra,3,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Easy,3x + 2 = 11 → x = 3
+NECO,2024,Mathematics,Objective,Algebra,4,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Easy,3x + 2 = 11 → x = 3
+NECO,2024,Mathematics,Objective,Algebra,5,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Easy,3x + 2 = 11 → x = 3
+NECO,2024,Mathematics,Objective,Algebra,6,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Easy,3x + 2 = 11 → x = 3
+NECO,2024,Mathematics,Objective,Algebra,7,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Easy,3x + 2 = 11 → x = 3
+NECO,2024,Mathematics,Objective,Algebra,8,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Easy,3x + 2 = 11 → x = 3
+NECO,2024,Mathematics,Objective,Algebra,9,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Easy,3x + 2 = 11 → x = 3
+NECO,2024,Mathematics,Objective,Algebra,10,Find x if 3x + 2 = 11,2,3,4,5,B,,1,Easy,3x + 2 = 11 → x = 3
+NECO,2024,Mathematics,Theory,Trigonometry,1,Solve for x in 2x² + 5x - 3 = 0.,,,,,,x = 0.5 or x = -3,17,Hard,Use quadratic formula: (-b ± √b² - 4ac)/2a
+NECO,2024,Mathematics,Theory,Trigonometry,2,Solve for x in 2x² + 5x - 3 = 0.,,,,,,x = 0.5 or x = -3,15,Hard,Use quadratic formula: (-b ± √b² - 4ac)/2a
+NECO,2024,Mathematics,Theory,Trigonometry,3,Solve for x in 2x² + 5x - 3 = 0.,,,,,,x = 0.5 or x = -3,14,Hard,Use quadratic formula: (-b ± √b² - 4ac)/2a
+NECO,2024,Mathematics,Theory,Trigonometry,4,Solve for x in 2x² + 5x - 3 = 0.,,,,,,x = 0.5 or x = -3,18,Hard,Use quadratic formula: (-b ± √b² - 4ac)/2a
+NECO,2024,Mathematics,Theory,Trigonometry,5,Solve for x in 2x² + 5x - 3 = 0.,,,,,,x = 0.5 or x = -3,20,Hard,Use quadratic formula: (-b ± √b² - 4ac)/2a
+NECO,2024,English,Objective,Vocabulary,1,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Hard,‘He’ takes singular verb ‘goes’.
+NECO,2024,English,Objective,Vocabulary,2,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Hard,‘He’ takes singular verb ‘goes’.
+NECO,2024,English,Objective,Vocabulary,3,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Hard,‘He’ takes singular verb ‘goes’.
+NECO,2024,English,Objective,Vocabulary,4,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Hard,‘He’ takes singular verb ‘goes’.
+NECO,2024,English,Objective,Vocabulary,5,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Hard,‘He’ takes singular verb ‘goes’.
+NECO,2024,English,Objective,Vocabulary,6,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Hard,‘He’ takes singular verb ‘goes’.
+NECO,2024,English,Objective,Vocabulary,7,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Hard,‘He’ takes singular verb ‘goes’.
+NECO,2024,English,Objective,Vocabulary,8,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Hard,‘He’ takes singular verb ‘goes’.
+NECO,2024,English,Objective,Vocabulary,9,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Hard,‘He’ takes singular verb ‘goes’.
+NECO,2024,English,Objective,Vocabulary,10,Choose the correct word: He ____ to school.,go,goes,gone,going,B,,1,Hard,‘He’ takes singular verb ‘goes’.
+NECO,2024,English,Theory,Grammar,1,Write an essay on 'The Importance of Honesty in Society.',,,,,,"Essay should have intro, body, conclusion (250 words)",11,Moderate,Focus on moral and civic examples.
+NECO,2024,English,Theory,Grammar,2,Write an essay on 'The Importance of Honesty in Society.',,,,,,"Essay should have intro, body, conclusion (250 words)",18,Moderate,Focus on moral and civic examples.
+NECO,2024,English,Theory,Grammar,3,Write an essay on 'The Importance of Honesty in Society.',,,,,,"Essay should have intro, body, conclusion (250 words)",20,Moderate,Focus on moral and civic examples.
+NECO,2024,English,Theory,Grammar,4,Write an essay on 'The Importance of Honesty in Society.',,,,,,"Essay should have intro, body, conclusion (250 words)",14,Moderate,Focus on moral and civic examples.
+NECO,2024,English,Theory,Grammar,5,Write an essay on 'The Importance of Honesty in Society.',,,,,,"Essay should have intro, body, conclusion (250 words)",20,Moderate,Focus on moral and civic examples.
+NECO,2024,Biology,Objective,Ecology,1,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+NECO,2024,Biology,Objective,Ecology,2,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+NECO,2024,Biology,Objective,Ecology,3,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+NECO,2024,Biology,Objective,Ecology,4,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+NECO,2024,Biology,Objective,Ecology,5,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+NECO,2024,Biology,Objective,Ecology,6,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+NECO,2024,Biology,Objective,Ecology,7,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+NECO,2024,Biology,Objective,Ecology,8,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+NECO,2024,Biology,Objective,Ecology,9,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+NECO,2024,Biology,Objective,Ecology,10,Which organ pumps blood in the body?,Liver,Heart,Brain,Lung,B,,1,Easy,The heart pumps blood.
+NECO,2024,Biology,Theory,Cell Biology,1,Explain photosynthesis and list two factors affecting it.,,,,,,Photosynthesis: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂,11,Hard,Light and chlorophyll are essential factors.
+NECO,2024,Biology,Theory,Cell Biology,2,Explain photosynthesis and list two factors affecting it.,,,,,,Photosynthesis: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂,20,Hard,Light and chlorophyll are essential factors.
+NECO,2024,Biology,Theory,Cell Biology,3,Explain photosynthesis and list two factors affecting it.,,,,,,Photosynthesis: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂,11,Hard,Light and chlorophyll are essential factors.
+NECO,2024,Biology,Theory,Cell Biology,4,Explain photosynthesis and list two factors affecting it.,,,,,,Photosynthesis: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂,19,Hard,Light and chlorophyll are essential factors.
+NECO,2024,Biology,Theory,Cell Biology,5,Explain photosynthesis and list two factors affecting it.,,,,,,Photosynthesis: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂,20,Hard,Light and chlorophyll are essential factors.
+NECO,2024,Biology,Practical,Human Anatomy,1,Observe the given leaf under a microscope and draw its structure.,,,,,,"Diagram labeled with stomata, veins, epidermis.",24,Moderate,Award marks for accuracy and labeling.
+NECO,2024,Biology,Practical,Human Anatomy,2,Observe the given leaf under a microscope and draw its structure.,,,,,,"Diagram labeled with stomata, veins, epidermis.",15,Moderate,Award marks for accuracy and labeling.
+NECO,2024,Biology,Practical,Human Anatomy,3,Observe the given leaf under a microscope and draw its structure.,,,,,,"Diagram labeled with stomata, veins, epidermis.",19,Moderate,Award marks for accuracy and labeling.
+NECO,2024,Chemistry,Objective,Inorganic,1,What is the pH of a neutral solution?,7,0,14,1,A,,1,Easy,Neutral solutions have pH 7.
+NECO,2024,Chemistry,Objective,Inorganic,2,What is the pH of a neutral solution?,7,0,14,1,A,,1,Easy,Neutral solutions have pH 7.
+NECO,2024,Chemistry,Objective,Inorganic,3,What is the pH of a neutral solution?,7,0,14,1,A,,1,Easy,Neutral solutions have pH 7.
+NECO,2024,Chemistry,Objective,Inorganic,4,What is the pH of a neutral solution?,7,0,14,1,A,,1,Easy,Neutral solutions have pH 7.
+NECO,2024,Chemistry,Objective,Inorganic,5,What is the pH of a neutral solution?,7,0,14,1,A,,1,Easy,Neutral solutions have pH 7.
+NECO,2024,Chemistry,Objective,Inorganic,6,What is the pH of a neutral solution?,7,0,14,1,A,,1,Easy,Neutral solutions have pH 7.
+NECO,2024,Chemistry,Objective,Inorganic,7,What is the pH of a neutral solution?,7,0,14,1,A,,1,Easy,Neutral solutions have pH 7.
+NECO,2024,Chemistry,Objective,Inorganic,8,What is the pH of a neutral solution?,7,0,14,1,A,,1,Easy,Neutral solutions have pH 7.
+NECO,2024,Chemistry,Objective,Inorganic,9,What is the pH of a neutral solution?,7,0,14,1,A,,1,Easy,Neutral solutions have pH 7.
+NECO,2024,Chemistry,Objective,Inorganic,10,What is the pH of a neutral solution?,7,0,14,1,A,,1,Easy,Neutral solutions have pH 7.
+NECO,2024,Chemistry,Theory,Organic,1,Describe the laboratory preparation of oxygen gas.,,,,,,Heat potassium chlorate in presence of MnO₂ catalyst.,11,Moderate,"Apparatus: test tube, delivery tube, gas jar."
+NECO,2024,Chemistry,Theory,Organic,2,Describe the laboratory preparation of oxygen gas.,,,,,,Heat potassium chlorate in presence of MnO₂ catalyst.,13,Moderate,"Apparatus: test tube, delivery tube, gas jar."
+NECO,2024,Chemistry,Theory,Organic,3,Describe the laboratory preparation of oxygen gas.,,,,,,Heat potassium chlorate in presence of MnO₂ catalyst.,18,Moderate,"Apparatus: test tube, delivery tube, gas jar."
+NECO,2024,Chemistry,Theory,Organic,4,Describe the laboratory preparation of oxygen gas.,,,,,,Heat potassium chlorate in presence of MnO₂ catalyst.,19,Moderate,"Apparatus: test tube, delivery tube, gas jar."
+NECO,2024,Chemistry,Theory,Organic,5,Describe the laboratory preparation of oxygen gas.,,,,,,Heat potassium chlorate in presence of MnO₂ catalyst.,12,Moderate,"Apparatus: test tube, delivery tube, gas jar."
+NECO,2024,Chemistry,Practical,Inorganic,1,Titrate NaOH against HCl using phenolphthalein indicator.,,,,,,Record burette readings and calculate molarity.,15,Easy,Award marks for correct readings and calculations.
+NECO,2024,Chemistry,Practical,Inorganic,2,Titrate NaOH against HCl using phenolphthalein indicator.,,,,,,Record burette readings and calculate molarity.,25,Easy,Award marks for correct readings and calculations.
+NECO,2024,Chemistry,Practical,Inorganic,3,Titrate NaOH against HCl using phenolphthalein indicator.,,,,,,Record burette readings and calculate molarity.,15,Easy,Award marks for correct readings and calculations.
+NECO,2024,Physics,Objective,Heat,1,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Moderate,The SI unit of force is the Newton.
+NECO,2024,Physics,Objective,Heat,2,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Moderate,The SI unit of force is the Newton.
+NECO,2024,Physics,Objective,Heat,3,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Moderate,The SI unit of force is the Newton.
+NECO,2024,Physics,Objective,Heat,4,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Moderate,The SI unit of force is the Newton.
+NECO,2024,Physics,Objective,Heat,5,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Moderate,The SI unit of force is the Newton.
+NECO,2024,Physics,Objective,Heat,6,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Moderate,The SI unit of force is the Newton.
+NECO,2024,Physics,Objective,Heat,7,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Moderate,The SI unit of force is the Newton.
+NECO,2024,Physics,Objective,Heat,8,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Moderate,The SI unit of force is the Newton.
+NECO,2024,Physics,Objective,Heat,9,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Moderate,The SI unit of force is the Newton.
+NECO,2024,Physics,Objective,Heat,10,What is the unit of force?,Joule,Watt,Newton,Pascal,C,,1,Moderate,The SI unit of force is the Newton.
+NECO,2024,Physics,Theory,Electricity,1,State and explain Ohm’s Law.,,,,,,V = IR (Voltage = Current × Resistance),15,Easy,Current through conductor is directly proportional to voltage.
+NECO,2024,Physics,Theory,Electricity,2,State and explain Ohm’s Law.,,,,,,V = IR (Voltage = Current × Resistance),20,Easy,Current through conductor is directly proportional to voltage.
+NECO,2024,Physics,Theory,Electricity,3,State and explain Ohm’s Law.,,,,,,V = IR (Voltage = Current × Resistance),10,Easy,Current through conductor is directly proportional to voltage.
+NECO,2024,Physics,Theory,Electricity,4,State and explain Ohm’s Law.,,,,,,V = IR (Voltage = Current × Resistance),14,Easy,Current through conductor is directly proportional to voltage.
+NECO,2024,Physics,Theory,Electricity,5,State and explain Ohm’s Law.,,,,,,V = IR (Voltage = Current × Resistance),14,Easy,Current through conductor is directly proportional to voltage.
+NECO,2024,Physics,Practical,Heat,1,Set up a circuit with a resistor and measure current using an ammeter.,,,,,,Plot I–V graph and determine resistance.,24,Hard,Award marks for accuracy and graph plotting.
+NECO,2024,Physics,Practical,Heat,2,Set up a circuit with a resistor and measure current using an ammeter.,,,,,,Plot I–V graph and determine resistance.,20,Hard,Award marks for accuracy and graph plotting.
+NECO,2024,Physics,Practical,Heat,3,Set up a circuit with a resistor and measure current using an ammeter.,,,,,,Plot I–V graph and determine resistance.,21,Hard,Award marks for accuracy and graph plotting.
+NECO,2024,Economics,Objective,Microeconomics,1,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Moderate,It’s the next best alternative forgone.
+NECO,2024,Economics,Objective,Microeconomics,2,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Moderate,It’s the next best alternative forgone.
+NECO,2024,Economics,Objective,Microeconomics,3,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Moderate,It’s the next best alternative forgone.
+NECO,2024,Economics,Objective,Microeconomics,4,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Moderate,It’s the next best alternative forgone.
+NECO,2024,Economics,Objective,Microeconomics,5,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Moderate,It’s the next best alternative forgone.
+NECO,2024,Economics,Objective,Microeconomics,6,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Moderate,It’s the next best alternative forgone.
+NECO,2024,Economics,Objective,Microeconomics,7,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Moderate,It’s the next best alternative forgone.
+NECO,2024,Economics,Objective,Microeconomics,8,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Moderate,It’s the next best alternative forgone.
+NECO,2024,Economics,Objective,Microeconomics,9,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Moderate,It’s the next best alternative forgone.
+NECO,2024,Economics,Objective,Microeconomics,10,What is opportunity cost?,Best alternative forgone,Money spent,Total cost,Production cost,A,,1,Moderate,It’s the next best alternative forgone.
+NECO,2024,Economics,Theory,Macroeconomics,1,Discuss four functions of money.,,,,,,"Medium of exchange, store of value, unit of account, standard of deferred payment",20,Easy,Each must be clearly explained.
+NECO,2024,Economics,Theory,Macroeconomics,2,Discuss four functions of money.,,,,,,"Medium of exchange, store of value, unit of account, standard of deferred payment",14,Easy,Each must be clearly explained.
+NECO,2024,Economics,Theory,Macroeconomics,3,Discuss four functions of money.,,,,,,"Medium of exchange, store of value, unit of account, standard of deferred payment",19,Easy,Each must be clearly explained.
+NECO,2024,Economics,Theory,Macroeconomics,4,Discuss four functions of money.,,,,,,"Medium of exchange, store of value, unit of account, standard of deferred payment",13,Easy,Each must be clearly explained.
+NECO,2024,Economics,Theory,Macroeconomics,5,Discuss four functions of money.,,,,,,"Medium of exchange, store of value, unit of account, standard of deferred payment",17,Easy,Each must be clearly explained.

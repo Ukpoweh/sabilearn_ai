@@ -1,0 +1,501 @@
+teacher_id,teacher_name,gender,age,qualification,years_experience,subject_specialization,school_id,training_attended_2020_2024,teacher_rating,teacher_satisfaction
+TCH0001,Teacher_1,Male,59,B.Ed,34,Computer Science,SCH003,6,3.71,High
+TCH0002,Teacher_2,Female,30,M.Ed,15,Civic Education,SCH033,0,2.84,Moderate
+TCH0003,Teacher_3,Male,56,B.Ed,2,Civic Education,SCH018,3,2.5,Moderate
+TCH0004,Teacher_4,Male,36,PhD,31,Physics,SCH073,6,3.58,Low
+TCH0005,Teacher_5,Female,49,NCE,28,Digital science,SCH038,5,4.9,Low
+TCH0006,Teacher_6,Female,57,NCE,32,Computer Science,SCH022,7,4.59,High
+TCH0007,Teacher_7,Female,59,B.Sc (Ed),16,Yoruba language,SCH020,2,2.15,Moderate
+TCH0008,Teacher_8,Female,32,B.Ed,8,Digital science,SCH050,7,3.25,High
+TCH0009,Teacher_9,Female,25,NCE,22,Igbo Langauge,SCH076,8,4.42,Moderate
+TCH0010,Teacher_10,Female,28,B.Ed,8,Basic science,SCH086,2,2.12,High
+TCH0011,Teacher_11,Female,28,PhD,3,IRK,SCH003,4,4.7,High
+TCH0012,Teacher_12,Female,44,B.Ed,31,Hausa language,SCH068,0,4.45,Moderate
+TCH0013,Teacher_13,Female,53,B.Sc (Ed),14,Yoruba language,SCH061,8,2.64,Moderate
+TCH0014,Teacher_14,Female,57,B.Sc (Ed),19,Computer Science,SCH048,6,4.5,Low
+TCH0015,Teacher_15,Male,34,B.Ed,31,Economics,SCH052,6,4.79,High
+TCH0016,Teacher_16,Male,52,B.Ed,33,Hausa language,SCH001,4,3.25,Low
+TCH0017,Teacher_17,Male,41,B.Sc (Ed),20,Physics,SCH044,7,4.65,High
+TCH0018,Teacher_18,Male,26,B.Sc (Ed),31,Hausa language,SCH080,4,2.6,Low
+TCH0019,Teacher_19,Female,45,PhD,12,English,SCH073,3,3.39,Low
+TCH0020,Teacher_20,Male,25,PhD,34,Mathematics,SCH014,8,3.32,High
+TCH0021,Teacher_21,Female,45,B.Ed,32,Mathematics,SCH046,3,3.59,High
+TCH0022,Teacher_22,Female,38,NCE,2,IRK,SCH011,3,3.05,High
+TCH0023,Teacher_23,Male,59,B.Ed,2,CRS,SCH058,1,4.94,High
+TCH0024,Teacher_24,Female,41,B.Ed,2,Yoruba language,SCH078,4,3.28,High
+TCH0025,Teacher_25,Female,51,M.Ed,22,Computer Science,SCH050,3,3.48,Low
+TCH0026,Teacher_26,Female,26,B.Ed,28,Biology,SCH099,6,2.95,Low
+TCH0027,Teacher_27,Female,27,B.Ed,23,History,SCH077,8,2.16,Low
+TCH0028,Teacher_28,Male,30,NCE,29,Economics,SCH084,2,4.15,Moderate
+TCH0029,Teacher_29,Male,57,M.Ed,21,History,SCH068,0,3.1,High
+TCH0030,Teacher_30,Female,38,NCE,7,History,SCH025,8,2.32,Low
+TCH0031,Teacher_31,Female,51,B.Sc (Ed),16,History,SCH022,3,2.07,High
+TCH0032,Teacher_32,Female,54,M.Ed,32,IRK,SCH096,2,3.15,Moderate
+TCH0033,Teacher_33,Male,28,B.Sc (Ed),32,Yoruba language,SCH041,6,4.98,High
+TCH0034,Teacher_34,Female,41,M.Ed,1,Basic Education,SCH089,6,3.91,Low
+TCH0035,Teacher_35,Female,28,PhD,13,English,SCH016,0,2.09,Moderate
+TCH0036,Teacher_36,Female,28,B.Sc (Ed),27,Basic science,SCH084,0,2.9,Low
+TCH0037,Teacher_37,Female,57,B.Sc (Ed),5,Social studies,SCH020,0,3.55,Moderate
+TCH0038,Teacher_38,Male,52,B.Sc (Ed),15,History,SCH070,5,4.2,Low
+TCH0039,Teacher_39,Female,55,M.Ed,35,Economics,SCH082,8,3.46,Moderate
+TCH0040,Teacher_40,Male,57,NCE,21,IRK,SCH088,0,3.56,High
+TCH0041,Teacher_41,Male,38,B.Ed,22,French Language,SCH063,7,4.98,High
+TCH0042,Teacher_42,Female,50,B.Ed,19,Basic Education,SCH066,4,3.3,Moderate
+TCH0043,Teacher_43,Female,51,B.Sc (Ed),13,Physical Health Education,SCH050,0,3.79,Low
+TCH0044,Teacher_44,Male,33,B.Sc (Ed),22,CRS,SCH002,8,2.91,Moderate
+TCH0045,Teacher_45,Female,58,B.Sc (Ed),28,Biology,SCH020,1,2.82,High
+TCH0046,Teacher_46,Female,50,M.Ed,33,French Language,SCH032,8,3.43,Low
+TCH0047,Teacher_47,Male,30,M.Ed,21,English,SCH099,7,4.39,Low
+TCH0048,Teacher_48,Female,39,NCE,22,Biology,SCH004,6,4.79,Low
+TCH0049,Teacher_49,Male,55,NCE,25,Economics,SCH020,5,4.99,Moderate
+TCH0050,Teacher_50,Male,45,PhD,1,Yoruba language,SCH033,2,4.75,Moderate
+TCH0051,Teacher_51,Male,41,B.Sc (Ed),20,French Language,SCH029,3,2.29,Moderate
+TCH0052,Teacher_52,Male,27,B.Ed,10,Social studies,SCH079,5,4.13,Moderate
+TCH0053,Teacher_53,Male,50,B.Sc (Ed),17,English,SCH031,3,2.58,Moderate
+TCH0054,Teacher_54,Female,42,NCE,31,CRS,SCH053,4,4.61,Low
+TCH0055,Teacher_55,Male,32,B.Ed,3,French Language,SCH094,0,2.6,Low
+TCH0056,Teacher_56,Female,29,B.Sc (Ed),20,IRK,SCH021,2,3.5,High
+TCH0057,Teacher_57,Male,26,PhD,23,Hausa language,SCH087,5,4.19,Moderate
+TCH0058,Teacher_58,Female,48,PhD,15,French Language,SCH040,6,3.09,Low
+TCH0059,Teacher_59,Female,42,M.Ed,26,Agricultural Science,SCH007,5,2.08,Low
+TCH0060,Teacher_60,Male,33,PhD,33,Basic science,SCH011,4,4.04,High
+TCH0061,Teacher_61,Female,41,B.Sc (Ed),25,Basic Education,SCH093,1,3.77,High
+TCH0062,Teacher_62,Male,34,B.Sc (Ed),14,Basic Education,SCH091,0,3.96,Low
+TCH0063,Teacher_63,Male,40,M.Ed,11,Chemistry,SCH072,4,2.18,Low
+TCH0064,Teacher_64,Female,28,M.Ed,21,Yoruba language,SCH048,2,3.55,Moderate
+TCH0065,Teacher_65,Male,38,B.Sc (Ed),22,Biology,SCH089,2,3.55,Moderate
+TCH0066,Teacher_66,Male,33,M.Ed,11,CRS,SCH047,5,3.57,High
+TCH0067,Teacher_67,Male,38,NCE,17,Chemistry,SCH054,2,2.22,High
+TCH0068,Teacher_68,Female,31,NCE,15,Computer Science,SCH056,8,2.88,Low
+TCH0069,Teacher_69,Female,45,M.Ed,29,Basic Education,SCH064,3,4.58,High
+TCH0070,Teacher_70,Male,55,NCE,31,Mathematics,SCH065,0,2.5,Low
+TCH0071,Teacher_71,Female,40,B.Ed,28,Igbo Langauge,SCH055,4,4.01,Moderate
+TCH0072,Teacher_72,Female,31,M.Ed,9,Basic Education,SCH047,5,4.96,Moderate
+TCH0073,Teacher_73,Male,24,PhD,27,Social studies,SCH097,0,3.69,High
+TCH0074,Teacher_74,Female,47,B.Ed,15,Civic Education,SCH086,6,4.84,High
+TCH0075,Teacher_75,Female,31,M.Ed,6,Computer Science,SCH017,5,3.5,High
+TCH0076,Teacher_76,Male,31,M.Ed,33,Physics,SCH099,2,4.44,Low
+TCH0077,Teacher_77,Female,60,M.Ed,16,French Language,SCH024,8,2.1,Low
+TCH0078,Teacher_78,Female,41,B.Ed,35,Biology,SCH033,2,2.07,Moderate
+TCH0079,Teacher_79,Male,38,B.Sc (Ed),29,English,SCH020,7,2.48,Low
+TCH0080,Teacher_80,Male,58,NCE,15,Agricultural Science,SCH072,4,2.26,High
+TCH0081,Teacher_81,Female,54,M.Ed,4,Basic science,SCH037,1,2.17,Low
+TCH0082,Teacher_82,Female,34,M.Ed,31,Igbo Langauge,SCH077,4,3.76,Low
+TCH0083,Teacher_83,Female,38,PhD,30,Basic Education,SCH041,8,4.21,Moderate
+TCH0084,Teacher_84,Female,57,B.Ed,12,Agricultural Science,SCH077,2,2.73,Moderate
+TCH0085,Teacher_85,Female,53,B.Ed,18,Digital science,SCH078,8,3.16,Moderate
+TCH0086,Teacher_86,Female,51,NCE,7,Mathematics,SCH094,1,4.46,High
+TCH0087,Teacher_87,Male,55,B.Ed,27,Social studies,SCH071,3,2.64,High
+TCH0088,Teacher_88,Female,60,B.Ed,34,Cultural Arts,SCH044,0,2.23,Low
+TCH0089,Teacher_89,Female,42,NCE,12,Igbo Langauge,SCH056,1,4.12,Moderate
+TCH0090,Teacher_90,Male,35,B.Sc (Ed),10,History,SCH059,2,2.6,Low
+TCH0091,Teacher_91,Female,31,B.Sc (Ed),20,IRK,SCH039,0,3.52,High
+TCH0092,Teacher_92,Female,47,NCE,7,History,SCH010,5,2.43,Moderate
+TCH0093,Teacher_93,Male,46,B.Ed,18,IRK,SCH034,8,2.74,Moderate
+TCH0094,Teacher_94,Female,60,PhD,1,Economics,SCH074,7,2.86,Low
+TCH0095,Teacher_95,Male,25,B.Sc (Ed),27,Basic Education,SCH091,7,4.44,High
+TCH0096,Teacher_96,Female,34,NCE,8,Mathematics,SCH066,0,4.09,Low
+TCH0097,Teacher_97,Female,53,B.Sc (Ed),33,Igbo Langauge,SCH028,7,3.59,High
+TCH0098,Teacher_98,Male,45,B.Sc (Ed),12,Computer Science,SCH069,3,2.04,Low
+TCH0099,Teacher_99,Female,39,PhD,18,Cultural Arts,SCH087,4,4.24,Moderate
+TCH0100,Teacher_100,Female,40,M.Ed,14,Mathematics,SCH075,6,3.64,Low
+TCH0101,Teacher_101,Male,36,NCE,2,Physical Health Education,SCH007,0,3.2,Moderate
+TCH0102,Teacher_102,Female,26,B.Ed,1,IRK,SCH053,5,4.88,Low
+TCH0103,Teacher_103,Male,49,B.Ed,5,Yoruba language,SCH059,1,4.03,High
+TCH0104,Teacher_104,Male,44,PhD,10,Economics,SCH053,4,4.92,Low
+TCH0105,Teacher_105,Male,54,B.Ed,13,Chemistry,SCH097,5,3.37,Low
+TCH0106,Teacher_106,Male,41,B.Ed,27,Economics,SCH044,7,4.08,Low
+TCH0107,Teacher_107,Male,25,PhD,23,Biology,SCH042,6,3.61,High
+TCH0108,Teacher_108,Male,59,M.Ed,22,Physics,SCH065,1,3.25,Moderate
+TCH0109,Teacher_109,Female,24,B.Sc (Ed),35,Basic Education,SCH062,4,3.12,High
+TCH0110,Teacher_110,Male,29,B.Ed,8,Igbo Langauge,SCH097,4,2.68,Low
+TCH0111,Teacher_111,Male,41,M.Ed,34,Physics,SCH052,4,4.62,Low
+TCH0112,Teacher_112,Female,45,NCE,26,Hausa language,SCH060,4,2.01,High
+TCH0113,Teacher_113,Female,51,NCE,24,CRS,SCH030,8,3.85,Moderate
+TCH0114,Teacher_114,Female,47,NCE,16,Basic science,SCH033,3,2.9,High
+TCH0115,Teacher_115,Male,45,B.Ed,23,Chemistry,SCH078,8,2.09,Moderate
+TCH0116,Teacher_116,Male,41,B.Ed,29,Physical Health Education,SCH086,3,3.09,High
+TCH0117,Teacher_117,Male,34,PhD,29,CRS,SCH073,7,3.19,Moderate
+TCH0118,Teacher_118,Male,28,B.Ed,11,French Language,SCH063,5,2.27,Moderate
+TCH0119,Teacher_119,Male,28,M.Ed,14,Agricultural Science,SCH013,1,4.83,Moderate
+TCH0120,Teacher_120,Female,55,NCE,10,Mathematics,SCH033,5,4.03,Low
+TCH0121,Teacher_121,Male,45,M.Ed,21,Physical Health Education,SCH056,6,2.6,Moderate
+TCH0122,Teacher_122,Female,50,B.Ed,19,Mathematics,SCH032,6,4.5,High
+TCH0123,Teacher_123,Female,52,PhD,9,Hausa language,SCH074,8,2.3,Moderate
+TCH0124,Teacher_124,Female,37,NCE,27,Physical Health Education,SCH086,5,2.23,High
+TCH0125,Teacher_125,Female,52,B.Sc (Ed),17,Physical Health Education,SCH030,5,4.83,Moderate
+TCH0126,Teacher_126,Female,60,B.Sc (Ed),16,Social studies,SCH058,7,3.84,Moderate
+TCH0127,Teacher_127,Female,44,B.Sc (Ed),23,French Language,SCH094,8,3.89,High
+TCH0128,Teacher_128,Male,59,PhD,6,Basic science,SCH067,0,2.16,High
+TCH0129,Teacher_129,Male,35,M.Ed,22,Yoruba language,SCH065,8,4.1,Moderate
+TCH0130,Teacher_130,Female,33,B.Sc (Ed),32,Digital science,SCH099,6,4.37,Low
+TCH0131,Teacher_131,Female,31,B.Ed,21,Physics,SCH022,3,3.2,High
+TCH0132,Teacher_132,Male,49,NCE,32,Social studies,SCH026,5,2.19,Low
+TCH0133,Teacher_133,Female,27,M.Ed,30,Physics,SCH100,7,3.29,Low
+TCH0134,Teacher_134,Male,33,B.Ed,17,Igbo Langauge,SCH023,0,3.76,Moderate
+TCH0135,Teacher_135,Female,30,B.Sc (Ed),31,CRS,SCH043,0,3.81,Moderate
+TCH0136,Teacher_136,Female,52,PhD,11,Chemistry,SCH057,5,2.07,Moderate
+TCH0137,Teacher_137,Male,53,PhD,28,CRS,SCH024,1,4.98,High
+TCH0138,Teacher_138,Male,60,M.Ed,4,Basic science,SCH087,7,4.28,Moderate
+TCH0139,Teacher_139,Female,55,B.Ed,16,Physics,SCH072,5,4.47,High
+TCH0140,Teacher_140,Female,35,M.Ed,7,Physical Health Education,SCH010,1,3.56,High
+TCH0141,Teacher_141,Female,41,B.Ed,31,Civic Education,SCH083,4,3.39,Moderate
+TCH0142,Teacher_142,Female,38,B.Ed,8,Agricultural Science,SCH095,0,4.49,Low
+TCH0143,Teacher_143,Female,58,PhD,20,Computer Science,SCH086,7,3.71,Low
+TCH0144,Teacher_144,Female,52,B.Ed,23,Chemistry,SCH033,8,2.1,High
+TCH0145,Teacher_145,Female,26,M.Ed,12,IRK,SCH049,8,4.79,Moderate
+TCH0146,Teacher_146,Female,50,B.Sc (Ed),31,Civic Education,SCH049,5,3.57,Low
+TCH0147,Teacher_147,Female,53,NCE,20,Civic Education,SCH007,7,2.83,High
+TCH0148,Teacher_148,Female,33,B.Sc (Ed),22,Civic Education,SCH075,1,4.72,Low
+TCH0149,Teacher_149,Female,41,M.Ed,2,Computer Science,SCH052,6,2.21,Moderate
+TCH0150,Teacher_150,Female,36,PhD,14,French Language,SCH066,8,4.64,Low
+TCH0151,Teacher_151,Male,45,PhD,1,Civic Education,SCH062,2,4.83,Moderate
+TCH0152,Teacher_152,Male,29,B.Sc (Ed),21,Civic Education,SCH081,1,3.42,Low
+TCH0153,Teacher_153,Female,44,B.Ed,34,History,SCH017,6,3.9,Low
+TCH0154,Teacher_154,Female,29,NCE,25,Computer Science,SCH040,2,3.65,Moderate
+TCH0155,Teacher_155,Female,33,PhD,13,Chemistry,SCH022,1,2.96,High
+TCH0156,Teacher_156,Male,24,NCE,11,English,SCH078,3,4.1,Moderate
+TCH0157,Teacher_157,Male,41,B.Ed,25,Biology,SCH078,8,2.58,High
+TCH0158,Teacher_158,Male,60,B.Ed,11,IRK,SCH029,3,4.69,High
+TCH0159,Teacher_159,Female,51,NCE,13,Chemistry,SCH027,5,3.31,Low
+TCH0160,Teacher_160,Female,46,M.Ed,2,Basic Education,SCH078,7,3.66,Moderate
+TCH0161,Teacher_161,Female,60,PhD,2,Biology,SCH072,0,3.25,High
+TCH0162,Teacher_162,Female,37,M.Ed,14,Social studies,SCH010,8,2.5,Low
+TCH0163,Teacher_163,Male,38,NCE,13,Chemistry,SCH077,3,3.43,High
+TCH0164,Teacher_164,Male,25,B.Sc (Ed),34,Computer Science,SCH067,5,2.12,Low
+TCH0165,Teacher_165,Female,33,NCE,16,Civic Education,SCH010,6,3.17,Low
+TCH0166,Teacher_166,Male,58,M.Ed,25,CRS,SCH055,1,4.11,Low
+TCH0167,Teacher_167,Male,40,NCE,35,Basic Education,SCH052,6,3.9,Low
+TCH0168,Teacher_168,Male,38,NCE,1,CRS,SCH056,2,3.21,High
+TCH0169,Teacher_169,Male,44,PhD,24,History,SCH016,2,2.39,Moderate
+TCH0170,Teacher_170,Male,40,B.Ed,12,Economics,SCH029,7,4.57,Low
+TCH0171,Teacher_171,Male,48,PhD,5,Biology,SCH028,2,4.93,Moderate
+TCH0172,Teacher_172,Male,35,M.Ed,27,Economics,SCH004,3,2.43,Low
+TCH0173,Teacher_173,Male,47,PhD,27,English,SCH077,3,2.84,Moderate
+TCH0174,Teacher_174,Male,44,B.Sc (Ed),8,Basic Education,SCH093,6,3.52,Low
+TCH0175,Teacher_175,Female,35,B.Sc (Ed),1,Digital science,SCH069,3,2.66,High
+TCH0176,Teacher_176,Male,46,NCE,20,English,SCH012,5,3.96,High
+TCH0177,Teacher_177,Male,33,B.Sc (Ed),2,English,SCH088,7,3.54,Moderate
+TCH0178,Teacher_178,Male,27,NCE,11,Digital science,SCH068,4,2.42,Moderate
+TCH0179,Teacher_179,Male,34,B.Sc (Ed),26,Physics,SCH064,7,2.42,High
+TCH0180,Teacher_180,Male,54,M.Ed,34,Physics,SCH050,0,2.44,Low
+TCH0181,Teacher_181,Male,40,M.Ed,25,Basic Education,SCH045,8,3.43,High
+TCH0182,Teacher_182,Male,32,M.Ed,7,CRS,SCH049,3,2.53,Low
+TCH0183,Teacher_183,Female,35,B.Ed,5,Biology,SCH031,5,2.01,Low
+TCH0184,Teacher_184,Female,33,M.Ed,7,Basic science,SCH051,0,2.84,Low
+TCH0185,Teacher_185,Female,38,M.Ed,8,Basic science,SCH029,1,4.48,High
+TCH0186,Teacher_186,Male,36,PhD,1,Chemistry,SCH073,5,3.58,Moderate
+TCH0187,Teacher_187,Male,52,B.Ed,6,Hausa language,SCH099,4,3.86,Low
+TCH0188,Teacher_188,Male,55,B.Sc (Ed),20,Social studies,SCH002,1,3.17,Moderate
+TCH0189,Teacher_189,Female,36,M.Ed,23,Hausa language,SCH074,7,3.92,Low
+TCH0190,Teacher_190,Female,50,M.Ed,22,Economics,SCH026,7,2.2,Low
+TCH0191,Teacher_191,Female,37,NCE,27,French Language,SCH085,7,3.27,Moderate
+TCH0192,Teacher_192,Female,34,B.Sc (Ed),5,Cultural Arts,SCH029,7,3.8,Moderate
+TCH0193,Teacher_193,Female,46,PhD,6,CRS,SCH012,6,4.81,High
+TCH0194,Teacher_194,Male,53,NCE,15,Agricultural Science,SCH062,2,2.06,Moderate
+TCH0195,Teacher_195,Female,43,M.Ed,34,Yoruba language,SCH091,6,3.46,High
+TCH0196,Teacher_196,Male,40,B.Ed,29,Agricultural Science,SCH014,3,2.05,High
+TCH0197,Teacher_197,Male,49,NCE,15,Agricultural Science,SCH075,5,2.68,Moderate
+TCH0198,Teacher_198,Male,44,NCE,6,Yoruba language,SCH091,7,2.94,Low
+TCH0199,Teacher_199,Male,52,B.Ed,5,Agricultural Science,SCH059,4,3.99,High
+TCH0200,Teacher_200,Female,51,M.Ed,33,History,SCH095,8,2.2,Low
+TCH0201,Teacher_201,Male,24,PhD,11,Social studies,SCH057,2,3.42,Low
+TCH0202,Teacher_202,Male,34,B.Ed,21,Yoruba language,SCH024,8,3.54,High
+TCH0203,Teacher_203,Male,29,NCE,31,Digital science,SCH007,2,3.58,High
+TCH0204,Teacher_204,Female,38,PhD,11,History,SCH013,2,2.43,High
+TCH0205,Teacher_205,Male,48,M.Ed,22,English,SCH009,1,2.41,Low
+TCH0206,Teacher_206,Male,58,M.Ed,29,IRK,SCH090,7,4.65,Moderate
+TCH0207,Teacher_207,Male,30,M.Ed,33,Biology,SCH063,3,2.92,Low
+TCH0208,Teacher_208,Female,50,PhD,21,English,SCH003,2,2.89,High
+TCH0209,Teacher_209,Female,24,M.Ed,2,Mathematics,SCH079,7,3.37,High
+TCH0210,Teacher_210,Female,46,M.Ed,11,Chemistry,SCH078,7,4.71,Low
+TCH0211,Teacher_211,Male,42,NCE,35,Mathematics,SCH089,3,2.38,High
+TCH0212,Teacher_212,Female,49,B.Ed,17,French Language,SCH086,1,3.37,High
+TCH0213,Teacher_213,Male,56,B.Sc (Ed),11,Physical Health Education,SCH049,3,2.09,Low
+TCH0214,Teacher_214,Female,38,B.Sc (Ed),23,CRS,SCH064,7,2.79,High
+TCH0215,Teacher_215,Female,27,B.Ed,14,Physics,SCH041,0,4.99,High
+TCH0216,Teacher_216,Female,54,NCE,30,Digital science,SCH047,3,3.24,Low
+TCH0217,Teacher_217,Female,27,PhD,31,Digital science,SCH087,0,3.89,High
+TCH0218,Teacher_218,Male,59,PhD,3,Basic Education,SCH006,3,3.12,High
+TCH0219,Teacher_219,Female,36,NCE,18,Cultural Arts,SCH028,5,4.94,Low
+TCH0220,Teacher_220,Male,28,B.Ed,29,Computer Science,SCH070,5,4.06,Moderate
+TCH0221,Teacher_221,Female,49,B.Sc (Ed),16,Digital science,SCH008,2,4.96,Moderate
+TCH0222,Teacher_222,Male,42,NCE,11,Igbo Langauge,SCH066,0,4.6,High
+TCH0223,Teacher_223,Male,31,PhD,16,Computer Science,SCH082,0,3.85,Moderate
+TCH0224,Teacher_224,Male,47,PhD,29,Mathematics,SCH012,2,2.27,High
+TCH0225,Teacher_225,Male,48,NCE,1,Basic Education,SCH062,1,2.05,High
+TCH0226,Teacher_226,Male,28,B.Sc (Ed),10,Computer Science,SCH027,4,3.48,Moderate
+TCH0227,Teacher_227,Male,55,B.Sc (Ed),21,Agricultural Science,SCH060,6,4.73,High
+TCH0228,Teacher_228,Female,41,NCE,5,Igbo Langauge,SCH016,5,2.86,High
+TCH0229,Teacher_229,Female,53,NCE,25,Civic Education,SCH025,8,4.92,High
+TCH0230,Teacher_230,Male,57,B.Sc (Ed),33,Biology,SCH090,5,3.95,High
+TCH0231,Teacher_231,Male,26,B.Sc (Ed),9,Yoruba language,SCH040,8,3.2,Moderate
+TCH0232,Teacher_232,Male,46,B.Ed,13,English,SCH058,1,4.69,Moderate
+TCH0233,Teacher_233,Female,58,M.Ed,22,Basic science,SCH048,4,3.26,High
+TCH0234,Teacher_234,Male,48,B.Ed,25,Mathematics,SCH021,2,4.36,Low
+TCH0235,Teacher_235,Female,34,B.Ed,25,Civic Education,SCH056,4,2.01,Moderate
+TCH0236,Teacher_236,Female,38,M.Ed,12,Chemistry,SCH042,8,2.39,High
+TCH0237,Teacher_237,Male,43,PhD,26,Social studies,SCH079,5,3.71,High
+TCH0238,Teacher_238,Male,26,B.Sc (Ed),9,Social studies,SCH054,7,2.45,Moderate
+TCH0239,Teacher_239,Male,51,B.Sc (Ed),18,English,SCH058,6,4.21,High
+TCH0240,Teacher_240,Male,50,B.Sc (Ed),26,Economics,SCH038,4,3.38,High
+TCH0241,Teacher_241,Female,52,M.Ed,28,IRK,SCH081,7,3.29,High
+TCH0242,Teacher_242,Female,36,B.Ed,21,Economics,SCH082,7,2.56,Low
+TCH0243,Teacher_243,Female,42,M.Ed,28,Physical Health Education,SCH087,2,2.21,High
+TCH0244,Teacher_244,Male,37,M.Ed,2,Mathematics,SCH006,0,4.94,High
+TCH0245,Teacher_245,Male,60,PhD,2,Chemistry,SCH005,2,4.57,Low
+TCH0246,Teacher_246,Male,49,B.Ed,6,French Language,SCH012,1,2.21,Moderate
+TCH0247,Teacher_247,Male,29,B.Ed,23,Computer Science,SCH019,0,2.86,High
+TCH0248,Teacher_248,Female,41,M.Ed,27,Basic Education,SCH068,2,4.46,Low
+TCH0249,Teacher_249,Female,44,M.Ed,10,Chemistry,SCH016,3,2.78,Low
+TCH0250,Teacher_250,Female,56,PhD,20,Basic science,SCH083,0,3.82,Moderate
+TCH0251,Teacher_251,Male,52,M.Ed,8,English,SCH029,5,2.44,Moderate
+TCH0252,Teacher_252,Male,56,B.Ed,11,IRK,SCH010,1,3.62,Low
+TCH0253,Teacher_253,Male,42,M.Ed,22,Yoruba language,SCH016,5,2.67,Moderate
+TCH0254,Teacher_254,Male,39,B.Sc (Ed),23,IRK,SCH084,2,3.12,High
+TCH0255,Teacher_255,Female,54,B.Sc (Ed),8,Physical Health Education,SCH036,4,2.47,Low
+TCH0256,Teacher_256,Male,32,M.Ed,23,Hausa language,SCH018,4,2.38,Moderate
+TCH0257,Teacher_257,Female,25,NCE,13,Cultural Arts,SCH024,2,4.65,Moderate
+TCH0258,Teacher_258,Male,34,NCE,14,Social studies,SCH081,5,4.18,High
+TCH0259,Teacher_259,Female,50,B.Ed,9,Agricultural Science,SCH056,6,4.98,Moderate
+TCH0260,Teacher_260,Female,51,NCE,27,Basic science,SCH069,7,3.51,High
+TCH0261,Teacher_261,Female,38,B.Sc (Ed),21,Agricultural Science,SCH070,7,3.91,Moderate
+TCH0262,Teacher_262,Female,28,PhD,32,Basic Education,SCH095,5,4.04,Low
+TCH0263,Teacher_263,Male,34,M.Ed,22,Biology,SCH072,8,4.84,High
+TCH0264,Teacher_264,Female,49,PhD,4,Hausa language,SCH014,8,4.27,Low
+TCH0265,Teacher_265,Male,38,PhD,3,Economics,SCH054,4,4.0,Moderate
+TCH0266,Teacher_266,Female,43,B.Ed,25,Igbo Langauge,SCH034,8,4.64,Moderate
+TCH0267,Teacher_267,Female,51,B.Ed,24,Civic Education,SCH043,0,4.6,Low
+TCH0268,Teacher_268,Male,46,M.Ed,27,Economics,SCH051,4,3.37,High
+TCH0269,Teacher_269,Male,36,B.Ed,27,Yoruba language,SCH054,2,4.13,Low
+TCH0270,Teacher_270,Female,37,PhD,3,Computer Science,SCH045,0,3.42,Low
+TCH0271,Teacher_271,Male,55,PhD,5,Hausa language,SCH052,8,3.5,Low
+TCH0272,Teacher_272,Female,48,NCE,4,Mathematics,SCH042,4,2.71,Moderate
+TCH0273,Teacher_273,Female,40,PhD,33,Agricultural Science,SCH088,0,3.06,High
+TCH0274,Teacher_274,Female,40,PhD,24,Hausa language,SCH074,8,4.97,Moderate
+TCH0275,Teacher_275,Female,58,B.Ed,13,IRK,SCH023,1,3.8,Moderate
+TCH0276,Teacher_276,Female,25,NCE,2,Chemistry,SCH038,2,3.74,Low
+TCH0277,Teacher_277,Female,55,M.Ed,11,French Language,SCH041,6,2.01,High
+TCH0278,Teacher_278,Female,28,B.Sc (Ed),3,History,SCH093,0,3.47,Moderate
+TCH0279,Teacher_279,Female,54,B.Sc (Ed),6,Digital science,SCH015,2,4.29,Low
+TCH0280,Teacher_280,Male,51,PhD,12,Chemistry,SCH040,7,3.88,Moderate
+TCH0281,Teacher_281,Male,51,B.Sc (Ed),4,Igbo Langauge,SCH097,8,3.73,Low
+TCH0282,Teacher_282,Female,41,B.Sc (Ed),16,Physical Health Education,SCH078,4,3.59,Moderate
+TCH0283,Teacher_283,Female,50,B.Ed,30,Chemistry,SCH097,7,4.68,Moderate
+TCH0284,Teacher_284,Female,54,B.Sc (Ed),14,Mathematics,SCH060,3,4.66,High
+TCH0285,Teacher_285,Male,43,PhD,35,French Language,SCH067,2,4.79,Low
+TCH0286,Teacher_286,Male,32,M.Ed,6,Yoruba language,SCH067,1,4.42,Low
+TCH0287,Teacher_287,Male,50,B.Ed,3,Mathematics,SCH010,4,3.56,Low
+TCH0288,Teacher_288,Female,30,B.Sc (Ed),18,Civic Education,SCH060,6,3.4,High
+TCH0289,Teacher_289,Male,50,B.Sc (Ed),11,English,SCH058,1,2.13,Moderate
+TCH0290,Teacher_290,Male,58,B.Ed,9,Biology,SCH021,6,4.01,High
+TCH0291,Teacher_291,Female,40,B.Sc (Ed),7,Physical Health Education,SCH073,7,3.43,Moderate
+TCH0292,Teacher_292,Female,24,PhD,29,Chemistry,SCH071,4,3.27,High
+TCH0293,Teacher_293,Female,46,M.Ed,24,Economics,SCH030,6,4.31,High
+TCH0294,Teacher_294,Male,36,B.Sc (Ed),2,CRS,SCH021,3,4.72,Moderate
+TCH0295,Teacher_295,Female,59,M.Ed,26,French Language,SCH026,6,2.39,Moderate
+TCH0296,Teacher_296,Female,30,B.Sc (Ed),35,Biology,SCH029,2,4.07,Low
+TCH0297,Teacher_297,Female,35,B.Sc (Ed),17,Basic Education,SCH050,8,3.13,Low
+TCH0298,Teacher_298,Male,45,B.Sc (Ed),6,Physical Health Education,SCH079,8,4.26,High
+TCH0299,Teacher_299,Male,38,M.Ed,27,Igbo Langauge,SCH048,3,4.95,Moderate
+TCH0300,Teacher_300,Male,26,NCE,19,Basic Education,SCH047,3,4.58,Moderate
+TCH0301,Teacher_301,Male,50,M.Ed,33,Cultural Arts,SCH100,8,4.25,High
+TCH0302,Teacher_302,Female,24,B.Sc (Ed),4,Economics,SCH089,0,2.33,Moderate
+TCH0303,Teacher_303,Male,49,NCE,29,CRS,SCH017,5,4.39,Low
+TCH0304,Teacher_304,Female,26,M.Ed,33,Economics,SCH016,7,4.15,High
+TCH0305,Teacher_305,Male,28,NCE,21,Civic Education,SCH004,8,4.75,Low
+TCH0306,Teacher_306,Male,37,B.Ed,11,English,SCH051,1,3.02,Low
+TCH0307,Teacher_307,Female,48,B.Sc (Ed),17,Physics,SCH009,0,4.35,Moderate
+TCH0308,Teacher_308,Male,38,M.Ed,35,IRK,SCH013,2,3.03,High
+TCH0309,Teacher_309,Male,55,PhD,23,Basic Education,SCH004,6,3.05,High
+TCH0310,Teacher_310,Male,51,B.Ed,17,CRS,SCH072,2,2.29,Low
+TCH0311,Teacher_311,Female,43,M.Ed,6,Mathematics,SCH059,3,4.02,Low
+TCH0312,Teacher_312,Female,44,PhD,1,Civic Education,SCH028,6,4.86,Low
+TCH0313,Teacher_313,Male,58,NCE,26,English,SCH092,7,3.82,Low
+TCH0314,Teacher_314,Female,45,B.Ed,17,CRS,SCH061,1,2.89,Low
+TCH0315,Teacher_315,Male,59,M.Ed,10,Basic science,SCH038,3,4.73,Moderate
+TCH0316,Teacher_316,Female,38,PhD,2,French Language,SCH053,5,2.03,High
+TCH0317,Teacher_317,Male,42,B.Sc (Ed),22,Basic science,SCH013,5,2.71,Low
+TCH0318,Teacher_318,Male,26,NCE,12,Chemistry,SCH081,0,3.56,Moderate
+TCH0319,Teacher_319,Male,43,PhD,4,CRS,SCH035,2,2.23,Low
+TCH0320,Teacher_320,Male,60,PhD,26,Economics,SCH028,5,4.62,Low
+TCH0321,Teacher_321,Male,32,M.Ed,10,French Language,SCH015,0,3.99,Low
+TCH0322,Teacher_322,Female,51,PhD,19,CRS,SCH048,0,2.55,Low
+TCH0323,Teacher_323,Male,29,B.Sc (Ed),16,CRS,SCH099,0,3.99,Low
+TCH0324,Teacher_324,Male,33,B.Ed,13,IRK,SCH022,8,3.93,Low
+TCH0325,Teacher_325,Male,28,NCE,23,Basic science,SCH074,6,4.01,Moderate
+TCH0326,Teacher_326,Female,41,M.Ed,23,Mathematics,SCH021,7,4.39,Low
+TCH0327,Teacher_327,Female,46,B.Ed,17,Biology,SCH082,2,3.64,Low
+TCH0328,Teacher_328,Male,29,NCE,29,Hausa language,SCH086,1,4.81,Moderate
+TCH0329,Teacher_329,Male,39,B.Ed,12,Cultural Arts,SCH006,4,2.6,High
+TCH0330,Teacher_330,Male,47,NCE,32,English,SCH042,7,2.27,High
+TCH0331,Teacher_331,Male,48,B.Ed,23,Mathematics,SCH040,2,2.82,Low
+TCH0332,Teacher_332,Male,37,NCE,24,Mathematics,SCH084,2,2.39,Moderate
+TCH0333,Teacher_333,Female,28,B.Ed,33,Civic Education,SCH040,5,2.94,High
+TCH0334,Teacher_334,Male,35,B.Sc (Ed),18,Computer Science,SCH018,5,2.24,Low
+TCH0335,Teacher_335,Male,57,B.Ed,8,Mathematics,SCH030,6,4.5,Low
+TCH0336,Teacher_336,Female,44,B.Sc (Ed),20,IRK,SCH013,6,4.07,Moderate
+TCH0337,Teacher_337,Male,44,M.Ed,19,CRS,SCH046,4,4.1,High
+TCH0338,Teacher_338,Male,53,PhD,22,Computer Science,SCH097,5,2.85,High
+TCH0339,Teacher_339,Male,41,B.Ed,9,Yoruba language,SCH079,1,3.62,Low
+TCH0340,Teacher_340,Male,38,NCE,2,Computer Science,SCH002,2,4.71,Moderate
+TCH0341,Teacher_341,Male,60,M.Ed,20,Physical Health Education,SCH060,6,4.23,High
+TCH0342,Teacher_342,Male,60,NCE,13,History,SCH037,2,3.42,High
+TCH0343,Teacher_343,Male,60,PhD,7,French Language,SCH078,7,3.15,Low
+TCH0344,Teacher_344,Female,30,B.Sc (Ed),1,Biology,SCH046,0,2.39,Low
+TCH0345,Teacher_345,Female,49,NCE,21,Physical Health Education,SCH098,6,4.12,Moderate
+TCH0346,Teacher_346,Male,35,M.Ed,5,Biology,SCH091,1,3.28,Low
+TCH0347,Teacher_347,Female,58,B.Sc (Ed),21,Mathematics,SCH044,6,4.35,Low
+TCH0348,Teacher_348,Female,57,B.Ed,21,History,SCH024,0,2.46,High
+TCH0349,Teacher_349,Male,29,B.Ed,33,Mathematics,SCH038,6,3.51,Low
+TCH0350,Teacher_350,Female,35,NCE,15,Igbo Langauge,SCH058,8,4.16,High
+TCH0351,Teacher_351,Male,40,M.Ed,18,History,SCH028,3,2.43,Low
+TCH0352,Teacher_352,Female,27,B.Ed,35,Civic Education,SCH001,1,3.64,High
+TCH0353,Teacher_353,Male,40,PhD,27,Agricultural Science,SCH025,8,2.26,Low
+TCH0354,Teacher_354,Male,24,B.Ed,25,Yoruba language,SCH062,3,4.78,Low
+TCH0355,Teacher_355,Female,40,B.Ed,20,Basic Education,SCH022,8,3.0,Moderate
+TCH0356,Teacher_356,Male,50,NCE,27,French Language,SCH018,2,2.47,Moderate
+TCH0357,Teacher_357,Female,47,PhD,35,Chemistry,SCH018,3,3.81,Low
+TCH0358,Teacher_358,Female,30,NCE,4,Economics,SCH093,4,4.6,Low
+TCH0359,Teacher_359,Male,58,M.Ed,16,Biology,SCH050,0,4.96,Moderate
+TCH0360,Teacher_360,Female,29,B.Ed,33,CRS,SCH003,5,4.58,Moderate
+TCH0361,Teacher_361,Male,30,B.Sc (Ed),26,IRK,SCH019,5,2.46,Moderate
+TCH0362,Teacher_362,Female,29,PhD,25,History,SCH078,6,3.01,High
+TCH0363,Teacher_363,Female,35,B.Ed,30,Agricultural Science,SCH026,4,4.49,High
+TCH0364,Teacher_364,Male,56,NCE,20,IRK,SCH028,3,2.42,Moderate
+TCH0365,Teacher_365,Male,34,B.Sc (Ed),26,Basic Education,SCH049,5,2.97,Moderate
+TCH0366,Teacher_366,Female,34,PhD,30,Hausa language,SCH017,1,4.56,Low
+TCH0367,Teacher_367,Male,52,B.Ed,31,Computer Science,SCH026,7,2.93,High
+TCH0368,Teacher_368,Female,33,M.Ed,33,Physical Health Education,SCH069,7,2.13,Low
+TCH0369,Teacher_369,Female,46,PhD,19,Basic science,SCH047,8,3.69,Low
+TCH0370,Teacher_370,Male,24,PhD,18,French Language,SCH062,4,2.52,High
+TCH0371,Teacher_371,Male,28,NCE,29,English,SCH047,5,2.69,Low
+TCH0372,Teacher_372,Male,42,NCE,16,Mathematics,SCH079,3,2.69,Low
+TCH0373,Teacher_373,Female,56,B.Ed,12,Economics,SCH014,6,3.53,Low
+TCH0374,Teacher_374,Male,28,B.Sc (Ed),14,History,SCH068,3,2.05,High
+TCH0375,Teacher_375,Female,58,B.Ed,33,History,SCH055,5,3.93,High
+TCH0376,Teacher_376,Male,30,M.Ed,32,Cultural Arts,SCH068,8,2.67,Low
+TCH0377,Teacher_377,Male,39,NCE,18,Computer Science,SCH015,5,4.39,High
+TCH0378,Teacher_378,Female,48,M.Ed,22,IRK,SCH077,3,2.53,Moderate
+TCH0379,Teacher_379,Male,27,PhD,21,Digital science,SCH050,0,2.4,High
+TCH0380,Teacher_380,Male,54,M.Ed,1,Physics,SCH067,7,4.51,High
+TCH0381,Teacher_381,Female,44,M.Ed,28,French Language,SCH095,2,2.23,Low
+TCH0382,Teacher_382,Female,44,M.Ed,18,Economics,SCH031,3,3.78,Moderate
+TCH0383,Teacher_383,Male,58,B.Ed,11,English,SCH086,6,3.63,High
+TCH0384,Teacher_384,Female,47,NCE,17,Economics,SCH058,5,2.33,High
+TCH0385,Teacher_385,Female,58,B.Sc (Ed),21,English,SCH030,0,3.42,Low
+TCH0386,Teacher_386,Male,39,NCE,19,Agricultural Science,SCH073,8,4.87,High
+TCH0387,Teacher_387,Male,59,PhD,13,French Language,SCH084,8,2.63,High
+TCH0388,Teacher_388,Female,58,B.Ed,10,Agricultural Science,SCH066,7,4.19,High
+TCH0389,Teacher_389,Male,37,B.Ed,30,Economics,SCH060,5,4.48,High
+TCH0390,Teacher_390,Female,41,PhD,7,Basic Education,SCH042,7,3.92,High
+TCH0391,Teacher_391,Female,60,M.Ed,2,Mathematics,SCH060,5,3.59,High
+TCH0392,Teacher_392,Male,35,M.Ed,7,Cultural Arts,SCH063,4,4.75,Low
+TCH0393,Teacher_393,Female,24,NCE,29,Mathematics,SCH088,7,2.83,Low
+TCH0394,Teacher_394,Male,39,B.Ed,18,Physics,SCH030,5,3.97,Low
+TCH0395,Teacher_395,Male,42,M.Ed,32,Digital science,SCH027,0,3.11,Low
+TCH0396,Teacher_396,Male,49,B.Ed,27,IRK,SCH076,8,4.4,High
+TCH0397,Teacher_397,Male,54,PhD,4,Physical Health Education,SCH045,5,3.69,Low
+TCH0398,Teacher_398,Male,41,PhD,8,Basic science,SCH016,6,4.35,Low
+TCH0399,Teacher_399,Female,40,B.Sc (Ed),6,Mathematics,SCH030,2,2.11,Moderate
+TCH0400,Teacher_400,Female,53,B.Sc (Ed),5,Mathematics,SCH011,6,4.04,High
+TCH0401,Teacher_401,Female,52,PhD,17,Computer Science,SCH030,2,2.09,Low
+TCH0402,Teacher_402,Female,26,B.Ed,32,Hausa language,SCH088,5,2.43,Low
+TCH0403,Teacher_403,Female,31,B.Sc (Ed),34,Digital science,SCH003,8,2.52,Low
+TCH0404,Teacher_404,Female,35,B.Ed,21,Basic Education,SCH058,7,4.03,Low
+TCH0405,Teacher_405,Female,36,NCE,15,Social studies,SCH075,8,3.07,Low
+TCH0406,Teacher_406,Male,43,PhD,30,Hausa language,SCH047,6,4.57,Low
+TCH0407,Teacher_407,Male,45,M.Ed,33,Basic science,SCH032,6,4.5,High
+TCH0408,Teacher_408,Female,37,B.Sc (Ed),33,Yoruba language,SCH058,1,2.58,High
+TCH0409,Teacher_409,Female,52,B.Sc (Ed),20,English,SCH065,2,2.68,Low
+TCH0410,Teacher_410,Male,27,M.Ed,19,Agricultural Science,SCH005,8,2.33,Moderate
+TCH0411,Teacher_411,Male,59,B.Ed,26,Yoruba language,SCH061,0,3.84,Moderate
+TCH0412,Teacher_412,Male,54,B.Ed,16,Biology,SCH011,6,2.25,High
+TCH0413,Teacher_413,Male,50,B.Sc (Ed),3,French Language,SCH048,1,3.36,Moderate
+TCH0414,Teacher_414,Male,33,M.Ed,21,Civic Education,SCH093,5,3.36,Moderate
+TCH0415,Teacher_415,Male,54,B.Ed,35,Computer Science,SCH020,2,2.2,Low
+TCH0416,Teacher_416,Male,27,NCE,9,Igbo Langauge,SCH062,5,2.31,Moderate
+TCH0417,Teacher_417,Male,56,M.Ed,30,Cultural Arts,SCH012,2,3.97,Low
+TCH0418,Teacher_418,Female,54,B.Sc (Ed),2,Basic science,SCH046,3,3.74,Low
+TCH0419,Teacher_419,Female,41,PhD,8,Basic Education,SCH046,4,4.65,Moderate
+TCH0420,Teacher_420,Male,36,B.Sc (Ed),22,Yoruba language,SCH085,8,3.26,High
+TCH0421,Teacher_421,Female,41,PhD,9,Civic Education,SCH050,6,4.91,High
+TCH0422,Teacher_422,Female,32,NCE,35,Hausa language,SCH047,1,2.18,Moderate
+TCH0423,Teacher_423,Female,31,PhD,27,Igbo Langauge,SCH053,0,2.73,High
+TCH0424,Teacher_424,Female,54,M.Ed,11,Igbo Langauge,SCH089,8,2.86,Moderate
+TCH0425,Teacher_425,Female,24,B.Sc (Ed),27,Hausa language,SCH063,3,3.74,Low
+TCH0426,Teacher_426,Female,60,B.Ed,21,Chemistry,SCH057,8,4.94,Moderate
+TCH0427,Teacher_427,Female,43,NCE,34,IRK,SCH011,6,3.78,Low
+TCH0428,Teacher_428,Female,24,NCE,26,Physics,SCH021,7,3.67,High
+TCH0429,Teacher_429,Male,49,B.Sc (Ed),4,Chemistry,SCH022,0,2.54,Moderate
+TCH0430,Teacher_430,Male,32,B.Ed,7,Physics,SCH020,2,3.72,High
+TCH0431,Teacher_431,Female,42,B.Ed,22,History,SCH072,1,3.14,High
+TCH0432,Teacher_432,Female,43,NCE,31,Agricultural Science,SCH019,5,2.86,High
+TCH0433,Teacher_433,Female,31,B.Sc (Ed),8,Economics,SCH100,0,4.63,High
+TCH0434,Teacher_434,Female,33,M.Ed,11,Hausa language,SCH073,0,4.49,Low
+TCH0435,Teacher_435,Female,33,NCE,18,Agricultural Science,SCH033,3,2.59,Low
+TCH0436,Teacher_436,Female,31,NCE,18,Biology,SCH033,0,4.76,Moderate
+TCH0437,Teacher_437,Female,51,M.Ed,14,Digital science,SCH008,3,2.66,Low
+TCH0438,Teacher_438,Male,36,NCE,34,Cultural Arts,SCH012,6,2.87,High
+TCH0439,Teacher_439,Male,26,B.Ed,3,English,SCH011,1,4.64,Low
+TCH0440,Teacher_440,Female,29,PhD,4,Basic science,SCH070,6,3.38,Moderate
+TCH0441,Teacher_441,Male,59,NCE,33,History,SCH001,5,4.61,Moderate
+TCH0442,Teacher_442,Female,52,B.Sc (Ed),28,Economics,SCH087,7,4.53,Moderate
+TCH0443,Teacher_443,Female,46,B.Sc (Ed),2,French Language,SCH055,0,4.58,Low
+TCH0444,Teacher_444,Female,30,B.Ed,20,IRK,SCH083,3,4.07,High
+TCH0445,Teacher_445,Female,27,B.Ed,7,Computer Science,SCH034,0,2.49,High
+TCH0446,Teacher_446,Female,28,B.Sc (Ed),18,Social studies,SCH070,3,4.11,Moderate
+TCH0447,Teacher_447,Male,36,NCE,16,Agricultural Science,SCH044,0,4.47,Low
+TCH0448,Teacher_448,Male,29,B.Sc (Ed),4,English,SCH100,1,3.26,High
+TCH0449,Teacher_449,Male,29,B.Sc (Ed),26,History,SCH098,2,3.39,Low
+TCH0450,Teacher_450,Female,35,PhD,4,Agricultural Science,SCH051,3,4.42,High
+TCH0451,Teacher_451,Male,27,B.Sc (Ed),21,CRS,SCH027,5,3.72,Moderate
+TCH0452,Teacher_452,Female,26,M.Ed,18,IRK,SCH080,4,4.34,Moderate
+TCH0453,Teacher_453,Female,29,NCE,35,Civic Education,SCH073,4,2.9,Low
+TCH0454,Teacher_454,Male,60,B.Ed,31,Hausa language,SCH066,8,3.16,Low
+TCH0455,Teacher_455,Female,48,B.Ed,27,Digital science,SCH057,2,4.69,High
+TCH0456,Teacher_456,Male,43,M.Ed,13,French Language,SCH047,4,3.06,Low
+TCH0457,Teacher_457,Male,54,B.Ed,18,Igbo Langauge,SCH002,8,2.73,High
+TCH0458,Teacher_458,Male,52,PhD,3,Mathematics,SCH087,4,4.74,High
+TCH0459,Teacher_459,Female,46,B.Sc (Ed),29,Biology,SCH034,8,3.79,Low
+TCH0460,Teacher_460,Male,60,B.Sc (Ed),33,French Language,SCH012,7,2.32,Moderate
+TCH0461,Teacher_461,Male,31,PhD,34,Hausa language,SCH072,7,4.04,Moderate
+TCH0462,Teacher_462,Male,52,NCE,35,History,SCH010,3,2.3,Low
+TCH0463,Teacher_463,Male,48,M.Ed,32,Hausa language,SCH005,1,2.99,Low
+TCH0464,Teacher_464,Female,48,PhD,29,Chemistry,SCH001,8,4.32,High
+TCH0465,Teacher_465,Male,33,PhD,16,IRK,SCH041,3,2.74,Low
+TCH0466,Teacher_466,Female,52,B.Ed,27,Digital science,SCH011,6,2.36,Moderate
+TCH0467,Teacher_467,Male,32,B.Sc (Ed),32,Computer Science,SCH059,1,2.09,Low
+TCH0468,Teacher_468,Male,55,M.Ed,4,Computer Science,SCH053,4,3.77,Moderate
+TCH0469,Teacher_469,Female,49,M.Ed,21,Economics,SCH005,5,4.38,Moderate
+TCH0470,Teacher_470,Female,34,M.Ed,24,Social studies,SCH067,7,2.7,Low
+TCH0471,Teacher_471,Female,57,NCE,26,Digital science,SCH042,6,2.84,Low
+TCH0472,Teacher_472,Female,58,B.Ed,14,Chemistry,SCH012,2,4.22,Low
+TCH0473,Teacher_473,Male,42,NCE,32,History,SCH012,3,2.98,Moderate
+TCH0474,Teacher_474,Female,27,B.Ed,19,Physical Health Education,SCH022,4,3.76,Moderate
+TCH0475,Teacher_475,Female,37,M.Ed,7,IRK,SCH087,2,2.88,Moderate
+TCH0476,Teacher_476,Male,43,PhD,20,Mathematics,SCH074,5,4.22,Moderate
+TCH0477,Teacher_477,Female,53,PhD,21,French Language,SCH028,4,2.28,High
+TCH0478,Teacher_478,Female,52,M.Ed,10,Social studies,SCH095,1,2.98,Low
+TCH0479,Teacher_479,Female,57,B.Ed,11,English,SCH038,6,3.57,Low
+TCH0480,Teacher_480,Female,48,PhD,27,IRK,SCH056,5,4.19,Low
+TCH0481,Teacher_481,Female,51,B.Sc (Ed),21,Igbo Langauge,SCH049,2,4.78,Moderate
+TCH0482,Teacher_482,Male,25,B.Ed,27,History,SCH042,2,4.22,High
+TCH0483,Teacher_483,Male,26,B.Sc (Ed),29,IRK,SCH062,4,2.41,Moderate
+TCH0484,Teacher_484,Female,51,PhD,12,Civic Education,SCH005,6,4.35,High
+TCH0485,Teacher_485,Male,51,B.Sc (Ed),13,Physics,SCH059,0,4.7,High
+TCH0486,Teacher_486,Female,39,PhD,15,IRK,SCH052,3,3.04,Low
+TCH0487,Teacher_487,Male,51,NCE,35,Physical Health Education,SCH029,5,3.18,Moderate
+TCH0488,Teacher_488,Female,39,PhD,34,Mathematics,SCH036,1,3.18,Low
+TCH0489,Teacher_489,Female,37,B.Ed,2,History,SCH006,8,2.56,High
+TCH0490,Teacher_490,Male,27,B.Sc (Ed),28,Cultural Arts,SCH062,2,4.78,Low
+TCH0491,Teacher_491,Male,58,B.Sc (Ed),33,French Language,SCH075,2,3.53,Moderate
+TCH0492,Teacher_492,Female,53,B.Sc (Ed),2,Agricultural Science,SCH092,7,2.4,Low
+TCH0493,Teacher_493,Male,52,M.Ed,20,CRS,SCH021,0,2.93,Moderate
+TCH0494,Teacher_494,Male,44,PhD,16,History,SCH085,1,3.25,Low
+TCH0495,Teacher_495,Female,41,NCE,9,Basic Education,SCH080,7,2.52,Low
+TCH0496,Teacher_496,Male,58,NCE,19,Digital science,SCH026,4,2.97,High
+TCH0497,Teacher_497,Male,35,NCE,6,Civic Education,SCH062,7,2.58,Low
+TCH0498,Teacher_498,Male,25,PhD,25,Basic science,SCH041,1,4.19,High
+TCH0499,Teacher_499,Female,54,M.Ed,29,Igbo Langauge,SCH068,2,3.65,Moderate
+TCH0500,Teacher_500,Male,25,PhD,26,Mathematics,SCH075,4,4.86,Moderate

@@ -1,0 +1,6 @@
+pymongo
+gridfs
+PyPDF2
+psycopg2-binary
+pandas
+python-dateutil
