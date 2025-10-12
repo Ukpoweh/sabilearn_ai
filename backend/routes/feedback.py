@@ -1,52 +1,75 @@
-# backend/routes/feedback.py
-from fastapi import APIRouter, Body
-import sqlite3
-import datetime
-import os
+from fastapi import APIRouter, Depends, HTTPException, status
+from sqlalchemy.orm import Session
+from typing import Dict, Any, List
 
-router = APIRouter()
+from ..ai import sentiment as sentiment_core # <-- Import your sentiment logic
+from ..data_model import schemas, models
+from ..data_model.database import get_db
 
-# --- Absolute, safe database path setup ---
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # backend/
-DATA_DIR = os.path.join(BASE_DIR, "data")
-os.makedirs(DATA_DIR, exist_ok=True)  # ✅ ensure 'data' folder exists
+# Assuming you have a Pydantic schema for the feedback request:
+# schemas.FeedbackSaveRequest is expected to contain: lesson_id, teacher_id, feedback_items (list of {emoji, comment})
 
-DB_PATH = os.path.join(DATA_DIR, "feedback.db")
+router = APIRouter(
+    prefix="/feedback",
+    tags=["Feedback and Sentiment"]
+)
 
-# --- Initialize the database ---
-def init_db():
-    conn = sqlite3.connect(DB_PATH)
-    conn.execute("""
-        CREATE TABLE IF NOT EXISTS feedback (
-            id INTEGER PRIMARY KEY AUTOINCREMENT,
-            teacher_name TEXT,
-            lesson_topic TEXT,
-            feedback_text TEXT,
-            rating INTEGER,
-            timestamp TEXT
-        )
-    """)
-    conn.close()
-
-init_db()  # ✅ runs once when the module loads
-
-
-# --- Feedback Submission Endpoint ---
-@router.post("/submit")
+@router.post("/", status_code=status.HTTP_201_CREATED)
 def submit_feedback(
-    teacher_name: str = Body(...),
-    lesson_topic: str = Body(...),
-    feedback_text: str = Body(""),
-    rating: int = Body(...),
-):
-    conn = sqlite3.connect(DB_PATH)
-    conn.execute(
-        """
-        INSERT INTO feedback (teacher_name, lesson_topic, feedback_text, rating, timestamp)
-        VALUES (?, ?, ?, ?, ?)
-        """,
-        (teacher_name, lesson_topic, feedback_text, rating, datetime.datetime.now().isoformat()),
+    request: schemas.FeedbackSaveRequest,
+    db: Session = Depends(get_db)
+) -> Dict[str, Any]:
+    """
+    Receives feedback, calculates the sentiment score using local utility,
+    and saves the record to the central PostgreSQL database.
+    """
+    
+    # 1. Analyze Feedback to get the aggregated score
+    analysis = sentiment_core.analyze_feedback_items(request.feedback_items)
+    
+    # Extract the average score calculated from the emojis
+    avg_score = analysis.get("avg_score") 
+    
+    if avg_score is None:
+        raise HTTPException(
+            status_code=status.HTTP_400_BAD_REQUEST,
+            detail="Feedback must contain at least one emoji rating."
+        )
+
+    # 2. Create the new Feedback ORM object
+    db_feedback = models.Feedback(
+        lesson_id=request.lesson_id,
+        teacher_id=request.teacher_id,
+        rating=int(round(avg_score)), # Save the average score rounded to an integer (1-5)
+        sentiment_score=avg_score,    # Save the precise average for analytics
+        # Optionally, save the full items list in the ActivityLog metadata or a dedicated JSON field
     )
-    conn.commit()
-    conn.close()
-    return {"message": "Feedback submitted successfully"}
+
+    # 3. Save to Database
+    try:
+        db.add(db_feedback)
+        
+        # Log the activity
+        db_log = models.ActivityLog(
+            teacher_id=request.teacher_id,
+            event_type="FEEDBACK_SUBMITTED",
+            metadata={"lesson_id": str(request.lesson_id), "rating": avg_score}
+        )
+        db.add(db_log)
+
+        db.commit()
+        db.refresh(db_feedback)
+        
+    except Exception as e:
+        db.rollback()
+        print(f"Database error during feedback submission: {e}")
+        raise HTTPException(
+            status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+            detail="Failed to record feedback due to a database error."
+        )
+
+    return {
+        "message": "Feedback successfully recorded",
+        "feedback_id": str(db_feedback.id),
+        "calculated_score": avg_score
+    }
