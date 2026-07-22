@@ -1,14 +1,23 @@
 # backend/main.py
 from fastapi import FastAPI
 from backend.routes import lesson, feedback, dashboard
+from backend.data_models.database import init_db
 
-app = FastAPI(title="EduBridge AI+", description="AI Copilot for Teachers")
+app = FastAPI(title="SabiLearn AI", description="AI Copilot for Nigerian Teachers")
 
-# Include routes
-app.include_router(lesson.router, prefix="/lesson", tags=["Lesson"])
-app.include_router(feedback.router, prefix="/feedback", tags=["Feedback"])
-app.include_router(dashboard.router, prefix="/dashboard", tags=["Dashboard"])
+
+@app.on_event("startup")
+def on_startup():
+    init_db()
+
+
+# Include routes (each router already declares its own path prefix)
+app.include_router(lesson.generate_router)
+app.include_router(lesson.router)
+app.include_router(feedback.router)
+app.include_router(dashboard.router)
+
 
 @app.get("/")
 def home():
-    return {"message": "Welcome to EduBridge AI+ Backend!"}
+    return {"message": "Welcome to SabiLearn AI Backend!"}

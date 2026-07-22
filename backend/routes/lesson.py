@@ -1,11 +1,11 @@
 from fastapi import APIRouter, Depends, HTTPException, status
 from sqlalchemy.orm import Session
 from typing import Dict, Any, List
-from sqlalchemy.future import select
 import uuid
 
-from ..data_model import schemas, models
-from ..data_model.database import get_db
+from ..data_models import schemas, models
+from ..data_models.database import get_db
+from ..ai import generator
 
 router = APIRouter(
     prefix="/lessons",
@@ -13,7 +13,28 @@ router = APIRouter(
 )
 
 # ----------------------------------------------------
-# Backend Engineer Day 3: POST /lessons (Save Lesson)
+# POST /generate_lesson (mounted at root in main.py)
+# ----------------------------------------------------
+generate_router = APIRouter(tags=["Lesson Generation"])
+
+
+@generate_router.post("/generate_lesson")
+async def generate_lesson_endpoint(request: schemas.GenerateLessonRequest) -> Dict[str, Any]:
+    """
+    Generates a contextual lesson plan via Gemini. Does not persist anything —
+    the teacher reviews the result and calls POST /lessons to save it.
+    """
+    return await generator.generate_lesson(
+        subject=request.subject,
+        topic=request.topic,
+        level=request.level,
+        language=request.language,
+        mode=request.mode,
+    )
+
+
+# ----------------------------------------------------
+# POST /lessons (Save Lesson)
 # ----------------------------------------------------
 @router.post("/", status_code=status.HTTP_201_CREATED)
 def save_lesson_metadata(
@@ -25,16 +46,15 @@ def save_lesson_metadata(
     This is called by the frontend after the teacher reviews and confirms the lesson.
     """
     # Use the UUID from the request if provided (for offline sync idempotency)
-    lesson_id = request.lesson_id or uuid.uuid4() 
-    
+    lesson_id = request.lesson_id or uuid.uuid4()
+
     # 1. Create the Lesson ORM Object
     db_lesson = models.Lesson(
         id=lesson_id,
         teacher_id=request.teacher_id,
         topic=request.topic,
         mode=request.mode,
-        # Pydantic model is automatically converted to JSONB/JSON by SQLAlchemy
-        content_json=request.content_json.model_dump() 
+        content_json=request.content_json.model_dump()
     )
 
     try:
@@ -54,7 +74,7 @@ def save_lesson_metadata(
     db_log = models.ActivityLog(
         teacher_id=request.teacher_id,
         event_type="LESSON_SAVED",
-        metadata={"lesson_id": str(db_lesson.id), "topic": request.topic}
+        event_metadata={"lesson_id": str(db_lesson.id), "topic": request.topic}
     )
     db.add(db_log)
     db.commit()
@@ -66,7 +86,7 @@ def save_lesson_metadata(
     }
 
 # ----------------------------------------------------
-# Backend Engineer Day 1: GET /lessons (List Lessons by Teacher)
+# GET /lessons (List Lessons by Teacher)
 # ----------------------------------------------------
 @router.get("/", response_model=List[Dict[str, Any]])
 def list_teacher_lessons(
@@ -77,7 +97,7 @@ def list_teacher_lessons(
     Retrieves a list of lesson summaries for a given teacher.
     """
     lessons = db.query(models.Lesson).filter(models.Lesson.teacher_id == teacher_id).all()
-    
+
     if not lessons:
         return []
 

@@ -1,18 +1,17 @@
-from fastapi import APIRouter, Depends, HTTPException, status
+from fastapi import APIRouter, Depends, HTTPException, status, Query
 from sqlalchemy.orm import Session
-from typing import Dict, Any, List
+from typing import Dict, Any, List, Optional
+import uuid
 
-from ..ai import sentiment as sentiment_core # <-- Import your sentiment logic
-from ..data_model import schemas, models
-from ..data_model.database import get_db
-
-# Assuming you have a Pydantic schema for the feedback request:
-# schemas.FeedbackSaveRequest is expected to contain: lesson_id, teacher_id, feedback_items (list of {emoji, comment})
+from ..ai import sentiment as sentiment_core
+from ..data_models import schemas, models
+from ..data_models.database import get_db
 
 router = APIRouter(
     prefix="/feedback",
     tags=["Feedback and Sentiment"]
 )
+
 
 @router.post("/", status_code=status.HTTP_201_CREATED)
 def submit_feedback(
@@ -20,46 +19,39 @@ def submit_feedback(
     db: Session = Depends(get_db)
 ) -> Dict[str, Any]:
     """
-    Receives feedback, calculates the sentiment score using local utility,
-    and saves the record to the central PostgreSQL database.
+    Receives a single student's feedback (one emoji tap + optional comment) for
+    a lesson, scores it, and saves the record to the database.
     """
-    
-    # 1. Analyze Feedback to get the aggregated score
-    analysis = sentiment_core.analyze_feedback_items(request.feedback_items)
-    
-    # Extract the average score calculated from the emojis
-    avg_score = analysis.get("avg_score") 
-    
-    if avg_score is None:
+    lesson = db.query(models.Lesson).filter(models.Lesson.id == request.lesson_id).first()
+    if lesson is None:
         raise HTTPException(
-            status_code=status.HTTP_400_BAD_REQUEST,
-            detail="Feedback must contain at least one emoji rating."
+            status_code=status.HTTP_404_NOT_FOUND,
+            detail="Lesson not found."
         )
 
-    # 2. Create the new Feedback ORM object
+    score = sentiment_core.emoji_to_score(request.emoji)
+
     db_feedback = models.Feedback(
         lesson_id=request.lesson_id,
-        teacher_id=request.teacher_id,
-        rating=int(round(avg_score)), # Save the average score rounded to an integer (1-5)
-        sentiment_score=avg_score,    # Save the precise average for analytics
-        # Optionally, save the full items list in the ActivityLog metadata or a dedicated JSON field
+        student_id=request.student_id,
+        emoji=request.emoji,
+        sentiment_score=score,
+        comment=request.comment,
     )
 
-    # 3. Save to Database
     try:
         db.add(db_feedback)
-        
-        # Log the activity
+
         db_log = models.ActivityLog(
-            teacher_id=request.teacher_id,
+            teacher_id=lesson.teacher_id,
             event_type="FEEDBACK_SUBMITTED",
-            metadata={"lesson_id": str(request.lesson_id), "rating": avg_score}
+            event_metadata={"lesson_id": str(request.lesson_id), "score": score}
         )
         db.add(db_log)
 
         db.commit()
         db.refresh(db_feedback)
-        
+
     except Exception as e:
         db.rollback()
         print(f"Database error during feedback submission: {e}")
@@ -71,5 +63,38 @@ def submit_feedback(
     return {
         "message": "Feedback successfully recorded",
         "feedback_id": str(db_feedback.id),
-        "calculated_score": avg_score
+        "score": score
+    }
+
+
+@router.get("/summary")
+async def feedback_summary(
+    lesson_id: Optional[uuid.UUID] = Query(default=None),
+    limit: int = Query(default=15, le=50),
+    db: Session = Depends(get_db)
+) -> Dict[str, Any]:
+    """
+    Pulls the most recent feedback comments (optionally filtered to one lesson)
+    and asks Gemini for an AI-powered sentiment/theme summary.
+    """
+    query = db.query(models.Feedback)
+    if lesson_id is not None:
+        query = query.filter(models.Feedback.lesson_id == lesson_id)
+
+    rows = query.order_by(models.Feedback.timestamp.desc()).limit(limit).all()
+
+    count = len(rows)
+    avg_score = round(sum(r.sentiment_score for r in rows) / count, 2) if count else None
+
+    comments = [r.comment for r in rows if r.comment]
+    ai_summary = None
+    if comments:
+        joined_text = "\n".join(comments)
+        text = await sentiment_core.analyze_with_gemini(joined_text)
+        ai_summary = sentiment_core.extract_json_from_text(text) if text else None
+
+    return {
+        "count": count,
+        "avg_score": avg_score,
+        "ai_summary": ai_summary
     }

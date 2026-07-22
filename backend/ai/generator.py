@@ -25,9 +25,8 @@ if not GEMINI_KEY:
 # Model choice
 MODEL_NAME = "gemini-2.5-flash"
 
-# Define the absolute path to the prompts directory based on user input
-# NOTE: Using a raw string (r"...") is best practice for Windows paths.
-PROMPT_DIR = r"C:\Users\Ukpoweh Gift\Documents\edubridge_ai\backend\ai\prompts"
+# Prompts live alongside this module
+PROMPT_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "prompts")
 
 # Define the Lesson Plan Schema for structured output
 LessonPlanSchema = types.Schema(
@@ -75,10 +74,12 @@ except Exception as e:
     print(f"FATAL: Could not initialize Async client. Ensure 'google-genai' is installed: {e}")
     ASYNC_CLIENT = None
 
-# Curriculum data (optional)
-# --- FIX: Ensure correct relative path and improve error logging ---
-# Path should be relative to this file: ai_core.py (backend/ai/) -> one up (backend/) -> data/ -> curriculum_sample.csv
-CURRICULUM_PATH = os.path.join(r"c:\Users\Ukpoweh Gift\Documents\edubridge_ai\backend\data", "curriculum_sample.csv")
+# Curriculum data (optional) — reuses the data-engineering team's sample file
+# rather than duplicating it under backend/data/.
+CURRICULUM_PATH = os.path.join(
+    os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+    "airflow_mongoDB_postgres", "data", "curriculum_sample.csv"
+)
 try:
     _curr_df = pd.read_csv(CURRICULUM_PATH)
     print("✅ Curriculum data loaded.")

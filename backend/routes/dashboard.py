@@ -3,8 +3,8 @@ from sqlalchemy.orm import Session
 from sqlalchemy import func
 from typing import Dict, Any, List
 
-from ..data_model import schemas, models
-from ..data_model.database import get_db
+from ..data_models import schemas, models
+from ..data_models.database import get_db
 
 # Renamed router for clarity on the dashboard purpose
 router = APIRouter(
@@ -54,7 +54,7 @@ def get_analytics(
             "event_type": log.event_type,
             "teacher_id": str(log.teacher_id),
             "timestamp": log.timestamp.isoformat(),
-            "metadata": log.metadata
+            "metadata": log.event_metadata
         } for log in latest_activity_query
     ]
 
