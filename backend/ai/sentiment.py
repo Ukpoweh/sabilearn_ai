@@ -1,4 +1,5 @@
 import os
+import sys
 import asyncio
 import re
 import json
@@ -10,12 +11,19 @@ from google.genai import types
 # Load environment variables
 load_dotenv()
 
+# Windows consoles default to cp1252, which can't encode the emoji used in
+# the log prints below — force UTF-8 so this doesn't crash on startup.
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+if hasattr(sys.stderr, "reconfigure"):
+    sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+
 # --- Configuration ---
 GEMINI_KEY = os.getenv("GEMINI_API_KEY")
 if not GEMINI_KEY:
     raise RuntimeError("❌ GEMINI_API_KEY not found in .env")
 
-MODEL_NAME = "gemini-2.5-flash"
+MODEL_NAME = "gemini-flash-latest"
 
 # --- Initialize Async Gemini Client ---
 try:

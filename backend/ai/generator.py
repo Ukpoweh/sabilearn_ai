@@ -1,18 +1,26 @@
 import os
+import sys
 import json
 import re
 import time
 import asyncio
 from dotenv import load_dotenv
 # --- UPDATED IMPORTS FOR THE NEW SDK ---
-from google import genai 
-from google.genai import types 
+from google import genai
+from google.genai import types
 # ----------------------------------------
 import pandas as pd
 from typing import Dict, Any, Optional
 
 # Load environment variables (from root .env)
 load_dotenv()
+
+# Windows consoles default to cp1252, which can't encode the emoji used in
+# the log prints below — force UTF-8 so this doesn't crash on startup.
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+if hasattr(sys.stderr, "reconfigure"):
+    sys.stderr.reconfigure(encoding="utf-8", errors="replace")
 
 # --- Configuration and Initialization ---
 
@@ -23,7 +31,7 @@ if not GEMINI_KEY:
     raise RuntimeError("❌ GEMINI_API_KEY not found in .env")
 
 # Model choice
-MODEL_NAME = "gemini-2.5-flash"
+MODEL_NAME = "gemini-flash-latest"
 
 # Prompts live alongside this module
 PROMPT_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "prompts")
