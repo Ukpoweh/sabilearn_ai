@@ -25,10 +25,25 @@ class GenerateLessonRequest(BaseModel):
 
 class LessonSaveRequest(BaseModel):
     lesson_id: Optional[uuid.UUID] = None
-    teacher_id: uuid.UUID
     topic: str
     mode: str
     content_json: LessonContent
+
+
+class TeacherRegisterRequest(BaseModel):
+    username: str
+    password: str
+    name: str
+    school_id: Optional[str] = None
+    subject: Optional[str] = None
+    admin_code: Optional[str] = None
+
+
+class TokenResponse(BaseModel):
+    access_token: str
+    token_type: str = "bearer"
+    role: str
+    username: str
 
 
 class FeedbackSaveRequest(BaseModel):

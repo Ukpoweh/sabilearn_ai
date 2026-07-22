@@ -10,3 +10,5 @@ sqlalchemy
 psycopg2-binary
 streamlit
 requests
+PyJWT
+bcrypt

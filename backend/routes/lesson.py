@@ -6,6 +6,7 @@ import uuid
 from ..data_models import schemas, models
 from ..data_models.database import get_db
 from ..ai import generator
+from ..auth import get_current_teacher
 
 router = APIRouter(
     prefix="/lessons",
@@ -19,18 +20,27 @@ generate_router = APIRouter(tags=["Lesson Generation"])
 
 
 @generate_router.post("/generate_lesson")
-async def generate_lesson_endpoint(request: schemas.GenerateLessonRequest) -> Dict[str, Any]:
+async def generate_lesson_endpoint(
+    request: schemas.GenerateLessonRequest,
+    current_teacher: models.Teacher = Depends(get_current_teacher),
+) -> Dict[str, Any]:
     """
     Generates a contextual lesson plan via Gemini. Does not persist anything —
     the teacher reviews the result and calls POST /lessons to save it.
     """
-    return await generator.generate_lesson(
+    result = await generator.generate_lesson(
         subject=request.subject,
         topic=request.topic,
         level=request.level,
         language=request.language,
         mode=request.mode,
     )
+    if result is None:
+        raise HTTPException(
+            status_code=status.HTTP_502_BAD_GATEWAY,
+            detail="Lesson generation failed (Gemini returned no usable content). Please try again.",
+        )
+    return result
 
 
 # ----------------------------------------------------
@@ -39,7 +49,8 @@ async def generate_lesson_endpoint(request: schemas.GenerateLessonRequest) -> Di
 @router.post("/", status_code=status.HTTP_201_CREATED)
 def save_lesson_metadata(
     request: schemas.LessonSaveRequest,
-    db: Session = Depends(get_db)
+    db: Session = Depends(get_db),
+    current_teacher: models.Teacher = Depends(get_current_teacher),
 ) -> Dict[str, Any]:
     """
     Saves the generated lesson plan content and metadata to the database.
@@ -51,7 +62,7 @@ def save_lesson_metadata(
     # 1. Create the Lesson ORM Object
     db_lesson = models.Lesson(
         id=lesson_id,
-        teacher_id=request.teacher_id,
+        teacher_id=current_teacher.id,
         topic=request.topic,
         mode=request.mode,
         content_json=request.content_json.model_dump()
@@ -72,7 +83,7 @@ def save_lesson_metadata(
 
     # 3. Log activity (Lesson Saved)
     db_log = models.ActivityLog(
-        teacher_id=request.teacher_id,
+        teacher_id=current_teacher.id,
         event_type="LESSON_SAVED",
         event_metadata={"lesson_id": str(db_lesson.id), "topic": request.topic}
     )
@@ -90,13 +101,13 @@ def save_lesson_metadata(
 # ----------------------------------------------------
 @router.get("/", response_model=List[Dict[str, Any]])
 def list_teacher_lessons(
-    teacher_id: uuid.UUID, # Query parameter for filtering
-    db: Session = Depends(get_db)
+    db: Session = Depends(get_db),
+    current_teacher: models.Teacher = Depends(get_current_teacher),
 ) -> List[Dict[str, Any]]:
     """
-    Retrieves a list of lesson summaries for a given teacher.
+    Retrieves a list of lesson summaries for the authenticated teacher.
     """
-    lessons = db.query(models.Lesson).filter(models.Lesson.teacher_id == teacher_id).all()
+    lessons = db.query(models.Lesson).filter(models.Lesson.teacher_id == current_teacher.id).all()
 
     if not lessons:
         return []

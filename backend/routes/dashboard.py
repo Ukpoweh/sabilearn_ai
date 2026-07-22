@@ -5,6 +5,7 @@ from typing import Dict, Any, List
 
 from ..data_models import schemas, models
 from ..data_models.database import get_db
+from ..auth import require_admin
 
 # Renamed router for clarity on the dashboard purpose
 router = APIRouter(
@@ -16,7 +17,8 @@ router = APIRouter(
 # ----------------------------------------------------
 @router.get("/analytics", response_model=schemas.AnalyticsResponse)
 def get_analytics(
-    db: Session = Depends(get_db)
+    db: Session = Depends(get_db),
+    _admin: models.Teacher = Depends(require_admin),
 ) -> Dict[str, Any]:
     """
     Retrieves aggregated analytics data for the teacher dashboard, 

@@ -8,20 +8,20 @@ import json
 # Assuming your FastAPI backend is running on the default port
 FASTAPI_BASE_URL = "http://localhost:8000"
 
-# NOTE: Use a mock UUID. In a real app, this would come from Firebase Auth.
-# Ensure this ID is used when testing the POST /lessons endpoint.
-MOCK_TEACHER_ID = "a1b2c3d4-e5f6-7890-1234-567890abcdef"
-
 EMOJI_OPTIONS = {"😊 I understood!": "😊", "😐 It was okay": "😐", "😞 I'm confused": "😞"}
+
+
+def _auth_headers(token: str) -> Dict[str, str]:
+    return {"Authorization": f"Bearer {token}"}
 
 
 # --- Data Fetching Functions ---
 
 @st.cache_data(ttl=60) # Cache data for 60 seconds to prevent excessive API calls
-def fetch_analytics_data() -> Optional[Dict[str, Any]]:
-    """Fetches aggregated analytics data from the FastAPI backend."""
+def fetch_analytics_data(token: str) -> Optional[Dict[str, Any]]:
+    """Fetches aggregated analytics data from the FastAPI backend (admin only)."""
     try:
-        response = requests.get(f"{FASTAPI_BASE_URL}/analytics")
+        response = requests.get(f"{FASTAPI_BASE_URL}/analytics", headers=_auth_headers(token))
         response.raise_for_status() # Raise an exception for bad status codes (4xx or 5xx)
         return response.json()
     except requests.exceptions.RequestException as e:
@@ -30,21 +30,78 @@ def fetch_analytics_data() -> Optional[Dict[str, Any]]:
         return None
 
 @st.cache_data(ttl=60)
-def fetch_teacher_lessons(teacher_id: str) -> List[Dict[str, Any]]:
-    """Fetches a list of lessons created by a specific teacher."""
+def fetch_teacher_lessons(token: str) -> List[Dict[str, Any]]:
+    """Fetches the logged-in teacher's own lessons."""
     try:
-        # Use the /lessons endpoint with the teacher_id query parameter
-        response = requests.get(f"{FASTAPI_BASE_URL}/lessons/", params={"teacher_id": teacher_id})
+        response = requests.get(f"{FASTAPI_BASE_URL}/lessons/", headers=_auth_headers(token))
         response.raise_for_status()
         return response.json()
     except requests.exceptions.RequestException as e:
-        st.error(f"❌ Error fetching teacher lessons: {e}")
+        st.error(f"❌ Error fetching your lessons: {e}")
         return []
+
+# --- Auth Screens ---
+
+def render_login():
+    """Login + registration screen shown when no one is logged in."""
+    st.title("🌍 SabiLearn AI")
+
+    login_tab, register_tab = st.tabs(["Log in", "Register"])
+
+    with login_tab:
+        with st.form("login_form"):
+            username = st.text_input("Username")
+            password = st.text_input("Password", type="password")
+            submitted = st.form_submit_button("Log in")
+
+        if submitted:
+            try:
+                response = requests.post(
+                    f"{FASTAPI_BASE_URL}/auth/token",
+                    data={"username": username, "password": password},
+                )
+                response.raise_for_status()
+                data = response.json()
+                st.session_state["token"] = data["access_token"]
+                st.session_state["role"] = data["role"]
+                st.session_state["username"] = data["username"]
+                st.rerun()
+            except requests.exceptions.RequestException as e:
+                st.error(f"❌ Login failed: {e}")
+
+    with register_tab:
+        with st.form("register_form"):
+            new_username = st.text_input("Choose a username")
+            new_password = st.text_input("Choose a password", type="password")
+            name = st.text_input("Full name")
+            school_id = st.text_input("School (optional)", value="")
+            subject = st.text_input("Subject (optional)", value="")
+            admin_code = st.text_input("Admin code (optional, leave blank for teacher accounts)", value="")
+            submitted_reg = st.form_submit_button("Register")
+
+        if submitted_reg:
+            try:
+                response = requests.post(
+                    f"{FASTAPI_BASE_URL}/auth/register",
+                    json={
+                        "username": new_username,
+                        "password": new_password,
+                        "name": name,
+                        "school_id": school_id or None,
+                        "subject": subject or None,
+                        "admin_code": admin_code or None,
+                    },
+                )
+                response.raise_for_status()
+                st.success("Account created! Switch to the Log in tab to sign in.")
+            except requests.exceptions.RequestException as e:
+                st.error(f"❌ Registration failed: {e}")
+
 
 # --- Streamlit UI Layout ---
 
 def render_dashboard(data: Dict[str, Any]):
-    """Renders the main dashboard elements."""
+    """Renders the global admin dashboard elements."""
 
     st.title("🌍 SabiLearn AI Dashboard")
     st.subheader("Real-Time Metrics Across All Educators")
@@ -116,21 +173,22 @@ def render_dashboard(data: Dict[str, Any]):
         else:
             st.info("No recent activity logged.")
 
-    st.markdown("---")
 
-    # 3. Teacher's Personal Lessons
-    st.subheader(f"Your Lessons (ID: {MOCK_TEACHER_ID[:8]}...)")
-    teacher_lessons = fetch_teacher_lessons(MOCK_TEACHER_ID)
+def render_my_lessons(token: str, username: str):
+    """Teacher's own saved lessons — available to every logged-in user."""
+    st.title("📚 My Lessons")
+    st.subheader(f"Lessons saved by {username}")
+
+    teacher_lessons = fetch_teacher_lessons(token)
 
     if teacher_lessons:
-        # Select key fields for display
         lessons_df = pd.DataFrame(teacher_lessons)
         lessons_df['created_at'] = pd.to_datetime(lessons_df['created_at']).dt.strftime('%Y-%m-%d')
         lessons_df = lessons_df[['title', 'topic', 'mode', 'created_at']]
         lessons_df.columns = ['Lesson Title', 'Subject Topic', 'Mode', 'Created On']
         st.dataframe(lessons_df, use_container_width=True)
     else:
-        st.warning(f"No lessons found for teacher ID starting with {MOCK_TEACHER_ID[:8]}...")
+        st.warning("No lessons found yet — generate and save one first.")
 
 
 def render_generate_lesson():
@@ -148,6 +206,8 @@ def render_generate_lesson():
             mode = st.selectbox("Mode", ["urban", "rural"])
         submitted = st.form_submit_button("Generate Lesson")
 
+    token = st.session_state["token"]
+
     if submitted:
         with st.spinner("Generating lesson with Gemini..."):
             try:
@@ -160,6 +220,7 @@ def render_generate_lesson():
                         "language": language,
                         "mode": mode,
                     },
+                    headers=_auth_headers(token),
                 )
                 response.raise_for_status()
                 st.session_state["generated_lesson"] = response.json()
@@ -204,11 +265,11 @@ def render_generate_lesson():
                 response = requests.post(
                     f"{FASTAPI_BASE_URL}/lessons/",
                     json={
-                        "teacher_id": MOCK_TEACHER_ID,
                         "topic": meta.get("topic", ""),
                         "mode": meta.get("mode", "urban"),
                         "content_json": lesson,
                     },
+                    headers=_auth_headers(token),
                 )
                 response.raise_for_status()
                 result = response.json()
@@ -220,10 +281,16 @@ def render_generate_lesson():
 
 
 def render_submit_feedback():
-    """Student flow: tap an emoji + optional comment for a lesson."""
+    """Student flow: tap an emoji + optional comment for a lesson.
+
+    Uses the logged-in teacher's own lesson list — this screen is handed to
+    students on the teacher's device/tab during class, so no separate student
+    login exists (anonymous by design).
+    """
     st.title("🙋 Submit Feedback")
 
-    teacher_lessons = fetch_teacher_lessons(MOCK_TEACHER_ID)
+    token = st.session_state["token"]
+    teacher_lessons = fetch_teacher_lessons(token)
     if not teacher_lessons:
         st.warning("No saved lessons yet — generate and save one first.")
         return
@@ -259,15 +326,33 @@ def render_submit_feedback():
 if __name__ == "__main__":
     st.set_page_config(layout="wide")
 
-    page = st.sidebar.radio("Navigate", ["Dashboard", "Generate Lesson", "Submit Feedback"])
-
-    if page == "Generate Lesson":
-        render_generate_lesson()
-    elif page == "Submit Feedback":
-        render_submit_feedback()
+    if "token" not in st.session_state:
+        render_login()
     else:
-        analytics_data = fetch_analytics_data()
-        if analytics_data:
-            render_dashboard(analytics_data)
+        role = st.session_state.get("role", "teacher")
+        token = st.session_state["token"]
+
+        st.sidebar.write(f"Logged in as **{st.session_state.get('username')}** ({role})")
+        if st.sidebar.button("Log out"):
+            for key in ("token", "role", "username"):
+                st.session_state.pop(key, None)
+            st.rerun()
+        st.sidebar.markdown("---")
+
+        nav_options = ["Generate Lesson", "My Lessons", "Submit Feedback"]
+        if role == "admin":
+            nav_options.insert(0, "Dashboard")
+        page = st.sidebar.radio("Navigate", nav_options)
+
+        if page == "Generate Lesson":
+            render_generate_lesson()
+        elif page == "My Lessons":
+            render_my_lessons(token, st.session_state.get("username", ""))
+        elif page == "Submit Feedback":
+            render_submit_feedback()
         else:
-            st.warning("⚠️ Waiting for the backend service to become available to display the dashboard.")
+            analytics_data = fetch_analytics_data(token)
+            if analytics_data:
+                render_dashboard(analytics_data)
+            else:
+                st.warning("⚠️ Waiting for the backend service to become available to display the dashboard.")

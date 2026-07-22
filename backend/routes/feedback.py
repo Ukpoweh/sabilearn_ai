@@ -6,6 +6,7 @@ import uuid
 from ..ai import sentiment as sentiment_core
 from ..data_models import schemas, models
 from ..data_models.database import get_db
+from ..auth import get_current_teacher
 
 router = APIRouter(
     prefix="/feedback",
@@ -71,7 +72,8 @@ def submit_feedback(
 async def feedback_summary(
     lesson_id: Optional[uuid.UUID] = Query(default=None),
     limit: int = Query(default=15, le=50),
-    db: Session = Depends(get_db)
+    db: Session = Depends(get_db),
+    current_teacher: models.Teacher = Depends(get_current_teacher),
 ) -> Dict[str, Any]:
     """
     Pulls the most recent feedback comments (optionally filtered to one lesson)
@@ -79,7 +81,18 @@ async def feedback_summary(
     """
     query = db.query(models.Feedback)
     if lesson_id is not None:
+        lesson = db.query(models.Lesson).filter(models.Lesson.id == lesson_id).first()
+        if lesson is None:
+            raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Lesson not found.")
+        if current_teacher.role != "admin" and lesson.teacher_id != current_teacher.id:
+            raise HTTPException(
+                status_code=status.HTTP_403_FORBIDDEN,
+                detail="Not authorized to view this lesson's feedback.",
+            )
         query = query.filter(models.Feedback.lesson_id == lesson_id)
+    elif current_teacher.role != "admin":
+        own_lesson_ids = db.query(models.Lesson.id).filter(models.Lesson.teacher_id == current_teacher.id)
+        query = query.filter(models.Feedback.lesson_id.in_(own_lesson_ids))
 
     rows = query.order_by(models.Feedback.timestamp.desc()).limit(limit).all()
 

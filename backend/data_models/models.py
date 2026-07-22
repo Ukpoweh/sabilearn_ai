@@ -16,11 +16,24 @@ def _utcnow():
     return datetime.now(timezone.utc)
 
 
+class Teacher(Base):
+    __tablename__ = "teachers"
+
+    id = Column(UUID(as_uuid=True), primary_key=True, default=_uuid4)
+    username = Column(String, unique=True, nullable=False, index=True)
+    password_hash = Column(String, nullable=False)
+    name = Column(String, nullable=False)
+    school_id = Column(String, nullable=True)
+    subject = Column(String, nullable=True)
+    role = Column(String, nullable=False, default="teacher")  # "teacher" | "admin"
+    created_at = Column(DateTime(timezone=True), default=_utcnow, nullable=False)
+
+
 class Lesson(Base):
     __tablename__ = "lessons"
 
     id = Column(UUID(as_uuid=True), primary_key=True, default=_uuid4)
-    teacher_id = Column(UUID(as_uuid=True), nullable=False, index=True)
+    teacher_id = Column(UUID(as_uuid=True), ForeignKey("teachers.id"), nullable=False, index=True)
     topic = Column(String, nullable=False)
     mode = Column(String, nullable=False)
     content_json = Column(JSON, nullable=False)
@@ -48,7 +61,7 @@ class ActivityLog(Base):
     __tablename__ = "activity_logs"
 
     id = Column(UUID(as_uuid=True), primary_key=True, default=_uuid4)
-    teacher_id = Column(UUID(as_uuid=True), nullable=False, index=True)
+    teacher_id = Column(UUID(as_uuid=True), ForeignKey("teachers.id"), nullable=False, index=True)
     event_type = Column(String, nullable=False)
     # Mapped to DB column "metadata" — the Python attribute can't be named
     # `metadata` since that's reserved by SQLAlchemy's declarative Base.
